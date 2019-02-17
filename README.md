@@ -1,4 +1,11 @@
 # boun-course-planner
+Course Planning Tool for Boğaziçi University
+
+## Features
+* Course search
+* Supports Lab and PS hours
+* Shows all the necessary info about courses
+* Show individual and total credits of selected courses
 
 ## Project setup
 ```
