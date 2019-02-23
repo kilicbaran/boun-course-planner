@@ -354,6 +354,7 @@
 <script>
 import CourseBadge from "./components/CourseBadge.vue";
 import debounce from "lodash.debounce";
+import "./main.css";
 
 export default {
   name: "app",
@@ -678,52 +679,5 @@ export default {
 </script>
 
 <style>
-html {
-  font-size: 0.875rem;
-}
 
-html,
-body {
-  background-color: #f8f9fa !important;
-}
-
-.table {
-  margin-bottom: 0px !important;
-}
-
-b-row {
-  flex: 1 1 0;
-}
-
-.list-group.striped .list-group-item:nth-of-type(odd) {
-  background-color: rgba(0, 0, 0, 0.04);
-}
-
-input,
-select {
-  font-size: 16px !important; /* to prevent zoom on safari*/
-}
-
-@media screen and (min-width: 992px) {
-  html,
-  body,
-  #app {
-    height: 100vh;
-    width: 100vw;
-    max-width: 100vw;
-    max-height: 100vh;
-  }
-  .h-100-lg {
-    height: 100%;
-  }
-  .overflow-y-auto {
-    flex: 1 1 auto !important;
-    min-height: 0px;
-    overflow-y: auto;
-    overflow-x: hidden;
-  }
-  .overflow-hidden {
-    overflow: hidden;
-  }
-}
 </style>
