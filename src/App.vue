@@ -364,8 +364,9 @@ export default {
   data() {
     return {
       publicPath: process.env.BASE_URL,
-      semester: "2018-2019-2",
+      semester: "2018-2019-3",
       semesterOptions: [
+        "2018-2019-3",
         "2018-2019-2",
         "2018-2019-1",
         "2017-2018-3",
