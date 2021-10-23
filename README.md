@@ -1,32 +1,49 @@
-# boun-course-planner
+# BOUN Course Planner
 
-Course Planning Tool for Boğaziçi University
+Course schedule planning tool for Boğaziçi University
 
 ## Features
+
 * Course search
 * Supports Lab and PS hours
 * Shows all the necessary info about courses
-* Show individual and total credits of selected courses
+* Shows individual and total credits of selected courses
 
-## Project setup
-```
+## Built With
+
+* Vite
+* Svelte
+* Tailwind CSS
+
+### Project Scaffolding
+
+This project is scaffolded with these commands:
+```sh
+npm init vite@latest
+# choose svelte, cd into project directory
+npx svelte-add@latest tailwindcss
 npm install
 ```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## Getting Started
 
-### Lints and fixes files
-```
-npm run lint
-```
+### Prerequisites
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+* Node.js
+* npm
+
+### Installation
+
+1. Clone the repo
+   ```sh
+   git clone https://github.com/kilicbaran/boun-course-planner.git
+   ```
+3. Install NPM packages
+   ```sh
+   npm install
+   ```
+4. Start up a development server
+   ```sh
+   npm run dev -- --open
+   ```
