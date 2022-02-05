@@ -27,6 +27,14 @@
             throw new Error(res.statusText);
         }
         const semesterCourses = await res.json();
+        const tempselectedCourseNames = $selectedCourseNamesAll[semester] || [];
+        // Remove the unlisted courses from selectedCourseNamesAll
+        // This can happen when a user selectes a course, but then, the course is 
+        // removed by university from the course list.
+        const availableCourses = tempselectedCourseNames.filter((courseName) => {
+            return Object.prototype.hasOwnProperty.call(semesterCourses,courseName);
+        });
+        selectedCourseNamesAll.setCourseList(availableCourses);
         $semesterData[semester] = semesterCourses;
     }
 
@@ -63,7 +71,7 @@
                 {semester}
             </option>
         {:else}
-            <option value="">Semester options loading</option>
+            <option value="">Loading</option>
         {/each}
     </select>
     <div class="ml-3 absolute inset-y-0 right-0 flex items-center pr-1 pointer-events-none text-gray-500 dark:text-gray-400">

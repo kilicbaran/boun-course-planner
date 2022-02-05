@@ -18,6 +18,15 @@
         return selectedCourseNames
             .filter((c) => !/(LAB|P.S.)/.test(c))
             .map((c) => {
+                if (!curSemesterData) {
+                    return 0;
+                }
+                if (!Object.prototype.hasOwnProperty.call(curSemesterData,c)) {
+                    return 0;
+                }
+                if (!Object.prototype.hasOwnProperty.call(curSemesterData[c],"credits")) {
+                    return 0;
+                }
                 return Number(curSemesterData[c].credits);
             })
             .reduce((a, b) => a + b, 0);
