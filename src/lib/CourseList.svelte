@@ -38,17 +38,17 @@
 </script>
 
 <div
-    class="mt-4 shadow bg-white dark:bg-gray-800 dark:text-white divide-y dark:divide-gray-500 rounded-lg overflow-hidden flex-shrink-0"
+    class="mt-4 shadow bg-white dark:bg-zinc-800 dark:text-white divide-y dark:divide-zinc-500 rounded-lg overflow-hidden shrink-0"
     on:mouseleave={() => hoveredCourse.set("")}
 >
-    <div class="py-2 px-4 bg-gray-50 dark:bg-gray-700 flex items-center">
+    <div class="py-2 px-4 bg-zinc-50 dark:bg-zinc-700 flex items-center">
         <span class="font-medium">Courses</span>
         <span
             class="ml-2 text-xs bg-blue-50 dark:bg-blue-900 text-blue-600 dark:text-blue-400 border border-blue-600 dark:border-blue-400 border-opacity-50 rounded-full px-1"
             >{courseCount}</span
         >
     </div>
-    <div class="divide-y dark:divide-gray-500" on:mouseleave={() => hoveredCourse.set("")}>
+    <div class="divide-y dark:divide-zinc-500" on:mouseleave={() => hoveredCourse.set("")}>
         {#if $curSemesterData && $selectedCourseNames && $selectedCourseNames.length > 0}
             {#each $selectedCourseNames as courseName}
                 <div
@@ -56,7 +56,7 @@
                     on:mouseenter={() => hoveredCourse.set(courseName)}
                 >
                     <span
-                        class="cursor-pointer text-gray-600 dark:text-gray-400"
+                        class="cursor-pointer text-zinc-600 dark:text-zinc-400"
                         on:click={() =>
                             {selectedCourseNamesAll.delCourse(courseName);hoveredCourse.reset()}}
                     >
@@ -72,13 +72,13 @@
             {/each}
         {:else}
             <div
-                class="text-gray-500 text-sm h-8 flex flex-col justify-center items-center"
+                class="text-zinc-500 text-sm h-8 flex flex-col justify-center items-center"
             >
                 You have no selected course
             </div>
         {/if}
     </div>
-    <div class="py-2 px-4  bg-gray-50 dark:bg-gray-700 text-green-700 dark:text-green-300 font-medium">
+    <div class="py-2 px-4  bg-zinc-50 dark:bg-zinc-700 text-green-700 dark:text-green-300 font-medium">
         Total Credits: {totalCredit}
     </div>
 </div>

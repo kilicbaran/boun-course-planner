@@ -60,13 +60,13 @@
 
 <div
     class="py-2 px-4 flex flex-row dark:text-white {striped
-        ? 'bg-coolGray-50 dark:bg-coolGray-700'
-        : 'bg-white dark:bg-gray-800'}"
+        ? 'bg-gray-50 dark:bg-gray-700'
+        : 'bg-white dark:bg-zinc-800'}"
     on:mouseenter={() => hoveredCourse.set(courseName)}
 >
     <div
-        class="flex-grow {conflicts.length > 0
-            ? 'text-gray-400 dark:text-gray-500'
+        class="grow {conflicts.length > 0
+            ? 'text-zinc-400 dark:text-zinc-500'
             : ''}"
     >
         <div class="flex items-center flex-wrap">
@@ -82,8 +82,8 @@
                 {/if}
                 <span
                     class="text-xs {conflicts.length > 0
-                        ? 'text-gray-400 dark:text-gray-500'
-                        : 'text-gray-500 dark:text-gray-400'}"
+                        ? 'text-zinc-400 dark:text-zinc-500'
+                        : 'text-zinc-500 dark:text-zinc-400'}"
                 >
                     {#if "credits" in course}
                         <span class="mr-2">{course.credits} Cr</span>
@@ -113,8 +113,8 @@
         {#if "requiredForDept" in course}
             <div
                 class="text-sm {conflicts.length > 0
-                    ? 'text-gray-400 dark:text-gray-500'
-                    : 'text-gray-500'}"
+                    ? 'text-zinc-400 dark:text-zinc-500'
+                    : 'text-zinc-500'}"
             >
                 Required for department: {course.requiredForDept.join(", ")}
             </div>
@@ -122,14 +122,14 @@
         {#if "dept" in course}
             <div
                 class="text-sm {conflicts.length > 0
-                    ? 'text-gray-400 dark:text-gray-500'
-                    : 'text-gray-500'}"
+                    ? 'text-zinc-400 dark:text-zinc-500'
+                    : 'text-zinc-500'}"
             >
                 Departments: {course.dept.join(", ")}
             </div>
         {/if}
     </div>
-    <div class="flex flex-col items-end flex-shrink-0">
+    <div class="flex flex-col items-end shrink-0">
         <div class="flex flex-col-reverse sm:flex-row ">
             <a
                 href={syllabusLink}

@@ -63,7 +63,7 @@
 
 <div class="relative">
     <select
-        class="text-black dark:text-white bg-white dark:bg-gray-700 appearance-none focus:outline-none focus:ring-2 focus:ring-blue-500 p-1 pr-5 rounded-sm"
+        class="text-black dark:text-white bg-white dark:bg-zinc-700 appearance-none focus:outline-none focus:ring-2 focus:ring-blue-500 p-1 pr-5 rounded-sm"
         bind:value={$currentSemester}
     >
         {#each semesters as semester}
@@ -74,7 +74,7 @@
             <option value="">Loading</option>
         {/each}
     </select>
-    <div class="ml-3 absolute inset-y-0 right-0 flex items-center pr-1 pointer-events-none text-gray-500 dark:text-gray-400">
+    <div class="ml-3 absolute inset-y-0 right-0 flex items-center pr-1 pointer-events-none text-zinc-500 dark:text-zinc-400">
         <IconSelector />
     </div>
     

@@ -1,4 +1,4 @@
-<div class="text-center text-gray-500 py-3">
+<div class="text-center text-zinc-500 py-3">
     <p class="text-sm">Good luck in the new semester!</p>
     <small class="text-xs">
         This website has no affiliation with Boğaziçi University. Please check

@@ -6,15 +6,15 @@
   import GoogleAnalytics from "./lib/GoogleAnalytics.svelte";
 </script>
 
-<main class="md:max-h-screen min-h-screen md:h-screen flex flex-col bg-gray-100 dark:bg-black">
+<main class="md:max-h-screen min-h-screen md:h-screen flex flex-col bg-zinc-100 dark:bg-black">
   <Header />
 
-  <div class="flex flex-col md:flex-row flex-grow md:overflow-hidden">
-    <div class="w-full md:w-5/12 p-2 flex flex-col flex-shrink-0 md:flex-grow md:overflow-y-auto md:min-h-0">
+  <div class="flex flex-col md:flex-row grow md:overflow-hidden">
+    <div class="w-full md:w-5/12 p-2 flex flex-col shrink-0 md:grow md:overflow-y-auto md:min-h-0">
       <Timetable />
       <CourseList />
     </div>
-    <div class="w-full md:w-7/12 p-2 flex flex-col flex-grow h-full">
+    <div class="w-full md:w-7/12 p-2 flex flex-col grow h-full">
       <CourseCatalogue />
     </div>
   </div>

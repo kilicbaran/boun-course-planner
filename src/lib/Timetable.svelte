@@ -125,7 +125,7 @@
 </script>
 
 <div
-    class="bg-white dark:bg-gray-800 dark:text-white shadow rounded-lg w-full flex-shrink-0  overflow-x-auto"
+    class="bg-white dark:bg-gray-800 dark:text-white shadow rounded-lg w-full shrink-0  overflow-x-auto"
 >
     <table
         class="table-fixed text-center w-full text-sm lg:text-base antialiased tracking-tight sm:tracking-normal"
@@ -145,7 +145,7 @@
             {#each tableItems as row, i}
                 <tr
                     class={i % 2 == 0
-                        ? "bg-coolGray-50 dark:bg-coolGray-700"
+                        ? "bg-gray-50 dark:bg-gray-700"
                         : ""}
                 >
                     <th class="md:p-1"> {row["hour"]} </th>
