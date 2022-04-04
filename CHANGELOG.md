@@ -7,6 +7,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.1.0] - 2022-04-04
+
+### Added
+
+- Course categories as badges below search bar
+
+### Changes
+
+- Update dependencies
+
 ## [1.0.2] - 2022-02-05
 
 ### Changes
@@ -76,6 +86,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Display individual and total credit of selected courses.
 
 [unreleased]: https://github.com/kilicbaran/boun-course-planner/compare/v1.0.0...HEAD
+[1.1.0]: https://github.com/kilicbaran/boun-course-planner/compare/v1.0.2...v1.1.0
 [1.0.2]: https://github.com/kilicbaran/boun-course-planner/compare/v1.0.1...v1.0.2
 [1.0.1]: https://github.com/kilicbaran/boun-course-planner/compare/v1.0.0...v1.0.1
 [1.0.0]: https://github.com/kilicbaran/boun-course-planner/compare/v0.2.0...v1.0.0

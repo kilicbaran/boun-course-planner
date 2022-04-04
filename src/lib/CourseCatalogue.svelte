@@ -1,63 +1,77 @@
 <script>
-    import Course from "./Course.svelte";
-    import Footer from "./Footer.svelte";
-    import IconSearch from "./IconSearch.svelte";
-    import {
-        searchQuery,
-        searchedCourseNames,
-        selectedCourseNames,
-        hoveredCourse,
-        currentSemester,
-        curSemesterData,
-    } from "./stores.js";
+  import Course from "./Course.svelte";
+  import Footer from "./Footer.svelte";
+  import IconSearch from "./IconSearch.svelte";
+  import {
+    searchQuery,
+    searchedCourseNames,
+    selectedCourseNames,
+    hoveredCourse,
+    currentSemester,
+    curSemesterData,
+    curSemCategories,
+  } from "./stores.js";
 
-    // import VirtualList from '@sveltejs/svelte-virtual-list';
+  // import VirtualList from '@sveltejs/svelte-virtual-list';
 
-    let input;
+  let input;
 
-    function blurOnEnter(e) {
-        if(e.code === "Enter"){
-            input.blur();
-        }
+  function blurOnEnter(e) {
+    if (e.code === "Enter") {
+      input.blur();
     }
+  }
 </script>
 
 <div class="grow-0 shrink-0 relative w-full shadow rounded-lg overflow-hidden">
-    <div
-        class="text-zinc-400 dark:text-zinc-300 absolute top-1/2 transform -translate-y-1/2 left-3"
-    >
-        <IconSearch />
-    </div>
+  <div
+    class="text-zinc-400 dark:text-zinc-300 absolute top-1/2 transform -translate-y-1/2 left-3"
+  >
+    <IconSearch />
+  </div>
 
-    <input
-        bind:this="{input}"
-        class="pl-10 py-1 px-2 w-full   dark:text-white dark:bg-zinc-800 placeholder-zinc-500 dark:placeholder-zinc-300 focus:outline-none focus:ring-2 focus:ring-blue-500 antialiased"
-        type="text"
-        bind:value={$searchQuery}
-        placeholder="Search courses"
-        autocomplete="off"
-        autocorrect="off"
-        autocapitalize="none"
-        spellcheck="false"
-        on:keyup="{blurOnEnter}"
-    />
+  <input
+    bind:this={input}
+    class="pl-10 py-1 px-2 w-full   dark:text-white dark:bg-zinc-800 placeholder-zinc-500 dark:placeholder-zinc-300 focus:outline-none focus:ring-2 focus:ring-blue-500 antialiased"
+    type="text"
+    bind:value={$searchQuery}
+    placeholder="Search courses"
+    autocomplete="off"
+    autocorrect="off"
+    autocapitalize="none"
+    spellcheck="false"
+    on:keyup={blurOnEnter}
+  />
 </div>
 
 {#if $searchedCourseNames.length > 0}
-    <div
-        class="mt-2 md:overflow-y-auto overflow-x-hidden flex flex-col md:min-h-0  shrink shadow rounded-lg bg-white dark:bg-zinc-800 divide-y dark:divide-zinc-500"
-        on:mouseleave={() => hoveredCourse.set("")}
-    >
-        {#each $searchedCourseNames as courseName, i}
-            <Course
-                {courseName}
-                course={$curSemesterData[courseName]}
-                striped={i % 2 == 0}
-                currentSemester={$currentSemester}
-                selected={$selectedCourseNames.includes(courseName)}
-            />
-        {/each}
-    </div>
+  <div
+    class="mt-4 md:overflow-y-auto overflow-x-hidden flex flex-col md:min-h-0  shrink shadow rounded-lg bg-white dark:bg-zinc-800 divide-y dark:divide-zinc-500"
+    on:mouseleave={() => hoveredCourse.set("")}
+  >
+    {#each $searchedCourseNames as courseName, i}
+      <Course
+        {courseName}
+        course={$curSemesterData[courseName]}
+        striped={i % 2 == 0}
+        currentSemester={$currentSemester}
+        selected={$selectedCourseNames.includes(courseName)}
+      />
+    {/each}
+  </div>
+{/if}
+
+{#if $curSemCategories.length > 0 && $searchQuery == ""}
+  <div class="mt-4">
+    {#each $curSemCategories as category}
+      <button
+        class="rounded-full mr-2 mb-2 px-2.5 py-1 text-sm font-semibold bg-white dark:bg-zinc-800 dark:text-white"
+        on:click={() => {
+          $searchQuery = category;
+        }}>{category}</button
+      >
+    {/each}
+  </div>
 {/if}
 
 <!-- {#if $searchedCourseNames.length > 0}
@@ -75,5 +89,5 @@
 {/if} -->
 
 <div class="block md:hidden">
-    <Footer />
+  <Footer />
 </div>

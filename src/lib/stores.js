@@ -157,3 +157,21 @@ export const selectedCourseNames = derived([currentSemester, selectedCourseNames
         return $selectedCourseNamesAll[$currentSemester] || [];
     }
 );
+
+export const curSemCategories = derived([curSemesterData],
+    ([$curSemesterData]) => {
+        if (!$curSemesterData) {
+            return [];
+        }
+        const cat = new Set();
+        for (const [courseName, courseInfo] of Object.entries($curSemesterData)) {
+            // Get course category by matching the longest letter sequence
+            const re = /[$A-Za-z]+/g;
+            const matchArray = courseName.match(re);
+            if (matchArray.length > 0) {
+                cat.add(matchArray[0]);
+            }
+        }
+        return Array.from(cat);
+    }
+);
