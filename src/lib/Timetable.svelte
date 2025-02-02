@@ -6,10 +6,51 @@
         curSemesterData,
     } from "./stores.js";
 
-    $: calculateTable =
-        $currentSemester != "" &&
+    // Loading and error states
+    let isLoading = true;
+    let error = null;
+
+    // Validate semester data is properly loaded
+    $: isDataValid = $currentSemester !== "" &&
         $curSemesterData !== undefined &&
-        $curSemesterData !== null;
+        $curSemesterData !== null &&
+        typeof $curSemesterData === 'object';
+
+    // Only calculate table when data is valid
+    $: calculateTable = isDataValid && !error;
+
+    // Reset error state when semester changes
+    $: if ($currentSemester) {
+        error = null;
+        isLoading = true;
+        // Add small delay to ensure data is loaded
+        setTimeout(() => {
+            isLoading = false;
+        }, 100);
+    }
+
+    // Safely access course data with validation
+    function getCourseData(courseName, semesterData) {
+        try {
+            if (!semesterData || typeof semesterData !== 'object') {
+                throw new Error('Invalid semester data');
+            }
+            
+            const courseData = semesterData[courseName];
+            if (!courseData) {
+                throw new Error(`Course ${courseName} not found`);
+            }
+
+            if (!Array.isArray(courseData.days) || !Array.isArray(courseData.hours)) {
+                throw new Error(`Invalid course data format for ${courseName}`);
+            }
+
+            return courseData;
+        } catch (e) {
+            error = e.message;
+            return null;
+        }
+    }
 
     $: courseOnSaturday = getCourseOnSaturday(
         calculateTable,
@@ -31,34 +72,32 @@
         curSemesterData,
         hoveredCourse
     ) {
-        if (!calculateTable) {
+        if (!calculateTable || !curSemesterData) {
             return false;
         }
 
-        for (let i = 0; i < selectedCourseNames.length; i++) {
-            const courseName = selectedCourseNames[i];
-            if (courseName in curSemesterData) {
-                const days = curSemesterData[courseName].days;
-                if (days) {
-                    for (let j = 0; j < days.length; j++) {
-                        if (days[j] == "St") {
-                            return true;
-                        }
-                    }
+        try {
+            // Check selected courses
+            for (const courseName of selectedCourseNames) {
+                const courseData = getCourseData(courseName, curSemesterData);
+                if (courseData && courseData.days.includes("St")) {
+                    return true;
                 }
             }
-        }
-        if (hoveredCourse != "") {
-            const days = curSemesterData[hoveredCourse].days;
-            if (days) {
-                for (let j = 0; j < days.length; j++) {
-                    if (days[j] == "St") {
-                        return true;
-                    }
+
+            // Check hovered course
+            if (hoveredCourse !== "") {
+                const hoveredData = getCourseData(hoveredCourse, curSemesterData);
+                if (hoveredData && hoveredData.days.includes("St")) {
+                    return true;
                 }
             }
+
+            return false;
+        } catch (e) {
+            error = e.message;
+            return false;
         }
-        return false;
     }
 
     function getTableItems(
@@ -67,60 +106,78 @@
         hoveredCourse,
         curSemesterData
     ) {
-        let table = [];
-        let latestCourseHour;
-        for (let i = 9; i < 23; i++) {
-            table.push({
-                hour: i,
+        try {
+            let table = [];
+            let latestCourseHour = 16;
+
+            // Initialize empty table
+            for (let i = 9; i < 23; i++) {
+                table.push({
+                    hour: i,
+                    M: [],
+                    T: [],
+                    W: [],
+                    Th: [],
+                    F: [],
+                    St: [],
+                });
+            }
+
+            if (calculateTable && curSemesterData) {
+                // Process selected courses
+                for (const courseName of selectedCourseNames) {
+                    const courseData = getCourseData(courseName, curSemesterData);
+                    if (!courseData) continue;
+
+                    const { hours, days } = courseData;
+                    for (let j = 0; j < days.length; j++) {
+                        const hour = Number(hours[j]);
+                        if (isNaN(hour) || hour < 1 || hour > 14) {
+                            throw new Error(`Invalid hour value for course ${courseName}`);
+                        }
+
+                        latestCourseHour = Math.max(latestCourseHour, hour + 8);
+                        table[hour - 1][days[j]].push(courseName);
+                    }
+                }
+
+                // Process hovered course
+                if (hoveredCourse !== "" && !selectedCourseNames.includes(hoveredCourse)) {
+                    const hoveredData = getCourseData(hoveredCourse, curSemesterData);
+                    if (hoveredData) {
+                        const { hours, days } = hoveredData;
+                        for (let j = 0; j < days.length; j++) {
+                            const hour = Number(hours[j]);
+                            if (isNaN(hour) || hour < 1 || hour > 14) {
+                                throw new Error(`Invalid hour value for course ${hoveredCourse}`);
+                            }
+
+                            latestCourseHour = Math.max(latestCourseHour, hour + 8);
+                            table[hour - 1][days[j]].push(hoveredCourse);
+                        }
+                    }
+                }
+            }
+
+            // Trim table to latest course hour
+            for (let i = latestCourseHour + 1; i < 23; i++) {
+                table.pop();
+            }
+
+            return table;
+        } catch (e) {
+            error = e.message;
+            // Return minimal table on error
+            return [{
+                hour: 9,
                 M: [],
                 T: [],
                 W: [],
                 Th: [],
                 F: [],
                 St: [],
-            });
+            }];
         }
-        latestCourseHour = 16;
-        if (calculateTable) {
-            for (let i = 0; i < selectedCourseNames.length; i++) {
-                const courseName = selectedCourseNames[i];
-                if(!(courseName in curSemesterData)){
-                    continue;
-                }
-                const { hours, days } = curSemesterData[courseName];
-                if (days) {
-                    for (let j = 0; j < days.length; j++) {
-                        latestCourseHour = Math.max(
-                            latestCourseHour,
-                            hours[j] + 8
-                        );
-                        table[Number(hours[j]) - 1][days[j]].push(courseName);
-                    }
-                }
-            }
-            if (
-                hoveredCourse != "" &&
-                !selectedCourseNames.includes(hoveredCourse)
-            ) {
-                const { hours, days } = curSemesterData[hoveredCourse];
-                if (days) {
-                    for (let j = 0; j < days.length; j++) {
-                        latestCourseHour = Math.max(
-                            latestCourseHour,
-                            hours[j] + 8
-                        );
-                        table[Number(hours[j]) - 1][days[j]].push(
-                            hoveredCourse
-                        );
-                    }
-                }
-            }
-        }
-
-        for (let i = latestCourseHour + 1; i < 23; i++) {
-            table.pop();
-        }
-        return table;
     }
 </script>
 
@@ -232,4 +289,14 @@
             {/each}
         </tbody>
     </table>
+    
+    {#if isLoading}
+        <div class="p-4 text-center text-gray-600 dark:text-gray-400">
+            Loading timetable...
+        </div>
+    {:else if error}
+        <div class="p-4 text-center text-red-600 dark:text-red-400">
+            Error: {error}
+        </div>
+    {/if}
 </div>

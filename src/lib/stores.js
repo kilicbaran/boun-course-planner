@@ -35,47 +35,125 @@ function createHoveredCourse() {
 }
 
 function readSelectedCourseNames() {
-    let selectedCoursesForSemesters = localStorage.getItem("semesterSelCourses2") || "{}";
-    return JSON.parse(selectedCoursesForSemesters);
+    try {
+        const storedData = localStorage.getItem("semesterSelCourses2");
+        if (!storedData) return {};
+        
+        const parsedData = JSON.parse(storedData);
+        if (typeof parsedData !== 'object' || parsedData === null) {
+            throw new Error('Invalid stored course data format');
+        }
+
+        // Validate and clean data structure
+        const cleanedData = {};
+        for (const [semester, courses] of Object.entries(parsedData)) {
+            if (Array.isArray(courses)) {
+                cleanedData[semester] = courses.filter(course => typeof course === 'string');
+            }
+        }
+        
+        return cleanedData;
+    } catch (e) {
+        console.error('Error reading stored courses:', e);
+        // Reset storage if corrupted
+        localStorage.setItem("semesterSelCourses2", "{}");
+        return {};
+    }
 }
 
 function createSelectedCourseNamesAll() {
     const { subscribe, set, update } = writable(readSelectedCourseNames());
 
-    //console.log(readSelectedCourseNames());
+    // Auto-save to localStorage on changes
+    subscribe(value => {
+        try {
+            localStorage.setItem("semesterSelCourses2", JSON.stringify(value));
+        } catch (e) {
+            console.error('Error saving courses to storage:', e);
+        }
+    });
 
     return {
         subscribe,
         addCourse: (newCour) => {
+            if (typeof newCour !== 'string' || !newCour.trim()) {
+                console.error('Invalid course name:', newCour);
+                return;
+            }
+
             update(cour => {
-                if (!(get(currentSemester) in cour)) {
-                    cour[get(currentSemester)] = [];
+                const semester = get(currentSemester);
+                if (!semester) {
+                    console.error('No semester selected');
+                    return cour;
                 }
-                cour[get(currentSemester)].push(newCour);
-                cour[get(currentSemester)].sort();
-                cour = cour;
-                return cour
-            })
+
+                const newState = { ...cour };
+                if (!(semester in newState)) {
+                    newState[semester] = [];
+                }
+
+                // Prevent duplicates
+                if (!newState[semester].includes(newCour)) {
+                    newState[semester] = [...newState[semester], newCour].sort();
+                }
+
+                return newState;
+            });
         },
         delCourse: (delCour) => {
+            if (typeof delCour !== 'string') {
+                console.error('Invalid course name:', delCour);
+                return;
+            }
+
             update(cour => {
-                if (!(get(currentSemester) in cour)) {
-                    cour[get(currentSemester)] = [];
+                const semester = get(currentSemester);
+                if (!semester || !(semester in cour)) {
+                    return cour;
                 }
-                const indexArr = cour[get(currentSemester)].indexOf(delCour);
-                cour[get(currentSemester)].splice(indexArr, 1);
-                cour[get(currentSemester)].sort();
-                cour = cour;
-                return cour
-            })
+
+                const newState = { ...cour };
+                newState[semester] = newState[semester]
+                    .filter(course => course !== delCour)
+                    .sort();
+
+                return newState;
+            });
         },
         setCourseList: (courseList) => {
+            if (!Array.isArray(courseList)) {
+                console.error('Invalid course list:', courseList);
+                return;
+            }
+
             update(cour => {
-                cour[get(currentSemester)] = courseList;
-                return cour
-            })
+                const semester = get(currentSemester);
+                if (!semester) {
+                    console.error('No semester selected');
+                    return cour;
+                }
+
+                // Filter out invalid courses
+                const validCourses = courseList
+                    .filter(course => typeof course === 'string' && course.trim())
+                    .sort();
+
+                return {
+                    ...cour,
+                    [semester]: validCourses
+                };
+            });
         },
-        reset: () => set([])
+        cleanupSemester: (semester) => {
+            if (typeof semester !== 'string') return;
+            
+            update(cour => {
+                const { [semester]: removed, ...rest } = cour;
+                return rest;
+            });
+        },
+        reset: () => set({})
     };
 };
 
@@ -148,7 +226,48 @@ export const searchedCourseNames = derived([currentSemester, semesterData, searc
 // Only the course data for currently selected semester
 export const curSemesterData = derived([currentSemester, semesterData],
     ([$currentSemester, $semesterData]) => {
-        return $semesterData[$currentSemester] || null;
+        try {
+            // Validate semester selection
+            if (!$currentSemester) {
+                return null;
+            }
+
+            // Validate semester data exists
+            if (!$semesterData || typeof $semesterData !== 'object') {
+                console.error('Invalid semester data structure');
+                return null;
+            }
+
+            // Get data for current semester
+            const semData = $semesterData[$currentSemester];
+            if (!semData) {
+                return null;
+            }
+
+            // Validate semester data structure
+            if (typeof semData !== 'object') {
+                console.error(`Invalid data structure for semester: ${$currentSemester}`);
+                return null;
+            }
+
+            // Validate course data format
+            for (const [courseName, courseData] of Object.entries(semData)) {
+                if (!courseData || typeof courseData !== 'object') {
+                    console.error(`Invalid course data for ${courseName}`);
+                    continue;
+                }
+
+                if (!Array.isArray(courseData.days) || !Array.isArray(courseData.hours)) {
+                    console.error(`Missing required arrays for course ${courseName}`);
+                    continue;
+                }
+            }
+
+            return semData;
+        } catch (e) {
+            console.error('Error processing semester data:', e);
+            return null;
+        }
     }
 );
 
