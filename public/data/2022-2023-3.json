@@ -1,0 +1,4864 @@
+{
+  "HTR311.01": {
+    "code": "HTR 311.01",
+    "credits": 2,
+    "ects": 3.0,
+    "instructor": "KENAN ÖZKAN",
+    "name": "HISTORY OF THE TURKISH REPUBLIC I",
+    "days": [
+      "M",
+      "M",
+      "T",
+      "T"
+    ],
+    "hours": [
+      5,
+      6,
+      5,
+      6
+    ],
+    "rooms": [
+      "M 1200",
+      "M 1200",
+      "EF 116",
+      "EF 116"
+    ]
+  },
+  "HTR311.02": {
+    "code": "HTR 311.02",
+    "credits": 2,
+    "ects": 3.0,
+    "instructor": "KENAN ÖZKAN",
+    "name": "HISTORY OF THE TURKISH REPUBLIC I",
+    "days": [
+      "M",
+      "M",
+      "T",
+      "T"
+    ],
+    "hours": [
+      7,
+      8,
+      7,
+      8
+    ],
+    "rooms": [
+      "M 1200",
+      "M 1200",
+      "EF 116",
+      "EF 116"
+    ]
+  },
+  "HTR311.03": {
+    "code": "HTR 311.03",
+    "credits": 2,
+    "ects": 3.0,
+    "instructor": "KENAN ÖZKAN",
+    "name": "HISTORY OF THE TURKISH REPUBLIC I",
+    "days": [
+      "M",
+      "M",
+      "T",
+      "T"
+    ],
+    "hours": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "rooms": [
+      "M 1200",
+      "M 1200",
+      "EF 116",
+      "EF 116"
+    ]
+  },
+  "HTR311.04": {
+    "code": "HTR 311.04",
+    "credits": 2,
+    "ects": 3.0,
+    "instructor": "ÖNDER UÇAR",
+    "name": "HISTORY OF THE TURKISH REPUBLIC I",
+    "days": [
+      "W",
+      "W",
+      "Th",
+      "Th"
+    ],
+    "hours": [
+      3,
+      4,
+      3,
+      4
+    ],
+    "rooms": [
+      "M 2152",
+      "M 2152",
+      "M 2152",
+      "M 2152"
+    ]
+  },
+  "HTR311.05": {
+    "code": "HTR 311.05",
+    "credits": 2,
+    "ects": 3.0,
+    "instructor": "ÖNDER UÇAR",
+    "name": "HISTORY OF THE TURKISH REPUBLIC I",
+    "days": [
+      "W",
+      "W",
+      "Th",
+      "Th"
+    ],
+    "hours": [
+      5,
+      6,
+      5,
+      6
+    ],
+    "rooms": [
+      "M 2152",
+      "M 2152",
+      "M 2152",
+      "M 2152"
+    ]
+  },
+  "HTR311.06": {
+    "code": "HTR 311.06",
+    "credits": 2,
+    "ects": 3.0,
+    "instructor": "ÖNDER UÇAR",
+    "name": "HISTORY OF THE TURKISH REPUBLIC I",
+    "days": [
+      "W",
+      "W",
+      "Th",
+      "Th"
+    ],
+    "hours": [
+      7,
+      8,
+      7,
+      8
+    ],
+    "rooms": [
+      "M 2152",
+      "M 2152",
+      "M 2152",
+      "M 2152"
+    ]
+  },
+  "HTR311.07": {
+    "code": "HTR 311.07",
+    "credits": 2,
+    "ects": 3.0,
+    "instructor": "NUR ÖZMEL",
+    "name": "HISTORY OF THE TURKISH REPUBLIC I",
+    "days": [
+      "T",
+      "T",
+      "Th",
+      "Th"
+    ],
+    "hours": [
+      3,
+      4,
+      3,
+      4
+    ],
+    "rooms": [
+      "EF 116",
+      "EF 116",
+      "M 1171",
+      "M 1171"
+    ]
+  },
+  "HTR312.01": {
+    "code": "HTR 312.01",
+    "credits": 2,
+    "ects": 3.0,
+    "instructor": "AYŞE GÜN SOYSAL",
+    "name": "HISTORY OF THE TURKISH REPUBLIC II",
+    "days": [
+      "T",
+      "T",
+      "W",
+      "W"
+    ],
+    "hours": [
+      1,
+      2,
+      1,
+      2
+    ],
+    "rooms": [
+      "NH 404",
+      "NH 404",
+      "EF 116",
+      "EF 116"
+    ]
+  },
+  "HTR312.02": {
+    "code": "HTR 312.02",
+    "credits": 2,
+    "ects": 3.0,
+    "instructor": "AYŞE GÜN SOYSAL",
+    "name": "HISTORY OF THE TURKISH REPUBLIC II",
+    "days": [
+      "T",
+      "T",
+      "W",
+      "W"
+    ],
+    "hours": [
+      3,
+      4,
+      3,
+      4
+    ],
+    "rooms": [
+      "NH 404",
+      "NH 404",
+      "EF 116",
+      "EF 116"
+    ]
+  },
+  "HTR312.03": {
+    "code": "HTR 312.03",
+    "credits": 2,
+    "ects": 3.0,
+    "instructor": "AYŞE GÜN SOYSAL",
+    "name": "HISTORY OF THE TURKISH REPUBLIC II",
+    "days": [
+      "T",
+      "T",
+      "W",
+      "W"
+    ],
+    "hours": [
+      5,
+      6,
+      5,
+      6
+    ],
+    "rooms": [
+      "NH 404",
+      "NH 404",
+      "EF 116",
+      "EF 116"
+    ]
+  },
+  "HTR312.04": {
+    "code": "HTR 312.04",
+    "credits": 2,
+    "ects": 3.0,
+    "instructor": "NUR ÖZMEL",
+    "name": "HISTORY OF THE TURKISH REPUBLIC II",
+    "days": [
+      "T",
+      "T",
+      "Th",
+      "Th"
+    ],
+    "hours": [
+      1,
+      2,
+      1,
+      2
+    ],
+    "rooms": [
+      "EF 116",
+      "EF 116",
+      "M 1171",
+      "M 1171"
+    ]
+  },
+  "HTR312.05": {
+    "code": "HTR 312.05",
+    "credits": 2,
+    "ects": 3.0,
+    "instructor": "OKAN CEYLAN",
+    "name": "HISTORY OF THE TURKISH REPUBLIC II",
+    "days": [
+      "M",
+      "M",
+      "T",
+      "T"
+    ],
+    "hours": [
+      3,
+      4,
+      3,
+      4
+    ],
+    "rooms": [
+      "M 2230",
+      "M 2230",
+      "M 1200",
+      "M 1200"
+    ]
+  },
+  "HTR312.07": {
+    "code": "HTR 312.07",
+    "credits": 2,
+    "ects": 3.0,
+    "instructor": "OKAN CEYLAN",
+    "name": "HISTORY OF THE TURKISH REPUBLIC II",
+    "days": [
+      "M",
+      "M",
+      "T",
+      "T"
+    ],
+    "hours": [
+      8,
+      8,
+      8,
+      8
+    ],
+    "rooms": [
+      "M 2230",
+      "M 2230",
+      "M 2152",
+      "M 2152"
+    ]
+  },
+  "HTR312.09": {
+    "code": "HTR 312.09",
+    "credits": 2,
+    "ects": 3.0,
+    "instructor": "NUR ÖZMEL",
+    "name": "HISTORY OF THE TURKISH REPUBLIC II",
+    "days": [
+      "M",
+      "M",
+      "T",
+      "T"
+    ],
+    "hours": [
+      5,
+      6,
+      5,
+      6
+    ],
+    "rooms": [
+      "M 2152",
+      "M 2152",
+      "NH 202",
+      "NH 202"
+    ]
+  },
+  "HTR312.10": {
+    "code": "HTR 312.10",
+    "credits": 2,
+    "ects": 3.0,
+    "instructor": "AYŞE GÜN SOYSAL",
+    "name": "HISTORY OF THE TURKISH REPUBLIC II",
+    "days": [
+      "M",
+      "M",
+      "T",
+      "T"
+    ],
+    "hours": [
+      7,
+      8,
+      7,
+      8
+    ],
+    "rooms": [
+      "M 2152",
+      "M 2152",
+      "NH 202",
+      "NH 202"
+    ]
+  },
+  "HTR312.11": {
+    "code": "HTR 312.11",
+    "credits": 2,
+    "ects": 3.0,
+    "instructor": "HAKKI BAŞGÜNEY",
+    "name": "HISTORY OF THE TURKISH REPUBLIC II",
+    "days": [
+      "T",
+      "T",
+      "Th",
+      "Th"
+    ],
+    "hours": [
+      1,
+      2,
+      1,
+      2
+    ],
+    "rooms": [
+      "NH 302",
+      "NH 302",
+      "EF 116",
+      "EF 116"
+    ]
+  },
+  "HTR312.12": {
+    "code": "HTR 312.12",
+    "credits": 2,
+    "ects": 3.0,
+    "instructor": "HAKKI BAŞGÜNEY",
+    "name": "HISTORY OF THE TURKISH REPUBLIC II",
+    "days": [
+      "T",
+      "T",
+      "Th",
+      "Th"
+    ],
+    "hours": [
+      5,
+      6,
+      5,
+      6
+    ],
+    "rooms": [
+      "NH 203",
+      "NH 203",
+      "EF 116",
+      "EF 116"
+    ]
+  },
+  "HTR312.13": {
+    "code": "HTR 312.13",
+    "credits": 2,
+    "ects": 3.0,
+    "instructor": "HAKKI BAŞGÜNEY",
+    "name": "HISTORY OF THE TURKISH REPUBLIC II",
+    "days": [
+      "T",
+      "T",
+      "Th",
+      "Th"
+    ],
+    "hours": [
+      7,
+      8,
+      7,
+      8
+    ],
+    "rooms": [
+      "NH 203",
+      "NH 203",
+      "EF 116",
+      "EF 116"
+    ]
+  },
+  "CHEM103.01": {
+    "code": "CHEM103.01",
+    "credits": 3,
+    "ects": 7.0,
+    "instructor": "DUYGU  TUNCEL TURAN",
+    "name": "GENERAL CHEMISTRY I",
+    "days": [
+      "T",
+      "T",
+      "W",
+      "W",
+      "Th",
+      "Th",
+      "Th",
+      "Th"
+    ],
+    "hours": [
+      3,
+      4,
+      3,
+      4,
+      1,
+      2,
+      3,
+      4
+    ],
+    "rooms": [
+      "KB 125",
+      "KB 125",
+      "KB 125",
+      "KB 125",
+      "PS",
+      "PS",
+      "KB 125",
+      "KB 125"
+    ]
+  },
+  "CHEM104.01": {
+    "code": "CHEM104.01",
+    "credits": 3,
+    "ects": 6.0,
+    "instructor": "JESMI ÇAVUŞOĞLU",
+    "name": "GENERAL CHEMISTRY II",
+    "days": [
+      "M",
+      "M",
+      "M",
+      "M",
+      "T",
+      "T",
+      "W",
+      "W"
+    ],
+    "hours": [
+      1,
+      2,
+      3,
+      4,
+      1,
+      2,
+      1,
+      2
+    ],
+    "rooms": [
+      "KB 125",
+      "KB 125",
+      "PS",
+      "PS",
+      "KB 125",
+      "KB 125",
+      "KB 125",
+      "KB 125"
+    ]
+  },
+  "CHEM105.01": {
+    "code": "CHEM105.01",
+    "credits": 4,
+    "ects": 6.0,
+    "instructor": "JESMI ÇAVUŞOĞLU",
+    "name": "FUNDAMENTALS OF CHEMISTRY",
+    "days": [
+      "T",
+      "T",
+      "T",
+      "T",
+      "W",
+      "W",
+      "W",
+      "W",
+      "Th",
+      "Th",
+      "Th",
+      "Th",
+      "Th",
+      "Th"
+    ],
+    "hours": [
+      3,
+      4,
+      5,
+      6,
+      3,
+      4,
+      5,
+      6,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "rooms": [
+      "KB Z01",
+      "KB Z01",
+      "LAB",
+      "LAB",
+      "KB Z01",
+      "KB Z01",
+      "LAB",
+      "LAB",
+      "PS",
+      "PS",
+      "PS",
+      "PS",
+      "PS",
+      "PS"
+    ]
+  },
+  "CET360.01": {
+    "code": "CET 360.01",
+    "credits": 3,
+    "ects": 5.0,
+    "instructor": "HAMDİ ERKUNT",
+    "name": "INSTRUCTIONAL TECHNOLOGIES & MATERIALS D",
+    "days": [
+      "M",
+      "M",
+      "T",
+      "T",
+      "W",
+      "W",
+      "Th",
+      "Th"
+    ],
+    "hours": [
+      3,
+      4,
+      3,
+      4,
+      3,
+      4,
+      3,
+      4
+    ],
+    "rooms": [
+      "ET B509",
+      "ET B509",
+      "ET B509",
+      "ET B509",
+      "ET B509",
+      "ET B509",
+      "ET B509",
+      "ET B509"
+    ]
+  },
+  "CET360.02": {
+    "code": "CET 360.02",
+    "credits": 3,
+    "ects": 5.0,
+    "instructor": "HAMDİ ERKUNT",
+    "name": "INSTRUCTIONAL TECHNOLOGIES & MATERIALS D",
+    "days": [
+      "M",
+      "M",
+      "T",
+      "T",
+      "W",
+      "W",
+      "Th",
+      "Th"
+    ],
+    "hours": [
+      7,
+      8,
+      7,
+      8,
+      7,
+      8,
+      7,
+      8
+    ],
+    "rooms": [
+      "ET B509",
+      "ET B509",
+      "ET B509",
+      "ET B509",
+      "ET B509",
+      "ET B509",
+      "ET B509",
+      "ET B509"
+    ]
+  },
+  "CMPE140.01": {
+    "code": "CMPE140.01",
+    "credits": 3,
+    "ects": 5.0,
+    "instructor": "MURAT ÖZYURT",
+    "name": "INTRO.TO COMPUTING FOR EC.&MANAGEMEMT",
+    "days": [
+      "T",
+      "T",
+      "T",
+      "T",
+      "W",
+      "W",
+      "W",
+      "Th",
+      "Th",
+      "Th"
+    ],
+    "hours": [
+      5,
+      6,
+      7,
+      8,
+      6,
+      7,
+      8,
+      6,
+      7,
+      8
+    ],
+    "rooms": [
+      "BM A4",
+      "BM A4",
+      "BM A4",
+      "BM A4",
+      "BM A4",
+      "BM A4",
+      "BM A4",
+      "BM A4",
+      "BM A4",
+      "BM A4"
+    ]
+  },
+  "CMPE150.01": {
+    "code": "CMPE150.01",
+    "credits": 3,
+    "ects": 5.0,
+    "instructor": "MURAT ÖZYURT",
+    "name": "INTRODUCTION TO COMPUTING",
+    "days": [
+      "T",
+      "T",
+      "W",
+      "W",
+      "W",
+      "W",
+      "Th",
+      "Th",
+      "Th",
+      "Th"
+    ],
+    "hours": [
+      1,
+      2,
+      1,
+      2,
+      3,
+      4,
+      1,
+      2,
+      3,
+      4
+    ],
+    "rooms": [
+      "BM A4",
+      "BM A4",
+      "BM A4",
+      "BM A4",
+      "BM A4",
+      "BM A4",
+      "BM A4",
+      "BM A4",
+      "BM A4",
+      "BM A4"
+    ]
+  },
+  "CMPE210.01": {
+    "code": "CMPE210.01",
+    "credits": 4,
+    "ects": 5.0,
+    "instructor": "SADIK FİKRET GÜRGEN",
+    "name": "FUNDAMENTALS OF OBJECT ORIENTED PROG.",
+    "days": [
+      "M",
+      "M",
+      "T",
+      "T",
+      "W",
+      "W"
+    ],
+    "hours": [
+      1,
+      2,
+      1,
+      2,
+      1,
+      2
+    ],
+    "rooms": [
+      "BM A3",
+      "BM A3",
+      "BM A3",
+      "BM A3",
+      "BM A3",
+      "BM A3"
+    ]
+  },
+  "CMPE496.01": {
+    "code": "CMPE496.01",
+    "credits": 3,
+    "ects": 6.0,
+    "instructor": "SADIK FİKRET GÜRGEN",
+    "name": "SP.TOP.IN CMPE:HUMAN COMPUTER INTERACTIO",
+    "days": [
+      "M",
+      "M",
+      "T",
+      "T",
+      "W",
+      "W"
+    ],
+    "hours": [
+      3,
+      4,
+      3,
+      4,
+      3,
+      4
+    ],
+    "rooms": [
+      "BM A3",
+      "BM A3",
+      "BM A3",
+      "BM A3",
+      "BM A3",
+      "BM A3"
+    ]
+  },
+  "EC101.01": {
+    "code": "EC  101.01",
+    "credits": 3,
+    "ects": 6.0,
+    "instructor": "KONSTANTINOS MATAKOS",
+    "name": "PRINCIPLES OF MICROECONOMICS",
+    "days": [
+      "T",
+      "T",
+      "W",
+      "W",
+      "Th",
+      "Th",
+      "F",
+      "F",
+      "F",
+      "F"
+    ],
+    "hours": [
+      3,
+      4,
+      3,
+      4,
+      3,
+      4,
+      1,
+      2,
+      3,
+      4
+    ],
+    "rooms": [
+      "İB 102",
+      "İB 102",
+      "İB 102",
+      "İB 102",
+      "İB 102",
+      "İB 102",
+      "İB 102",
+      "İB 102",
+      "İB 102",
+      "İB 102"
+    ]
+  },
+  "EC102.01": {
+    "code": "EC  102.01",
+    "credits": 3,
+    "ects": 6.0,
+    "instructor": "HASAN ALPEREN TOSUN",
+    "name": "PRINCIPLES OF MACROECONOMICS",
+    "days": [
+      "T",
+      "T",
+      "W",
+      "W",
+      "Th",
+      "Th",
+      "F",
+      "F",
+      "F",
+      "F"
+    ],
+    "hours": [
+      5,
+      6,
+      5,
+      6,
+      5,
+      6,
+      5,
+      6,
+      7,
+      8
+    ],
+    "rooms": [
+      "NH 401",
+      "NH 401",
+      "NH 401",
+      "NH 401",
+      "NH 401",
+      "NH 401",
+      "NH 401",
+      "NH 401",
+      "NH 401",
+      "NH 401"
+    ]
+  },
+  "EE210.01": {
+    "code": "EE  210.01",
+    "credits": 3,
+    "ects": 6.0,
+    "instructor": "SELİM ŞEKER",
+    "name": "INTRODUCTION TO ELECTRICAL ENGINEERING",
+    "days": [
+      "M",
+      "M",
+      "M",
+      "W",
+      "W",
+      "W"
+    ],
+    "hours": [
+      1,
+      2,
+      3,
+      1,
+      2,
+      3
+    ],
+    "rooms": [
+      "KB TESLA",
+      "KB TESLA",
+      "KB TESLA",
+      "KB TESLA",
+      "KB TESLA",
+      "KB TESLA"
+    ]
+  },
+  "AL311.01": {
+    "code": "AL  311.01",
+    "credits": 3,
+    "ects": 6.0,
+    "instructor": "N.CİHAN YURDAÜN",
+    "name": "SURVEY OF AMERICAN LIT. FROM 17-19 CENTU",
+    "days": [
+      "M",
+      "M",
+      "T",
+      "T",
+      "Th",
+      "Th",
+      "F",
+      "F"
+    ],
+    "hours": [
+      3,
+      4,
+      3,
+      4,
+      3,
+      4,
+      3,
+      4
+    ],
+    "rooms": [
+      "M 1170",
+      "M 1170",
+      "JF 101",
+      "JF 101",
+      "JF 101",
+      "JF 101",
+      "M 1170",
+      "M 1170"
+    ]
+  },
+  "AL312.01": {
+    "code": "AL  312.01",
+    "credits": 3,
+    "ects": 6.0,
+    "instructor": "GEORGE H. JUNNE",
+    "name": "SURVEY OF AMERICAN LIT. FROM LATE 19 CEN",
+    "days": [
+      "T",
+      "T",
+      "W",
+      "W",
+      "Th",
+      "Th",
+      "F",
+      "F"
+    ],
+    "hours": [
+      1,
+      2,
+      1,
+      2,
+      1,
+      2,
+      1,
+      2
+    ],
+    "rooms": [
+      "TB 240",
+      "TB 240",
+      "TB 240",
+      "TB 240",
+      "TB 240",
+      "TB 240",
+      "TB 240",
+      "TB 240"
+    ]
+  },
+  "EL101.01": {
+    "code": "EL  101.01",
+    "credits": 3,
+    "ects": 6.0,
+    "instructor": "MERVE ATASOY",
+    "name": "SURVEY OF ENG.LIT.FROM OLD ENG.PERIOD TO",
+    "days": [
+      "T",
+      "T",
+      "W",
+      "W",
+      "Th",
+      "Th",
+      "F",
+      "F"
+    ],
+    "hours": [
+      5,
+      6,
+      5,
+      6,
+      5,
+      6,
+      5,
+      6
+    ],
+    "rooms": [
+      "JF 331",
+      "JF 331",
+      "JF 331",
+      "JF 331",
+      "M 1171",
+      "M 1171",
+      "M 1171",
+      "M 1171"
+    ]
+  },
+  "FA341.01": {
+    "code": "FA  341.01",
+    "credits": 3,
+    "ects": 5.0,
+    "instructor": "ŞAHAN YATARKALKMAZ",
+    "name": "HISTORY OF THE CINEMA",
+    "days": [
+      "T",
+      "T",
+      "T",
+      "T",
+      "W",
+      "W",
+      "Th",
+      "Th",
+      "Th",
+      "Th"
+    ],
+    "hours": [
+      5,
+      6,
+      7,
+      8,
+      5,
+      6,
+      5,
+      6,
+      7,
+      8
+    ],
+    "rooms": [
+      "JF 332",
+      "JF 332",
+      "JF 332",
+      "JF 332",
+      "JF 333",
+      "JF 333",
+      "JF 333",
+      "JF 333",
+      "JF 333",
+      "JF 333"
+    ]
+  },
+  "FA348.01": {
+    "code": "FA  348.01",
+    "credits": 3,
+    "ects": 5.0,
+    "instructor": "TUBA AY",
+    "name": "INTRODUCTION TO FILM ANALYSIS",
+    "days": [
+      "W",
+      "W",
+      "Th",
+      "Th",
+      "Th",
+      "Th",
+      "F",
+      "F",
+      "F",
+      "F"
+    ],
+    "hours": [
+      5,
+      6,
+      5,
+      6,
+      7,
+      8,
+      5,
+      6,
+      7,
+      8
+    ],
+    "rooms": [
+      "JF 108",
+      "JF 108",
+      "JF 108",
+      "JF 108",
+      "JF 108",
+      "JF 108",
+      "JF 108",
+      "JF 108",
+      "JF 108",
+      "JF 108"
+    ]
+  },
+  "FA348.02": {
+    "code": "FA  348.02",
+    "credits": 3,
+    "ects": 5.0,
+    "instructor": "TUBA AY",
+    "name": "INTRODUCTION TO FILM ANALYSIS",
+    "days": [
+      "M",
+      "M",
+      "M",
+      "M",
+      "T",
+      "T",
+      "T",
+      "T",
+      "W",
+      "W"
+    ],
+    "hours": [
+      5,
+      6,
+      7,
+      8,
+      5,
+      6,
+      7,
+      8,
+      8,
+      8
+    ],
+    "rooms": [
+      "JF 108",
+      "JF 108",
+      "JF 108",
+      "JF 108",
+      "JF 108",
+      "JF 108",
+      "JF 108",
+      "JF 108",
+      "JF 108",
+      "JF 108"
+    ]
+  },
+  "FA482.01": {
+    "code": "FA  482.01",
+    "credits": 3,
+    "ects": 5.0,
+    "instructor": "ALİ MURAT  AKSER",
+    "name": "SP.TP. WORLD CINEMA",
+    "days": [
+      "M",
+      "M",
+      "M",
+      "W",
+      "W",
+      "W"
+    ],
+    "hours": [
+      6,
+      7,
+      8,
+      6,
+      7,
+      8
+    ],
+    "rooms": [
+      "JF 333",
+      "JF 333",
+      "JF 333",
+      "TB 415",
+      "TB 415",
+      "TB 415"
+    ]
+  },
+  "FA486.01": {
+    "code": "FA  486.01",
+    "credits": 3,
+    "ects": 5.0,
+    "instructor": "SALİH MEHMET İNAN",
+    "name": "SPECIAL TOPICS.:SCRIPTWRITING",
+    "days": [
+      "T",
+      "T",
+      "T",
+      "Th",
+      "Th",
+      "Th"
+    ],
+    "hours": [
+      3,
+      4,
+      5,
+      3,
+      4,
+      5
+    ],
+    "rooms": [
+      "JF 102",
+      "JF 102",
+      "JF 102",
+      "JF 102",
+      "JF 102",
+      "JF 102"
+    ]
+  },
+  "FA48D.01": {
+    "code": "FA  48D.01",
+    "credits": 3,
+    "ects": 5.0,
+    "instructor": "ECEM YILDIRIM GÜNEŞ",
+    "name": "SP.TP.FILM GENRES",
+    "days": [
+      "M",
+      "M",
+      "W",
+      "W",
+      "F",
+      "F"
+    ],
+    "hours": [
+      3,
+      4,
+      3,
+      4,
+      3,
+      4
+    ],
+    "rooms": [
+      "JF 108",
+      "JF 108",
+      "JF 108",
+      "JF 108",
+      "JF 108",
+      "JF 108"
+    ]
+  },
+  "FA48J.01": {
+    "code": "FA  48J.01",
+    "credits": 3,
+    "ects": 5.0,
+    "instructor": "SALİH MEHMET İNAN",
+    "name": "SP.TP.MYTHIC STRUC.&STORYTELLING IN CIN.",
+    "days": [
+      "M",
+      "M",
+      "M",
+      "W",
+      "W",
+      "W"
+    ],
+    "hours": [
+      3,
+      4,
+      5,
+      3,
+      4,
+      5
+    ],
+    "rooms": [
+      "SİNEBU",
+      "SİNEBU",
+      "SİNEBU",
+      "SİNEBU",
+      "SİNEBU",
+      "SİNEBU"
+    ]
+  },
+  "FA497.01": {
+    "code": "FA  497.01",
+    "credits": 3,
+    "ects": 5.0,
+    "instructor": "ONUR KARAOĞLU",
+    "name": "SP.TP.CONTEMPORARY PERFORMANCE PRACTICES",
+    "days": [
+      "T",
+      "T",
+      "T",
+      "Th",
+      "Th",
+      "Th"
+    ],
+    "hours": [
+      3,
+      4,
+      5,
+      3,
+      4,
+      5
+    ],
+    "rooms": [
+      "JF 333",
+      "JF 333",
+      "JF 333",
+      "JF 332",
+      "JF 332",
+      "JF 332"
+    ]
+  },
+  "FA49M.01": {
+    "code": "FA  49M.01",
+    "credits": 3,
+    "ects": 5.0,
+    "instructor": "ŞAHAN YATARKALKMAZ",
+    "name": "SP.TP.CINEMATIC ARGUMENT",
+    "days": [
+      "T",
+      "T",
+      "W",
+      "W",
+      "Th",
+      "Th"
+    ],
+    "hours": [
+      1,
+      7,
+      8,
+      1,
+      1,
+      1
+    ],
+    "rooms": [
+      "JF 332",
+      "JF 332",
+      "JF 333",
+      "JF 333",
+      "JF 333",
+      "JF 333"
+    ]
+  },
+  "PA211.01": {
+    "code": "PA  211.01",
+    "credits": 2,
+    "ects": 4.0,
+    "instructor": "MUTLU M.ERBAY",
+    "name": "PAINTING",
+    "days": [
+      "T",
+      "T",
+      "T",
+      "T",
+      "T",
+      "T",
+      "T",
+      "T"
+    ],
+    "hours": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "rooms": [
+      "HÜLYA ATÖLYE",
+      "HÜLYA ATÖLYE",
+      "HÜLYA ATÖLYE",
+      "HÜLYA ATÖLYE",
+      "HÜLYA ATÖLYE",
+      "HÜLYA ATÖLYE",
+      "HÜLYA ATÖLYE",
+      "HÜLYA ATÖLYE"
+    ]
+  },
+  "PA213.01": {
+    "code": "PA  213.01",
+    "credits": 2,
+    "ects": 4.0,
+    "instructor": "MUTLU M.ERBAY",
+    "name": "PAINTING",
+    "days": [
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W"
+    ],
+    "hours": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "rooms": [
+      "HÜLYA ATÖLYE",
+      "HÜLYA ATÖLYE",
+      "HÜLYA ATÖLYE",
+      "HÜLYA ATÖLYE",
+      "HÜLYA ATÖLYE",
+      "HÜLYA ATÖLYE",
+      "HÜLYA ATÖLYE",
+      "HÜLYA ATÖLYE"
+    ]
+  },
+  "PA311.01": {
+    "code": "PA  311.01",
+    "credits": 2,
+    "ects": 4.0,
+    "instructor": "FETHİYE F.ERBAY",
+    "name": "PAINTING",
+    "days": [
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W"
+    ],
+    "hours": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "rooms": [
+      "HÜLYA ATÖLYE",
+      "HÜLYA ATÖLYE",
+      "HÜLYA ATÖLYE",
+      "HÜLYA ATÖLYE",
+      "HÜLYA ATÖLYE",
+      "HÜLYA ATÖLYE",
+      "HÜLYA ATÖLYE",
+      "HÜLYA ATÖLYE"
+    ]
+  },
+  "PA321.01": {
+    "code": "PA  321.01",
+    "credits": 2,
+    "ects": 4.0,
+    "instructor": "SAKİNE ÇİL",
+    "name": "CERAMICS",
+    "days": [
+      "T",
+      "T",
+      "T",
+      "T",
+      "W",
+      "W",
+      "W",
+      "W"
+    ],
+    "hours": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "rooms": [
+      "HÜLYA ATÖLYE",
+      "HÜLYA ATÖLYE",
+      "HÜLYA ATÖLYE",
+      "HÜLYA ATÖLYE",
+      "HÜLYA ATÖLYE",
+      "HÜLYA ATÖLYE",
+      "HÜLYA ATÖLYE",
+      "HÜLYA ATÖLYE"
+    ]
+  },
+  "PA374.01": {
+    "code": "PA  374.01",
+    "credits": 3,
+    "ects": 6.0,
+    "instructor": "NURİ ÖZER ERBAY",
+    "name": "THEORY&TECHNIQUES OF PHOTOGRAPHY",
+    "days": [
+      "Th",
+      "Th",
+      "Th",
+      "Th",
+      "Th",
+      "Th",
+      "Th",
+      "Th",
+      "Th",
+      "Th"
+    ],
+    "hours": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      1,
+      1
+    ],
+    "rooms": [
+      "HÜLYA ATÖLYE",
+      "HÜLYA ATÖLYE",
+      "HÜLYA ATÖLYE",
+      "HÜLYA ATÖLYE",
+      "HÜLYA ATÖLYE",
+      "HÜLYA ATÖLYE",
+      "HÜLYA ATÖLYE",
+      "HÜLYA ATÖLYE",
+      "HÜLYA ATÖLYE",
+      "HÜLYA ATÖLYE"
+    ]
+  },
+  "HIST487.01": {
+    "code": "HIST487.01",
+    "credits": 3,
+    "ects": 6.0,
+    "instructor": "GAMZE YAVUZER",
+    "name": "SP.TP.WOMEN&GENDER IN THE EARLY MODERN MIDDLE EAST",
+    "days": [
+      "M",
+      "M",
+      "M",
+      "W",
+      "W",
+      "W"
+    ],
+    "hours": [
+      4,
+      5,
+      6,
+      4,
+      5,
+      6
+    ],
+    "rooms": [
+      "M 1171",
+      "M 1171",
+      "M 1171",
+      "M 1171",
+      "M 1171",
+      "M 1171"
+    ]
+  },
+  "HIST499.01": {
+    "code": "HIST499.01",
+    "credits": 3,
+    "ects": 6.0,
+    "instructor": "KRASSIMIRA DASKALOVA",
+    "name": "SP.TP.WOMEN,GENDER&MODERNIZATION IN THE BALKANS,19TH-20TH",
+    "days": [
+      "T",
+      "T",
+      "T",
+      "Th",
+      "Th",
+      "Th"
+    ],
+    "hours": [
+      1,
+      2,
+      3,
+      1,
+      2,
+      3
+    ],
+    "rooms": [
+      "M 1170",
+      "M 1170",
+      "M 1170",
+      "M 1170",
+      "M 1170",
+      "M 1170"
+    ]
+  },
+  "HIST49H.01": {
+    "code": "HIST49H.01",
+    "credits": 3,
+    "ects": 5.0,
+    "instructor": "SENA KARASİPAHİ",
+    "name": "SP.TP.HISTORY OF THE MODERN MIDDLE EAST",
+    "days": [
+      "M",
+      "M",
+      "T",
+      "T",
+      "W",
+      "W"
+    ],
+    "hours": [
+      3,
+      4,
+      3,
+      4,
+      3,
+      4
+    ],
+    "rooms": [
+      "JF 333",
+      "JF 333",
+      "JF 332",
+      "JF 332",
+      "JF 332",
+      "JF 332"
+    ]
+  },
+  "HIST49S.01": {
+    "code": "HIST49S.01",
+    "credits": 3,
+    "ects": 6.0,
+    "instructor": "ANA DEVİC",
+    "name": "SP.TP.SOVIET&POST-SOVI.HIST.IN TEXT&POP.CUL.",
+    "days": [
+      "T",
+      "T",
+      "W",
+      "W",
+      "Th",
+      "Th"
+    ],
+    "hours": [
+      5,
+      6,
+      5,
+      6,
+      5,
+      6
+    ],
+    "rooms": [
+      "M 1170",
+      "M 1170",
+      "M 1170",
+      "M 1170",
+      "M 1170",
+      "M 1170"
+    ]
+  },
+  "IE483.01": {
+    "code": "IE  483.01",
+    "credits": 3,
+    "ects": 6.0,
+    "instructor": "EBRU KORULAR BISH",
+    "name": "SP.TP. IN SUPPLY CHAIN STRATEGY",
+    "days": [
+      "M",
+      "M",
+      "M",
+      "W",
+      "W",
+      "W"
+    ],
+    "hours": [
+      5,
+      6,
+      7,
+      5,
+      6,
+      7
+    ],
+    "rooms": [
+      "M 1170",
+      "M 1170",
+      "M 1170",
+      "M 1200",
+      "M 1200",
+      "M 1200"
+    ]
+  },
+  "LAW101.01": {
+    "code": "LAW 101.01",
+    "credits": 3,
+    "ects": 5.0,
+    "instructor": "MUSTAFA AKGÜN",
+    "name": "INTRODUCTION TO LAW",
+    "days": [
+      "M",
+      "M",
+      "M",
+      "T",
+      "T",
+      "T",
+      "Th",
+      "Th",
+      "Th",
+      "Th"
+    ],
+    "hours": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      1,
+      2,
+      3,
+      4
+    ],
+    "rooms": [
+      "M 1200",
+      "M 1200",
+      "M 1200",
+      "M 1200",
+      "M 1200",
+      "M 1200",
+      "M 1200",
+      "M 1200",
+      "M 1200",
+      "M 1200"
+    ]
+  },
+  "LING324.01": {
+    "code": "LING324.01",
+    "credits": 3,
+    "ects": 6.0,
+    "instructor": "KONSTANTINOS SAMPANIS",
+    "name": "HISTORICAL LINGUISTICS",
+    "days": [
+      "T",
+      "T",
+      "W",
+      "W",
+      "F",
+      "F"
+    ],
+    "hours": [
+      7,
+      8,
+      7,
+      8,
+      7,
+      8
+    ],
+    "rooms": [
+      "JF 333",
+      "JF 333",
+      "JF 332",
+      "JF 332",
+      "JF 333",
+      "JF 333"
+    ]
+  },
+  "LING48T.01": {
+    "code": "LING48T.01",
+    "credits": 3,
+    "ects": 6.0,
+    "instructor": "SEÇKİN ARSLAN",
+    "name": "SP.TP.NEUROLINGUISTICS",
+    "days": [
+      "W",
+      "W",
+      "W",
+      "Th",
+      "Th",
+      "Th"
+    ],
+    "hours": [
+      2,
+      3,
+      4,
+      2,
+      3,
+      4
+    ],
+    "rooms": [
+      "JF 333",
+      "JF 333",
+      "JF 333",
+      "JF 333",
+      "JF 333",
+      "JF 333"
+    ]
+  },
+  "AD432.01": {
+    "code": "AD  432.01",
+    "credits": 3,
+    "ects": 6.0,
+    "instructor": "İZZET SIDKI DARENDELİ",
+    "name": "ENTREPRENEURSHIP",
+    "days": [
+      "T",
+      "T",
+      "T",
+      "Th",
+      "Th",
+      "Th"
+    ],
+    "hours": [
+      8,
+      1,
+      8,
+      1,
+      1,
+      1
+    ],
+    "rooms": [
+      "İB 211",
+      "İB 211",
+      "İB 211",
+      "İB 211",
+      "İB 211",
+      "İB 211"
+    ]
+  },
+  "AD476.01": {
+    "code": "AD  476.01",
+    "credits": 3,
+    "ects": 6.0,
+    "instructor": "İZZET SIDKI DARENDELİ",
+    "name": "FINANCIAL SIMULATION",
+    "days": [
+      "T",
+      "T",
+      "W",
+      "W",
+      "Th",
+      "Th"
+    ],
+    "hours": [
+      5,
+      6,
+      5,
+      6,
+      5,
+      6
+    ],
+    "rooms": [
+      "İB 211",
+      "İB 211",
+      "İB 211",
+      "İB 211",
+      "İB 211",
+      "İB 211"
+    ]
+  },
+  "MATH101.01": {
+    "code": "MATH101.01",
+    "credits": 4,
+    "ects": 6.0,
+    "instructor": "OLCAY COŞKUN",
+    "name": "CALCULUS I",
+    "days": [
+      "M",
+      "M",
+      "M",
+      "M",
+      "T",
+      "T",
+      "T",
+      "T",
+      "W",
+      "W",
+      "Th",
+      "Th"
+    ],
+    "hours": [
+      1,
+      2,
+      5,
+      6,
+      1,
+      2,
+      7,
+      8,
+      1,
+      2,
+      1,
+      2
+    ],
+    "rooms": [
+      "NH 304",
+      "NH 304",
+      "NH 304",
+      "NH 304",
+      "NH 304",
+      "NH 304",
+      "NH 304",
+      "NH 304",
+      "NH 304",
+      "NH 304",
+      "NH 304",
+      "NH 304"
+    ]
+  },
+  "MATH101.02": {
+    "code": "MATH101.02",
+    "credits": 4,
+    "ects": 6.0,
+    "instructor": "OLCAY COŞKUN",
+    "name": "CALCULUS I",
+    "days": [
+      "M",
+      "M",
+      "T",
+      "T",
+      "W",
+      "W",
+      "Th",
+      "Th",
+      "F",
+      "F",
+      "F",
+      "F"
+    ],
+    "hours": [
+      3,
+      4,
+      3,
+      4,
+      3,
+      4,
+      3,
+      4,
+      1,
+      2,
+      3,
+      4
+    ],
+    "rooms": [
+      "NH 304",
+      "NH 304",
+      "NH 304",
+      "NH 304",
+      "NH 304",
+      "NH 304",
+      "NH 304",
+      "NH 304",
+      "NH 304",
+      "NH 304",
+      "NH 304",
+      "NH 304"
+    ]
+  },
+  "MATH102.01": {
+    "code": "MATH102.01",
+    "credits": 4,
+    "ects": 6.0,
+    "instructor": "OĞUZ ŞAVK",
+    "name": "CALCULUS II",
+    "days": [
+      "M",
+      "M",
+      "M",
+      "M",
+      "T",
+      "T",
+      "W",
+      "W",
+      "Th",
+      "Th",
+      "F",
+      "F"
+    ],
+    "hours": [
+      1,
+      2,
+      3,
+      4,
+      3,
+      4,
+      3,
+      4,
+      3,
+      4,
+      1,
+      2
+    ],
+    "rooms": [
+      "PS",
+      "PS",
+      "NH 301",
+      "NH 301",
+      "NH 301",
+      "NH 301",
+      "NH 301",
+      "NH 301",
+      "NH 301",
+      "NH 301",
+      "NH 301",
+      "NH 301"
+    ]
+  },
+  "MATH102.02": {
+    "code": "MATH102.02",
+    "credits": 4,
+    "ects": 6.0,
+    "instructor": "OĞUZ ŞAVK",
+    "name": "CALCULUS II",
+    "days": [
+      "M",
+      "M",
+      "T",
+      "T",
+      "T",
+      "T",
+      "W",
+      "W",
+      "Th",
+      "Th",
+      "F",
+      "F"
+    ],
+    "hours": [
+      6,
+      7,
+      1,
+      2,
+      6,
+      7,
+      6,
+      7,
+      6,
+      7,
+      3,
+      4
+    ],
+    "rooms": [
+      "NH 405",
+      "NH 405",
+      "PS",
+      "PS",
+      "NH 405",
+      "NH 405",
+      "NH 405",
+      "NH 405",
+      "NH 405",
+      "NH 405",
+      "NH 405",
+      "NH 405"
+    ]
+  },
+  "MATH202.01": {
+    "code": "MATH202.01",
+    "credits": 4,
+    "ects": 7.0,
+    "instructor": "FATMA MUAZZEZ ŞİMŞİR",
+    "name": "DIFFERENTIAL EQUATIONS",
+    "days": [
+      "M",
+      "M",
+      "T",
+      "T",
+      "W",
+      "W",
+      "W",
+      "Th",
+      "Th",
+      "Th",
+      "F",
+      "F"
+    ],
+    "hours": [
+      1,
+      2,
+      5,
+      6,
+      1,
+      2,
+      3,
+      1,
+      2,
+      3,
+      1,
+      2
+    ],
+    "rooms": [
+      "NH 401",
+      "NH 401",
+      "TB 310",
+      "TB 310",
+      "TB 310",
+      "TB 310",
+      "TB 310",
+      "NH 402",
+      "NH 402",
+      "NH 402",
+      "NH 402",
+      "NH 402"
+    ]
+  },
+  "MATH325.01": {
+    "code": "MATH325.01",
+    "credits": 3,
+    "ects": 6.0,
+    "instructor": "KAZIM İLHAN İKEDA",
+    "name": "MATRIX GROUPS",
+    "days": [
+      "M",
+      "M",
+      "M",
+      "W",
+      "W",
+      "W"
+    ],
+    "hours": [
+      1,
+      2,
+      3,
+      1,
+      2,
+      3
+    ],
+    "rooms": [
+      "M 1171",
+      "M 1171",
+      "M 1171",
+      "M 1171",
+      "M 1171",
+      "M 1171"
+    ]
+  },
+  "MATH484.01": {
+    "code": "MATH484.01",
+    "credits": 3,
+    "ects": 6.0,
+    "instructor": "FLAVIO D ALESSANDRO",
+    "name": "SELECTED TOPICS IN MATH.",
+    "days": [
+      "W",
+      "W",
+      "W",
+      "Th",
+      "Th",
+      "Th"
+    ],
+    "hours": [
+      5,
+      6,
+      7,
+      1,
+      2,
+      3
+    ],
+    "rooms": [
+      "TB 310",
+      "TB 310",
+      "TB 310",
+      "TB 310",
+      "TB 310",
+      "TB 310"
+    ]
+  },
+  "SCED330.01": {
+    "code": "SCED330.01",
+    "credits": 3,
+    "ects": 6.0,
+    "instructor": "KEMAL AKOĞLU",
+    "name": "TEACHING THINKING",
+    "days": [
+      "T",
+      "T",
+      "T",
+      "W",
+      "W",
+      "W"
+    ],
+    "hours": [
+      2,
+      3,
+      4,
+      2,
+      3,
+      4
+    ],
+    "rooms": [
+      "EF 106",
+      "EF 106",
+      "EF 106",
+      "EF 106",
+      "EF 106",
+      "EF 106"
+    ]
+  },
+  "SCED404.01": {
+    "code": "SCED404.01",
+    "credits": 4,
+    "ects": 8.0,
+    "instructor": "SEVİL AKAYGÜN",
+    "name": "RESEARCH METHODS IN MATHEMATICS AND SCIENCE.EDUCATION",
+    "days": [
+      "M",
+      "M",
+      "M",
+      "M",
+      "T",
+      "T",
+      "T",
+      "T",
+      "W",
+      "W"
+    ],
+    "hours": [
+      5,
+      6,
+      7,
+      8,
+      5,
+      6,
+      7,
+      8,
+      5,
+      6
+    ],
+    "rooms": [
+      "EF 102",
+      "EF 102",
+      "EF 102",
+      "EF 102",
+      "EF 102",
+      "EF 102",
+      "EF 102",
+      "EF 102",
+      "EF 102",
+      "EF 102"
+    ]
+  },
+  "SCED48H.01": {
+    "code": "SCED48H.01",
+    "credits": 3,
+    "ects": 6.0,
+    "instructor": "GAYE DEFNE CEYHAN",
+    "name": "SP.TP.CLIMATE CHANGE EDUCATION",
+    "days": [
+      "M",
+      "M",
+      "M",
+      "Th",
+      "Th",
+      "Th"
+    ],
+    "hours": [
+      2,
+      3,
+      4,
+      2,
+      3,
+      4
+    ],
+    "rooms": [
+      "EF 106",
+      "EF 106",
+      "EF 106",
+      "EF 106",
+      "EF 106",
+      "EF 106"
+    ]
+  },
+  "SCED540.01": {
+    "code": "SCED540.01",
+    "credits": 3,
+    "ects": 7.0,
+    "instructor": "KEMAL AKOĞLU",
+    "name": "IMPROVEMENT OF MENTAL SKILLS IN SCI.EDUC",
+    "days": [
+      "T",
+      "T",
+      "T",
+      "W",
+      "W",
+      "W"
+    ],
+    "hours": [
+      6,
+      7,
+      8,
+      6,
+      7,
+      8
+    ],
+    "rooms": [
+      "EF 104",
+      "EF 104",
+      "EF 104",
+      "EF 104",
+      "EF 104",
+      "EF 104"
+    ]
+  },
+  "SCED551.01": {
+    "code": "SCED551.01",
+    "credits": 3,
+    "ects": 7.0,
+    "instructor": "SEVİL AKAYGÜN",
+    "name": "MEDIA&METHODS IN SCIENCE EDUCATION",
+    "days": [
+      "T",
+      "T",
+      "T",
+      "W",
+      "W",
+      "W"
+    ],
+    "hours": [
+      1,
+      2,
+      3,
+      1,
+      2,
+      3
+    ],
+    "rooms": [
+      "EF 202",
+      "EF 202",
+      "EF 202",
+      "EF 202",
+      "EF 202",
+      "EF 202"
+    ]
+  },
+  "PHIL101.02": {
+    "code": "PHIL101.02",
+    "credits": 3,
+    "ects": 8.0,
+    "instructor": "ONUR BAKIR",
+    "name": "INTRODUCTION TO PHILOSOPHY",
+    "days": [
+      "T",
+      "T",
+      "W",
+      "W",
+      "W",
+      "Th",
+      "Th",
+      "Th"
+    ],
+    "hours": [
+      6,
+      7,
+      6,
+      7,
+      8,
+      6,
+      7,
+      8
+    ],
+    "rooms": [
+      "JF 102",
+      "JF 102",
+      "TB 240",
+      "TB 240",
+      "TB 240",
+      "TB 240",
+      "TB 240",
+      "TB 240"
+    ]
+  },
+  "PHIL111.01": {
+    "code": "PHIL111.01",
+    "credits": 3,
+    "ects": 6.0,
+    "instructor": "PANOS ELIOPOULOS",
+    "name": "INTRO.TO ANCIENT & MEDIEVAL PHILOSOPHY",
+    "days": [
+      "T",
+      "T",
+      "Th",
+      "Th",
+      "F",
+      "F"
+    ],
+    "hours": [
+      3,
+      4,
+      3,
+      4,
+      3,
+      4
+    ],
+    "rooms": [
+      "AYHAN ŞAHENK",
+      "AYHAN ŞAHENK",
+      "AYHAN ŞAHENK",
+      "AYHAN ŞAHENK",
+      "AYHAN ŞAHENK",
+      "AYHAN ŞAHENK"
+    ]
+  },
+  "PHIL112.01": {
+    "code": "PHIL112.01",
+    "credits": 3,
+    "ects": 6.0,
+    "instructor": "CHRISTOPHER COLVIN",
+    "name": "INTRODUCTION TO MODERN PHILOSOPHY",
+    "days": [
+      "M",
+      "M",
+      "T",
+      "T",
+      "Th",
+      "Th"
+    ],
+    "hours": [
+      3,
+      4,
+      3,
+      4,
+      3,
+      4
+    ],
+    "rooms": [
+      "TB 415",
+      "TB 415",
+      "TB 415",
+      "TB 415",
+      "TB 415",
+      "TB 415"
+    ]
+  },
+  "PHIL484.01": {
+    "code": "PHIL484.01",
+    "credits": 3,
+    "ects": 6.0,
+    "instructor": "CHRISTOPHER COLVIN",
+    "name": "SP.TP.PLATO'S DIALECTICAL TRILOGY: THEAETETUS, SOPHIST, STATESMAN",
+    "days": [
+      "M",
+      "M",
+      "T",
+      "T",
+      "Th",
+      "Th"
+    ],
+    "hours": [
+      7,
+      8,
+      7,
+      8,
+      7,
+      8
+    ],
+    "rooms": [
+      "TB 415",
+      "TB 415",
+      "TB 415",
+      "TB 415",
+      "TB 415",
+      "TB 415"
+    ]
+  },
+  "PHIL491.01": {
+    "code": "PHIL491.01",
+    "credits": 3,
+    "ects": 6.0,
+    "instructor": "YUSUF YÜKSEKDAĞ",
+    "name": "SEL.TP.CONTEMPORARY POLITICAL PHILOSOPHY",
+    "days": [
+      "T",
+      "T",
+      "Th",
+      "Th",
+      "F",
+      "F"
+    ],
+    "hours": [
+      4,
+      5,
+      4,
+      5,
+      4,
+      5
+    ],
+    "rooms": [
+      "TB 490",
+      "TB 490",
+      "TB 490",
+      "TB 490",
+      "TB 490",
+      "TB 490"
+    ]
+  },
+  "PHIL492.01": {
+    "code": "PHIL492.01",
+    "credits": 3,
+    "ects": 6.0,
+    "instructor": "PANOS ELIOPOULOS",
+    "name": "SP.TP.ANCIENT,MODERN&CONTEMPORARY",
+    "days": [
+      "M",
+      "M",
+      "M",
+      "W",
+      "W",
+      "W"
+    ],
+    "hours": [
+      2,
+      3,
+      4,
+      2,
+      3,
+      4
+    ],
+    "rooms": [
+      "NH 305",
+      "NH 305",
+      "NH 305",
+      "NH 303",
+      "NH 303",
+      "NH 303"
+    ]
+  },
+  "PHIL494.01": {
+    "code": "PHIL494.01",
+    "credits": 3,
+    "ects": 6.0,
+    "instructor": "BERKER BASMACI",
+    "name": "SP.TP.HEGEL'S AESTHETICS",
+    "days": [
+      "T",
+      "T",
+      "W",
+      "W",
+      "Th",
+      "Th"
+    ],
+    "hours": [
+      6,
+      7,
+      6,
+      7,
+      2,
+      3
+    ],
+    "rooms": [
+      "TB 240",
+      "TB 240",
+      "TB 490",
+      "TB 490",
+      "TB 490",
+      "TB 490"
+    ]
+  },
+  "PHIL496.01": {
+    "code": "PHIL496.01",
+    "credits": 3,
+    "ects": 6.0,
+    "instructor": "ÇAĞLAR ÇÖMEZ",
+    "name": "SEL.TP.MORALITY&LAW",
+    "days": [
+      "M",
+      "M",
+      "W",
+      "W",
+      "Th",
+      "Th"
+    ],
+    "hours": [
+      7,
+      8,
+      7,
+      8,
+      7,
+      8
+    ],
+    "rooms": [
+      "TB 490",
+      "TB 490",
+      "M 1152",
+      "M 1152",
+      "TB 490",
+      "TB 490"
+    ]
+  },
+  "PHIL497.01": {
+    "code": "PHIL497.01",
+    "credits": 3,
+    "ects": 6.0,
+    "instructor": "DUNCAN MACLEAN",
+    "name": "SEL.TP.ETHICS OF CLIMATE",
+    "days": [
+      "M",
+      "M",
+      "W",
+      "W",
+      "Th",
+      "Th"
+    ],
+    "hours": [
+      1,
+      2,
+      1,
+      2,
+      1,
+      2
+    ],
+    "rooms": [
+      "TB 415",
+      "TB 415",
+      "TB 415",
+      "TB 415",
+      "TB 415",
+      "TB 415"
+    ]
+  },
+  "PE123.01": {
+    "code": "PE  123.01",
+    "credits": 1,
+    "ects": 2.0,
+    "instructor": "ENİS GÜLLER",
+    "name": "TENNIS I",
+    "days": [
+      "M",
+      "M",
+      "M",
+      "M",
+      "M",
+      "M"
+    ],
+    "hours": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "rooms": []
+  },
+  "PE124.01": {
+    "code": "PE  124.01",
+    "credits": 1,
+    "ects": 2.0,
+    "instructor": "ENİS GÜLLER",
+    "name": "TENNIS II",
+    "days": [
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W"
+    ],
+    "hours": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "rooms": []
+  },
+  "PE129.01": {
+    "code": "PE  129.01",
+    "credits": 1,
+    "ects": 2.0,
+    "instructor": "ENİS MAZHAR TAYMAN",
+    "name": "SELF DEFENCE SPORTS I",
+    "days": [
+      "W",
+      "W",
+      "W",
+      "W",
+      "W",
+      "W"
+    ],
+    "hours": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "rooms": []
+  },
+  "PHYS101.01": {
+    "code": "PHYS101.01",
+    "credits": 4,
+    "ects": 8.0,
+    "instructor": "MEHMET HAKAN ERKUT",
+    "name": "PHYSICS I",
+    "days": [
+      "M",
+      "M",
+      "M",
+      "M",
+      "W",
+      "W",
+      "W",
+      "W",
+      "Th",
+      "Th",
+      "Th",
+      "Th"
+    ],
+    "hours": [
+      1,
+      2,
+      3,
+      4,
+      1,
+      2,
+      3,
+      4,
+      1,
+      2,
+      3,
+      4
+    ],
+    "rooms": [
+      "UYG.",
+      "UYG.",
+      "NH 201",
+      "NH 201",
+      "LAB",
+      "LAB",
+      "NH 201",
+      "NH 201",
+      "LAB",
+      "LAB",
+      "LAB",
+      "LAB"
+    ]
+  },
+  "PHYS101.02": {
+    "code": "PHYS101.02",
+    "credits": 4,
+    "ects": 8.0,
+    "instructor": "MEHMET HAKAN ERKUT",
+    "name": "PHYSICS I",
+    "days": [
+      "M",
+      "M",
+      "M",
+      "M",
+      "W",
+      "W",
+      "W",
+      "W",
+      "Th",
+      "Th",
+      "Th",
+      "Th"
+    ],
+    "hours": [
+      5,
+      6,
+      7,
+      8,
+      5,
+      6,
+      7,
+      8,
+      5,
+      6,
+      7,
+      8
+    ],
+    "rooms": [
+      "NH 201",
+      "NH 201",
+      "UYG",
+      "UYG",
+      "NH 201",
+      "NH 201",
+      "LAB",
+      "LAB",
+      "NH 201",
+      "NH 201",
+      "NH 201",
+      "NH 201"
+    ]
+  },
+  "PHYS102.01": {
+    "code": "PHYS102.01",
+    "credits": 4,
+    "ects": 8.0,
+    "instructor": "ERHAN GÜLMEZ",
+    "name": "PHYSICS II",
+    "days": [
+      "T",
+      "T",
+      "T",
+      "T",
+      "W",
+      "W",
+      "W",
+      "W",
+      "Th",
+      "Th",
+      "Th",
+      "Th"
+    ],
+    "hours": [
+      1,
+      2,
+      5,
+      6,
+      1,
+      2,
+      5,
+      6,
+      1,
+      2,
+      5,
+      6
+    ],
+    "rooms": [
+      "NH 202",
+      "NH 202",
+      "UYG",
+      "UYG",
+      "NH 103",
+      "NH 103",
+      "LAB",
+      "LAB",
+      "NH 202",
+      "NH 202",
+      "NH 202",
+      "NH 202"
+    ]
+  },
+  "PHYS102.02": {
+    "code": "PHYS102.02",
+    "credits": 4,
+    "ects": 8.0,
+    "instructor": "ERHAN GÜLMEZ",
+    "name": "PHYSICS II",
+    "days": [
+      "M",
+      "M",
+      "T",
+      "T",
+      "T",
+      "T",
+      "W",
+      "W",
+      "Th",
+      "Th",
+      "F",
+      "F"
+    ],
+    "hours": [
+      3,
+      4,
+      3,
+      4,
+      7,
+      8,
+      3,
+      4,
+      3,
+      4,
+      3,
+      4
+    ],
+    "rooms": [
+      "LAB",
+      "LAB",
+      "NH 202",
+      "NH 202",
+      "UYG",
+      "UYG",
+      "NH 202",
+      "NH 202",
+      "NH 202",
+      "NH 202",
+      "NH 202",
+      "NH 202"
+    ]
+  },
+  "PHYS130.01": {
+    "code": "PHYS130.01",
+    "credits": 4,
+    "ects": 7.0,
+    "instructor": "ÖZGÜR BURAK ASLAN",
+    "name": "THERMODYN., WAVES, OPTICS & MODERN PHYS.",
+    "days": [
+      "T",
+      "T",
+      "T",
+      "T",
+      "W",
+      "W",
+      "W",
+      "W",
+      "Th",
+      "Th",
+      "Th",
+      "Th"
+    ],
+    "hours": [
+      1,
+      2,
+      5,
+      6,
+      1,
+      2,
+      5,
+      6,
+      1,
+      2,
+      5,
+      6
+    ],
+    "rooms": [
+      "NH 203",
+      "NH 203",
+      "UYG",
+      "UYG",
+      "NH 203",
+      "NH 203",
+      "LAB",
+      "LAB",
+      "NH 203",
+      "NH 203",
+      "NH 203",
+      "NH 203"
+    ]
+  },
+  "PHYS130.02": {
+    "code": "PHYS130.02",
+    "credits": 4,
+    "ects": 7.0,
+    "instructor": "ÖZGÜR BURAK ASLAN",
+    "name": "THERMODYN., WAVES, OPTICS & MODERN PHYS.",
+    "days": [
+      "M",
+      "M",
+      "T",
+      "T",
+      "T",
+      "T",
+      "W",
+      "W",
+      "Th",
+      "Th",
+      "Th",
+      "Th"
+    ],
+    "hours": [
+      5,
+      6,
+      3,
+      4,
+      7,
+      8,
+      3,
+      4,
+      3,
+      4,
+      5,
+      6
+    ],
+    "rooms": [
+      "LAB",
+      "LAB",
+      "NH 203",
+      "NH 203",
+      "UYG",
+      "UYG",
+      "NH 203",
+      "NH 203",
+      "NH 203",
+      "NH 203",
+      "NH 203",
+      "NH 203"
+    ]
+  },
+  "PHYS201.01": {
+    "code": "PHYS201.01",
+    "credits": 4,
+    "ects": 6.0,
+    "instructor": "HAKAN  ERKOL",
+    "name": "PHYSICS III",
+    "days": [
+      "M",
+      "M",
+      "M",
+      "M",
+      "W",
+      "W",
+      "W",
+      "W",
+      "Th",
+      "Th",
+      "Th",
+      "Th"
+    ],
+    "hours": [
+      1,
+      2,
+      5,
+      6,
+      1,
+      2,
+      5,
+      6,
+      1,
+      2,
+      5,
+      6
+    ],
+    "rooms": [
+      "NH 405",
+      "NH 405",
+      "UYG",
+      "UYG",
+      "NH 405",
+      "NH 405",
+      "LAB",
+      "LAB",
+      "NH 405",
+      "NH 405",
+      "NH 405",
+      "NH 405"
+    ]
+  },
+  "PHYS201.02": {
+    "code": "PHYS201.02",
+    "credits": 4,
+    "ects": 6.0,
+    "instructor": "HAKAN  ERKOL",
+    "name": "PHYSICS III",
+    "days": [
+      "M",
+      "M",
+      "M",
+      "M",
+      "W",
+      "W",
+      "W",
+      "W",
+      "Th",
+      "Th",
+      "Th",
+      "Th"
+    ],
+    "hours": [
+      3,
+      4,
+      7,
+      8,
+      3,
+      4,
+      7,
+      8,
+      3,
+      4,
+      7,
+      8
+    ],
+    "rooms": [
+      "NH 405",
+      "NH 405",
+      "UYG",
+      "UYG",
+      "NH 405",
+      "NH 405",
+      "LAB",
+      "LAB",
+      "NH 405",
+      "NH 405",
+      "NH 405",
+      "NH 405"
+    ]
+  },
+  "PHYS201.03": {
+    "code": "PHYS201.03",
+    "credits": 4,
+    "ects": 6.0,
+    "instructor": "MEHMET BURÇİN ÜNLÜ",
+    "name": "PHYSICS III",
+    "days": [
+      "T",
+      "T",
+      "T",
+      "T",
+      "W",
+      "W",
+      "W",
+      "W",
+      "Th",
+      "Th",
+      "Th",
+      "Th"
+    ],
+    "hours": [
+      1,
+      2,
+      3,
+      4,
+      1,
+      2,
+      3,
+      4,
+      1,
+      2,
+      3,
+      4
+    ],
+    "rooms": [
+      "UYG",
+      "UYG",
+      "NH 305",
+      "NH 305",
+      "LAB",
+      "LAB",
+      "NH 305",
+      "NH 305",
+      "LAB",
+      "LAB",
+      "LAB",
+      "LAB"
+    ]
+  },
+  "PHYS201.04": {
+    "code": "PHYS201.04",
+    "credits": 4,
+    "ects": 6.0,
+    "instructor": "MEHMET BURÇİN ÜNLÜ",
+    "name": "PHYSICS III",
+    "days": [
+      "M",
+      "M",
+      "T",
+      "T",
+      "T",
+      "T",
+      "W",
+      "W",
+      "Th",
+      "Th",
+      "F",
+      "F"
+    ],
+    "hours": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      5,
+      6,
+      5,
+      6,
+      3,
+      4
+    ],
+    "rooms": [
+      "LAB",
+      "LAB",
+      "NH 305",
+      "NH 305",
+      "UYG",
+      "UYG",
+      "NH 305",
+      "NH 305",
+      "NH 305",
+      "NH 305",
+      "NH 305",
+      "NH 305"
+    ]
+  },
+  "PHYS201.05": {
+    "code": "PHYS201.05",
+    "credits": 4,
+    "ects": 6.0,
+    "instructor": "YANI SKARLATOS",
+    "name": "PHYSICS III",
+    "days": [
+      "T",
+      "T",
+      "T",
+      "T",
+      "W",
+      "W",
+      "W",
+      "W",
+      "Th",
+      "Th",
+      "Th",
+      "Th"
+    ],
+    "hours": [
+      1,
+      2,
+      3,
+      4,
+      1,
+      2,
+      3,
+      4,
+      1,
+      2,
+      3,
+      4
+    ],
+    "rooms": [
+      "UYG",
+      "UYG",
+      "NH 302",
+      "NH 302",
+      "LAB",
+      "LAB",
+      "NH 302",
+      "NH 302",
+      "LAB",
+      "LAB",
+      "LAB",
+      "LAB"
+    ]
+  },
+  "PHYS201.06": {
+    "code": "PHYS201.06",
+    "credits": 4,
+    "ects": 6.0,
+    "instructor": "YANI SKARLATOS",
+    "name": "PHYSICS III",
+    "days": [
+      "M",
+      "M",
+      "T",
+      "T",
+      "T",
+      "T",
+      "W",
+      "W",
+      "Th",
+      "Th",
+      "F",
+      "F"
+    ],
+    "hours": [
+      5,
+      6,
+      5,
+      6,
+      7,
+      8,
+      5,
+      6,
+      5,
+      6,
+      5,
+      6
+    ],
+    "rooms": [
+      "LAB",
+      "LAB",
+      "NH 302",
+      "NH 302",
+      "UYG",
+      "UYG",
+      "NH 302",
+      "NH 302",
+      "NH 302",
+      "NH 302",
+      "NH 302",
+      "NH 302"
+    ]
+  },
+  "PHYS202.01": {
+    "code": "PHYS202.01",
+    "credits": 4,
+    "ects": 6.0,
+    "instructor": "SERDAR NERGİZ",
+    "name": "PHYSICS IV",
+    "days": [
+      "M",
+      "M",
+      "M",
+      "M",
+      "W",
+      "W",
+      "W",
+      "W",
+      "Th",
+      "Th",
+      "Th",
+      "Th"
+    ],
+    "hours": [
+      1,
+      2,
+      3,
+      4,
+      1,
+      2,
+      3,
+      4,
+      1,
+      2,
+      3,
+      4
+    ],
+    "rooms": [
+      "UYG",
+      "UYG",
+      "NH 404",
+      "NH 404",
+      "LAB",
+      "LAB",
+      "NH 404",
+      "NH 404",
+      "LAB",
+      "LAB",
+      "LAB",
+      "LAB"
+    ]
+  },
+  "PHYS202.02": {
+    "code": "PHYS202.02",
+    "credits": 4,
+    "ects": 6.0,
+    "instructor": "SERDAR NERGİZ",
+    "name": "PHYSICS IV",
+    "days": [
+      "M",
+      "M",
+      "M",
+      "M",
+      "T",
+      "T",
+      "W",
+      "W",
+      "Th",
+      "Th",
+      "F",
+      "F"
+    ],
+    "hours": [
+      5,
+      6,
+      7,
+      8,
+      1,
+      2,
+      5,
+      6,
+      5,
+      6,
+      1,
+      2
+    ],
+    "rooms": [
+      "NH 404",
+      "NH 404",
+      "UYG",
+      "UYG",
+      "LAB",
+      "LAB",
+      "NH 404",
+      "NH 404",
+      "NH 404",
+      "NH 404",
+      "NH 404",
+      "NH 404"
+    ]
+  },
+  "PHYS221.01": {
+    "code": "PHYS221.01",
+    "credits": 3,
+    "ects": 5.0,
+    "instructor": "SERDAR NERGİZ",
+    "name": "THERMAL PROPERTIES OF MATTER",
+    "days": [
+      "M",
+      "M",
+      "W",
+      "W",
+      "Th",
+      "Th",
+      "F",
+      "F",
+      "F",
+      "F"
+    ],
+    "hours": [
+      7,
+      8,
+      7,
+      8,
+      7,
+      8,
+      5,
+      6,
+      7,
+      8
+    ],
+    "rooms": [
+      "NH 404",
+      "NH 404",
+      "NH 404",
+      "NH 404",
+      "NH 404",
+      "NH 404",
+      "LAB",
+      "LAB",
+      "LAB",
+      "LAB"
+    ]
+  },
+  "PHYS325.01": {
+    "code": "PHYS325.01",
+    "credits": 3,
+    "ects": 5.0,
+    "instructor": "METİN ARIK",
+    "name": "MATHEMATICAL METHODS OF PHYSICS I",
+    "days": [
+      "M",
+      "M",
+      "W",
+      "W",
+      "Th",
+      "Th",
+      "Th",
+      "Th",
+      "F",
+      "F"
+    ],
+    "hours": [
+      7,
+      8,
+      7,
+      8,
+      5,
+      6,
+      7,
+      8,
+      7,
+      8
+    ],
+    "rooms": [
+      "KB 125",
+      "KB 125",
+      "KB 125",
+      "KB 125",
+      "KB 125",
+      "KB 125",
+      "KB 125",
+      "KB 125",
+      "KB 125",
+      "KB 125"
+    ]
+  },
+  "POLS342.01": {
+    "code": "POLS342.01",
+    "credits": 3,
+    "ects": 5.0,
+    "instructor": "MEHMET ALİ ÇİÇEKDAĞ",
+    "name": "AMERICAN GOVERNMENT",
+    "days": [
+      "M",
+      "M",
+      "W",
+      "W",
+      "F",
+      "F"
+    ],
+    "hours": [
+      3,
+      4,
+      3,
+      4,
+      3,
+      4
+    ],
+    "rooms": [
+      "İB 201",
+      "İB 201",
+      "İB 201",
+      "İB 201",
+      "İB 201",
+      "İB 201"
+    ]
+  },
+  "POLS348.01": {
+    "code": "POLS348.01",
+    "credits": 3,
+    "ects": 5.0,
+    "instructor": "LEVENT ÖNEN",
+    "name": "PROBLEMS & ISSUES IN TURKISH POLITICS",
+    "days": [
+      "T",
+      "T",
+      "Th",
+      "Th",
+      "F",
+      "F"
+    ],
+    "hours": [
+      5,
+      6,
+      5,
+      6,
+      5,
+      6
+    ],
+    "rooms": [
+      "İB 201",
+      "İB 201",
+      "İB 201",
+      "İB 201",
+      "İB 201",
+      "İB 201"
+    ]
+  },
+  "PSY101.01": {
+    "code": "PSY 101.01",
+    "credits": 3,
+    "ects": 5.0,
+    "instructor": "OYTUN  AYGÜN",
+    "name": "INTRODUCTION TO PSYCHOLOGY",
+    "days": [
+      "T",
+      "T",
+      "T",
+      "Th",
+      "Th",
+      "Th"
+    ],
+    "hours": [
+      6,
+      7,
+      8,
+      6,
+      7,
+      8
+    ],
+    "rooms": [
+      "NH 301",
+      "NH 301",
+      "NH 301",
+      "NH 301",
+      "NH 301",
+      "NH 301"
+    ]
+  },
+  "FR101.01": {
+    "code": "FR  101.01",
+    "credits": 3,
+    "ects": 7.0,
+    "instructor": "PINAR MAYTALMAN",
+    "name": "ELEMENTARY FRENCH I",
+    "days": [
+      "M",
+      "M",
+      "T",
+      "T",
+      "T",
+      "W",
+      "W",
+      "Th",
+      "Th",
+      "Th",
+      "F",
+      "F"
+    ],
+    "hours": [
+      1,
+      2,
+      1,
+      2,
+      3,
+      1,
+      2,
+      1,
+      2,
+      3,
+      1,
+      2
+    ],
+    "rooms": [
+      "JF 101",
+      "JF 101",
+      "M 2152",
+      "M 2152",
+      "M 2152",
+      "M 2230",
+      "M 2230",
+      "M 1100",
+      "M 1100",
+      "M 1100",
+      "M 1100",
+      "M 1100"
+    ]
+  },
+  "FR102.01": {
+    "code": "FR  102.01",
+    "credits": 3,
+    "ects": 7.0,
+    "instructor": "PINAR MAYTALMAN",
+    "name": "ELEMENTARY FRENCH II",
+    "days": [
+      "M",
+      "M",
+      "M",
+      "T",
+      "T",
+      "W",
+      "W",
+      "W",
+      "Th",
+      "Th",
+      "F",
+      "F"
+    ],
+    "hours": [
+      3,
+      4,
+      5,
+      4,
+      5,
+      3,
+      4,
+      5,
+      4,
+      5,
+      3,
+      4
+    ],
+    "rooms": [
+      "JF 101",
+      "JF 101",
+      "JF 101",
+      "M 2152",
+      "M 2152",
+      "M 2230",
+      "M 2230",
+      "M 2230",
+      "M 1100",
+      "M 1100",
+      "M 1100",
+      "M 1100"
+    ]
+  },
+  "GER101.01": {
+    "code": "GER 101.01",
+    "credits": 3,
+    "ects": 7.0,
+    "instructor": "HÜLYA ARIÇ EROL",
+    "name": "ELEMENTARY GERMAN I",
+    "days": [
+      "M",
+      "M",
+      "M",
+      "M",
+      "T",
+      "T",
+      "W",
+      "W",
+      "Th",
+      "Th",
+      "F",
+      "F"
+    ],
+    "hours": [
+      5,
+      6,
+      7,
+      8,
+      1,
+      2,
+      1,
+      2,
+      1,
+      2,
+      1,
+      2
+    ],
+    "rooms": [
+      "JF 102",
+      "JF 102",
+      "JF 102",
+      "JF 102",
+      "JF 334",
+      "JF 334",
+      "JF 331",
+      "JF 331",
+      "JF 331",
+      "JF 331",
+      "JF 331",
+      "JF 331"
+    ]
+  },
+  "GER101.02": {
+    "code": "GER 101.02",
+    "credits": 3,
+    "ects": 7.0,
+    "instructor": "DİLMAN MURADOĞLU",
+    "name": "ELEMENTARY GERMAN I",
+    "days": [
+      "M",
+      "M",
+      "M",
+      "M",
+      "T",
+      "T",
+      "W",
+      "W",
+      "Th",
+      "Th",
+      "F",
+      "F"
+    ],
+    "hours": [
+      1,
+      2,
+      7,
+      8,
+      1,
+      2,
+      1,
+      2,
+      1,
+      2,
+      1,
+      2
+    ],
+    "rooms": [
+      "JF 332",
+      "JF 332",
+      "JF 332",
+      "JF 332",
+      "M 1171",
+      "M 1171",
+      "İB 211",
+      "İB 211",
+      "JF 108",
+      "JF 108",
+      "JF 108",
+      "JF 108"
+    ]
+  },
+  "GER101.03": {
+    "code": "GER 101.03",
+    "credits": 3,
+    "ects": 7.0,
+    "instructor": "HİKMET AYŞE CÖNBEZ",
+    "name": "ELEMENTARY GERMAN I",
+    "days": [
+      "M",
+      "M",
+      "T",
+      "T",
+      "T",
+      "T",
+      "W",
+      "W",
+      "Th",
+      "Th",
+      "F",
+      "F"
+    ],
+    "hours": [
+      5,
+      6,
+      1,
+      2,
+      5,
+      6,
+      5,
+      6,
+      5,
+      6,
+      5,
+      6
+    ],
+    "rooms": [
+      "NH 303",
+      "NH 303",
+      "UYG",
+      "UYG",
+      "NH 303",
+      "NH 303",
+      "NH 402",
+      "NH 402",
+      "NH 303",
+      "NH 303",
+      "NH 303",
+      "NH 303"
+    ]
+  },
+  "GER102.01": {
+    "code": "GER 102.01",
+    "credits": 3,
+    "ects": 7.0,
+    "instructor": "HÜLYA ARIÇ EROL",
+    "name": "ELEMENTARY GERMAN II",
+    "days": [
+      "M",
+      "M",
+      "T",
+      "T",
+      "T",
+      "T",
+      "W",
+      "W",
+      "Th",
+      "Th",
+      "F",
+      "F"
+    ],
+    "hours": [
+      1,
+      3,
+      4,
+      5,
+      6,
+      3,
+      4,
+      3,
+      4,
+      3,
+      4,
+      4
+    ],
+    "rooms": [
+      "JF 102",
+      "JF 102",
+      "JF 334",
+      "JF 334",
+      "JF 334",
+      "JF 334",
+      "JF 331",
+      "JF 331",
+      "JF 331",
+      "JF 331",
+      "JF 331",
+      "JF 331"
+    ]
+  },
+  "GER102.02": {
+    "code": "GER 102.02",
+    "credits": 3,
+    "ects": 7.0,
+    "instructor": "DİLMAN MURADOĞLU",
+    "name": "ELEMENTARY GERMAN II",
+    "days": [
+      "M",
+      "M",
+      "T",
+      "T",
+      "T",
+      "T",
+      "W",
+      "W",
+      "Th",
+      "Th",
+      "F",
+      "F"
+    ],
+    "hours": [
+      3,
+      4,
+      3,
+      4,
+      5,
+      6,
+      3,
+      4,
+      3,
+      4,
+      3,
+      4
+    ],
+    "rooms": [
+      "JF 332",
+      "JF 332",
+      "M 1171",
+      "M 1171",
+      "M 1171",
+      "M 1171",
+      "İB 211",
+      "İB 211",
+      "JF 108",
+      "JF 108",
+      "JF 108",
+      "JF 108"
+    ]
+  },
+  "GER201.01": {
+    "code": "GER 201.01",
+    "credits": 3,
+    "ects": 7.0,
+    "instructor": "HİKMET AYŞE CÖNBEZ",
+    "name": "PRE-INTERMEDIATE GERMAN I",
+    "days": [
+      "M",
+      "M",
+      "M",
+      "M",
+      "T",
+      "T",
+      "W",
+      "W",
+      "Th",
+      "Th",
+      "F",
+      "F"
+    ],
+    "hours": [
+      1,
+      2,
+      3,
+      4,
+      3,
+      4,
+      3,
+      4,
+      3,
+      4,
+      3,
+      4
+    ],
+    "rooms": [
+      "UYG",
+      "UYG",
+      "NH 303",
+      "NH 303",
+      "NH 303",
+      "NH 303",
+      "NH 402",
+      "NH 402",
+      "NH 303",
+      "NH 303",
+      "NH 303",
+      "NH 303"
+    ]
+  },
+  "RUS101.01": {
+    "code": "RUS 101.01",
+    "credits": 3,
+    "ects": 7.0,
+    "instructor": "NATALIA DEMİRKAPILI",
+    "name": "ELEMENTARY RUSSIAN I",
+    "days": [
+      "M",
+      "M",
+      "M",
+      "T",
+      "T",
+      "W",
+      "W",
+      "W",
+      "Th",
+      "Th",
+      "F",
+      "F"
+    ],
+    "hours": [
+      1,
+      2,
+      3,
+      1,
+      2,
+      1,
+      2,
+      3,
+      1,
+      2,
+      1,
+      2
+    ],
+    "rooms": [
+      "JF 331",
+      "JF 331",
+      "JF 331",
+      "JF 108",
+      "JF 108",
+      "JF 101",
+      "JF 101",
+      "JF 101",
+      "İB 201",
+      "İB 201",
+      "İB 201",
+      "İB 201"
+    ]
+  },
+  "SPA101.01": {
+    "code": "SPA 101.01",
+    "credits": 3,
+    "ects": 7.0,
+    "instructor": "NATALIA DEMİRKAPILI",
+    "name": "ELEMENTARY SPANISH I",
+    "days": [
+      "M",
+      "M",
+      "M",
+      "T",
+      "T",
+      "W",
+      "W",
+      "W",
+      "Th",
+      "Th",
+      "F",
+      "F"
+    ],
+    "hours": [
+      4,
+      5,
+      6,
+      3,
+      4,
+      4,
+      5,
+      6,
+      3,
+      4,
+      3,
+      4
+    ],
+    "rooms": [
+      "JF 331",
+      "JF 331",
+      "JF 331",
+      "JF 108",
+      "JF 108",
+      "JF 101",
+      "JF 101",
+      "JF 101",
+      "İB 201",
+      "İB 201",
+      "İB 201",
+      "İB 201"
+    ]
+  },
+  "SOC101.01": {
+    "code": "SOC 101.01",
+    "credits": 3,
+    "ects": 4.0,
+    "instructor": "BERMAL KÜÇÜK",
+    "name": "INTRODUCTION TO SOCIOLOGY",
+    "days": [
+      "T",
+      "T",
+      "W",
+      "W",
+      "Th",
+      "Th"
+    ],
+    "hours": [
+      3,
+      4,
+      3,
+      4,
+      3,
+      4
+    ],
+    "rooms": [
+      "NH 401",
+      "NH 401",
+      "NH 401",
+      "NH 401",
+      "NH 401",
+      "NH 401"
+    ]
+  },
+  "SOC340.01": {
+    "code": "SOC 340.01",
+    "credits": 3,
+    "ects": 6.0,
+    "instructor": "EMRAH IRZIK",
+    "name": "ECON. & SOC. IN COMPARATIVE PERSPECTIVE",
+    "days": [
+      "T",
+      "T",
+      "W",
+      "W",
+      "Th",
+      "Th"
+    ],
+    "hours": [
+      7,
+      8,
+      7,
+      8,
+      7,
+      8
+    ],
+    "rooms": [
+      "M 1170",
+      "M 1170",
+      "NH 203",
+      "NH 203",
+      "M 1170",
+      "M 1170"
+    ]
+  },
+  "SOC342.01": {
+    "code": "SOC 342.01",
+    "credits": 3,
+    "ects": 6.0,
+    "instructor": "BARIŞ ÇETİN EREN",
+    "name": "POLITICAL SOCIOLOGY",
+    "days": [
+      "T",
+      "T",
+      "W",
+      "W",
+      "Th",
+      "Th"
+    ],
+    "hours": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "rooms": [
+      "NB 119",
+      "NB 119",
+      "NB 119",
+      "NB 119",
+      "NB 119",
+      "NB 119"
+    ]
+  },
+  "SOC373.01": {
+    "code": "SOC 373.01",
+    "credits": 3,
+    "ects": 6.0,
+    "instructor": "BARIŞ ÇETİN EREN",
+    "name": "ISSUES IN SOCIOLOGICAL THEORY",
+    "days": [
+      "T",
+      "T",
+      "W",
+      "W",
+      "Th",
+      "Th"
+    ],
+    "hours": [
+      5,
+      6,
+      5,
+      6,
+      5,
+      6
+    ],
+    "rooms": [
+      "M 1152",
+      "M 1152",
+      "NH 202",
+      "NH 202",
+      "İB 102",
+      "İB 102"
+    ]
+  },
+  "SOC462.01": {
+    "code": "SOC 462.01",
+    "credits": 3,
+    "ects": 6.0,
+    "instructor": "BERMAL KÜÇÜK",
+    "name": "SOCIOLOGY OF GENDER",
+    "days": [
+      "T",
+      "T",
+      "W",
+      "W",
+      "Th",
+      "Th"
+    ],
+    "hours": [
+      7,
+      8,
+      7,
+      8,
+      7,
+      8
+    ],
+    "rooms": [
+      "TB 490",
+      "TB 490",
+      "M 1170",
+      "M 1170",
+      "M 1200",
+      "M 1200"
+    ]
+  },
+  "SOC471.01": {
+    "code": "SOC 471.01",
+    "credits": 3,
+    "ects": 6.0,
+    "instructor": "ZEYNEP GİZEM HASPOLAT",
+    "name": "ADV..ISS.IN SOC.THEORY",
+    "days": [
+      "T",
+      "T",
+      "W",
+      "W",
+      "Th",
+      "Th"
+    ],
+    "hours": [
+      5,
+      6,
+      5,
+      6,
+      5,
+      6
+    ],
+    "rooms": [
+      "SOC.SEM.",
+      "SOC.SEM.",
+      "SOC.SEM.",
+      "SOC.SEM.",
+      "SOC.SEM.",
+      "SOC.SEM."
+    ]
+  },
+  "SOC497.01": {
+    "code": "SOC 497.01",
+    "credits": 3,
+    "ects": 6.0,
+    "instructor": "CEMRE AYDOĞAN",
+    "name": "DIRECTED RESEARCH & READINGS III",
+    "days": [
+      "T",
+      "T",
+      "W",
+      "W",
+      "Th",
+      "Th"
+    ],
+    "hours": [
+      3,
+      4,
+      3,
+      4,
+      3,
+      4
+    ],
+    "rooms": [
+      "M 1152",
+      "M 1152",
+      "NB Z12",
+      "NB Z12",
+      "İB 211",
+      "İB 211"
+    ]
+  },
+  "TRM480.01": {
+    "code": "TRM 480.01",
+    "credits": 3,
+    "ects": 5.0,
+    "instructor": "PETEK GÖKER",
+    "name": "SP.TP.HISTORY OF ART AND WORLD MUSEUMS",
+    "days": [
+      "T",
+      "T",
+      "T",
+      "Th",
+      "Th",
+      "Th"
+    ],
+    "hours": [
+      2,
+      3,
+      4,
+      2,
+      3,
+      4
+    ],
+    "rooms": [
+      "M 2230",
+      "M 2230",
+      "M 2230",
+      "M 2230",
+      "M 2230",
+      "M 2230"
+    ]
+  },
+  "TRM482.01": {
+    "code": "TRM 482.01",
+    "credits": 3,
+    "ects": 5.0,
+    "instructor": "PETEK GÖKER",
+    "name": "SP.TP.:WORLD HERITAGE AND THE ART OF TRAVEL",
+    "days": [
+      "T",
+      "T",
+      "T",
+      "Th",
+      "Th",
+      "Th"
+    ],
+    "hours": [
+      7,
+      8,
+      7,
+      8,
+      8,
+      8
+    ],
+    "rooms": [
+      "M 2230",
+      "M 2230",
+      "M 2230",
+      "M 2230",
+      "M 2230",
+      "M 2230"
+    ]
+  },
+  "TK221.01": {
+    "code": "TK  221.01",
+    "credits": 2,
+    "ects": 3.0,
+    "instructor": "KABİL DEMİRKIRAN",
+    "name": "TURKISH FOR NATIVE SPEAKERS I",
+    "days": [
+      "T",
+      "T",
+      "Th",
+      "Th"
+    ],
+    "hours": [
+      1,
+      2,
+      1,
+      2
+    ],
+    "rooms": [
+      "NH 403",
+      "NH 403",
+      "NH 403",
+      "NH 403"
+    ]
+  },
+  "TK221.02": {
+    "code": "TK  221.02",
+    "credits": 2,
+    "ects": 3.0,
+    "instructor": "KABİL DEMİRKIRAN",
+    "name": "TURKISH FOR NATIVE SPEAKERS I",
+    "days": [
+      "T",
+      "T",
+      "Th",
+      "Th"
+    ],
+    "hours": [
+      3,
+      4,
+      3,
+      4
+    ],
+    "rooms": [
+      "NH 403",
+      "NH 403",
+      "NH 403",
+      "NH 403"
+    ]
+  },
+  "TK221.03": {
+    "code": "TK  221.03",
+    "credits": 2,
+    "ects": 3.0,
+    "instructor": "KABİL DEMİRKIRAN",
+    "name": "TURKISH FOR NATIVE SPEAKERS I",
+    "days": [
+      "T",
+      "T",
+      "Th",
+      "Th"
+    ],
+    "hours": [
+      7,
+      8,
+      7,
+      8
+    ],
+    "rooms": [
+      "NH 403",
+      "NH 403",
+      "NH 403",
+      "NH 403"
+    ]
+  },
+  "TK221.04": {
+    "code": "TK  221.04",
+    "credits": 2,
+    "ects": 3.0,
+    "instructor": "KABİL DEMİRKIRAN",
+    "name": "TURKISH FOR NATIVE SPEAKERS I",
+    "days": [
+      "W",
+      "W",
+      "W",
+      "W"
+    ],
+    "hours": [
+      1,
+      2,
+      5,
+      6
+    ],
+    "rooms": [
+      "NH 403",
+      "NH 403",
+      "NH 403",
+      "NH 403"
+    ]
+  },
+  "TK222.01": {
+    "code": "TK  222.01",
+    "credits": 2,
+    "ects": 3.0,
+    "instructor": "HÜLYA BULUT",
+    "name": "TURKISH FOR NATIVE SPEAKERS II",
+    "days": [
+      "Th",
+      "Th",
+      "Th",
+      "Th"
+    ],
+    "hours": [
+      3,
+      4,
+      5,
+      6
+    ],
+    "rooms": [
+      "KP 05",
+      "KP 05",
+      "KP 05",
+      "KP 05"
+    ]
+  },
+  "TK222.02": {
+    "code": "TK  222.02",
+    "credits": 2,
+    "ects": 3.0,
+    "instructor": "ZUHAL İBİDAN",
+    "name": "TURKISH FOR NATIVE SPEAKERS II",
+    "days": [
+      "Th",
+      "Th",
+      "F",
+      "F"
+    ],
+    "hours": [
+      3,
+      4,
+      3,
+      4
+    ],
+    "rooms": [
+      "KP 04",
+      "KP 04",
+      "KP 04",
+      "KP 04"
+    ]
+  },
+  "TK222.03": {
+    "code": "TK  222.03",
+    "credits": 2,
+    "ects": 3.0,
+    "instructor": "ZUHAL İBİDAN",
+    "name": "TURKISH FOR NATIVE SPEAKERS II",
+    "days": [
+      "Th",
+      "Th",
+      "F",
+      "F"
+    ],
+    "hours": [
+      7,
+      8,
+      7,
+      8
+    ],
+    "rooms": [
+      "KP 04",
+      "KP 04",
+      "KP 04",
+      "KP 04"
+    ]
+  },
+  "AR201.01": {
+    "code": "AR  201.01",
+    "credits": 3,
+    "ects": 5.0,
+    "instructor": "ZEYNEP ERTÜRK",
+    "name": "ARABIC I",
+    "days": [
+      "T",
+      "T",
+      "W",
+      "W",
+      "Th",
+      "Th"
+    ],
+    "hours": [
+      2,
+      3,
+      2,
+      3,
+      2,
+      3
+    ],
+    "rooms": [
+      "NB Z11",
+      "NB Z11",
+      "NB Z11",
+      "NB Z11",
+      "NB Z11",
+      "NB Z11"
+    ]
+  },
+  "AR202.01": {
+    "code": "AR  202.01",
+    "credits": 3,
+    "ects": 5.0,
+    "instructor": "ZEYNEP ERTÜRK",
+    "name": "ARABIC II",
+    "days": [
+      "T",
+      "T",
+      "W",
+      "W",
+      "Th",
+      "Th"
+    ],
+    "hours": [
+      6,
+      7,
+      6,
+      7,
+      6,
+      7
+    ],
+    "rooms": [
+      "JF 101",
+      "JF 101",
+      "NB Z10",
+      "NB Z10",
+      "JF 101",
+      "JF 101"
+    ]
+  },
+  "TKF111.01": {
+    "code": "TKF 111.01",
+    "credits": 4,
+    "ects": 6.0,
+    "instructor": "AYDIN SÖYLEMEZ",
+    "name": "ELEMENTARY TURKISH FOR  FOREIGNERS I",
+    "days": [
+      "M",
+      "M",
+      "M",
+      "W",
+      "W",
+      "W",
+      "F",
+      "F"
+    ],
+    "hours": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "rooms": [
+      "NB Z10",
+      "NB Z10",
+      "NB Z10",
+      "NB Z10",
+      "NB Z10",
+      "NB Z10",
+      "NB Z10",
+      "NB Z10"
+    ]
+  },
+  "TKL101.01": {
+    "code": "TKL 101.01",
+    "credits": 4,
+    "ects": 6.0,
+    "instructor": "ÜLKÜ AKÇAY",
+    "name": "OTTOMAN TURKISH I",
+    "days": [
+      "T",
+      "T",
+      "T",
+      "W",
+      "W",
+      "W",
+      "Th",
+      "Th"
+    ],
+    "hours": [
+      6,
+      7,
+      8,
+      6,
+      7,
+      8,
+      6,
+      7
+    ],
+    "rooms": [
+      "NB Z11",
+      "NB Z11",
+      "NB Z11",
+      "NB Z11",
+      "NB Z11",
+      "NB Z11",
+      "NB Z11",
+      "NB Z11"
+    ]
+  },
+  "TKL101.02": {
+    "code": "TKL 101.02",
+    "credits": 4,
+    "ects": 6.0,
+    "instructor": "RESUL ALTUNTAŞ",
+    "name": "OTTOMAN TURKISH I",
+    "days": [
+      "M",
+      "M",
+      "M",
+      "T",
+      "T",
+      "Th",
+      "Th",
+      "Th"
+    ],
+    "hours": [
+      3,
+      4,
+      5,
+      3,
+      4,
+      3,
+      4,
+      5
+    ],
+    "rooms": [
+      "NB Z11",
+      "NB Z11",
+      "NB Z11",
+      "NB Z10",
+      "NB Z10",
+      "NB Z10",
+      "NB Z10",
+      "NB Z10"
+    ]
+  },
+  "TKL102.01": {
+    "code": "TKL 102.01",
+    "credits": 4,
+    "ects": 6.0,
+    "instructor": "RESUL ALTUNTAŞ",
+    "name": "OTTOMAN TURKISH II",
+    "days": [
+      "M",
+      "M",
+      "T",
+      "T",
+      "T",
+      "Th",
+      "Th",
+      "Th"
+    ],
+    "hours": [
+      7,
+      8,
+      6,
+      7,
+      8,
+      7,
+      8,
+      8
+    ],
+    "rooms": [
+      "NB Z11",
+      "NB Z11",
+      "NB Z10",
+      "NB Z10",
+      "NB Z10",
+      "NB Z10",
+      "NB Z10",
+      "NB Z10"
+    ]
+  },
+  "TKL204.01": {
+    "code": "TKL 204.01",
+    "credits": 3,
+    "ects": 6.0,
+    "instructor": "ÜLKÜ AKÇAY",
+    "name": "GENRES IN DIVAN LITERATURE",
+    "days": [
+      "T",
+      "T",
+      "W",
+      "W",
+      "Th",
+      "Th"
+    ],
+    "hours": [
+      4,
+      5,
+      4,
+      5,
+      4,
+      5
+    ],
+    "rooms": [
+      "NB Z11",
+      "NB Z11",
+      "NB Z11",
+      "NB Z11",
+      "NB Z11",
+      "NB Z11"
+    ]
+  },
+  "TKL215.01": {
+    "code": "TKL 215.01",
+    "credits": 3,
+    "ects": 5.0,
+    "instructor": "HASAN KARATAŞ",
+    "name": "OTTOMAN PALEOGRAPHY I",
+    "days": [
+      "T",
+      "T",
+      "T",
+      "Th",
+      "Th",
+      "Th"
+    ],
+    "hours": [
+      1,
+      2,
+      3,
+      5,
+      6,
+      7
+    ],
+    "rooms": [
+      "NB Z12",
+      "NB Z12",
+      "NB Z12",
+      "NB Z12",
+      "NB Z12",
+      "NB Z12"
+    ]
+  },
+  "TKL216.01": {
+    "code": "TKL 216.01",
+    "credits": 3,
+    "ects": 6.0,
+    "instructor": "HASAN KARATAŞ",
+    "name": "OTTOMAN PALEOGRAPHY II",
+    "days": [
+      "T",
+      "T",
+      "T",
+      "Th",
+      "Th",
+      "Th"
+    ],
+    "hours": [
+      5,
+      6,
+      7,
+      1,
+      2,
+      3
+    ],
+    "rooms": [
+      "NB Z12",
+      "NB Z12",
+      "NB Z12",
+      "NB Z12",
+      "NB Z12",
+      "NB Z12"
+    ]
+  },
+  "TKL48M.01": {
+    "code": "TKL 48M.01",
+    "credits": 3,
+    "ects": 6.0,
+    "instructor": "ELİF SEZER AYDINLI",
+    "name": "SP.TP: OTTOMAN BOOK AND READING CULTURE",
+    "days": [
+      "T",
+      "T",
+      "W",
+      "W",
+      "Th",
+      "Th"
+    ],
+    "hours": [
+      7,
+      8,
+      7,
+      8,
+      7,
+      8
+    ],
+    "rooms": [
+      "M 1171",
+      "M 1171",
+      "M 1171",
+      "M 1171",
+      "M 1171",
+      "M 1171"
+    ]
+  },
+  "TKL48N.01": {
+    "code": "TKL 48N.01",
+    "credits": 3,
+    "ects": 6.0,
+    "instructor": "ZUHAL İBİDAN",
+    "name": "THEATER AND POLITICS FROM EMPIRE TO NATION-STATE",
+    "days": [
+      "W",
+      "W",
+      "Th",
+      "Th",
+      "F",
+      "F"
+    ],
+    "hours": [
+      5,
+      6,
+      5,
+      6,
+      5,
+      6
+    ],
+    "rooms": [
+      "KP 04",
+      "KP 04",
+      "KP 04",
+      "KP 04",
+      "KP 04",
+      "KP 04"
+    ]
+  }
+}
