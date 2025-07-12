@@ -1,0 +1,5917 @@
+{
+    "AD432.01": {
+        "code": "AD 432.01",
+        "name": "ENTREPRENEURSHIP",
+        "credits": 3,
+        "ects": 6.0,
+        "instructor": "İZZET SIDKI DARENDELİ",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "T",
+            "T",
+            "T",
+            "Th",
+            "Th",
+            "Th"
+        ],
+        "hours": [
+            "1",
+            "2",
+            "3",
+            "1",
+            "2",
+            "3"
+        ]
+    },
+    "AD442.01": {
+        "code": "AD 442.01",
+        "name": "ADVERTISING",
+        "credits": 3,
+        "ects": 6.0,
+        "instructor": "KIVANÇ KAÇAKGİL",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "M",
+            "M",
+            "M",
+            "T",
+            "T",
+            "T"
+        ],
+        "hours": [
+            "6",
+            "7",
+            "8",
+            "6",
+            "7",
+            "8"
+        ]
+    },
+    "AD495.01": {
+        "code": "AD 495.01",
+        "name": "SP. TP. IN FINANCE: QUANTIATIVE RESEARCH METHODS IN CORPORATE",
+        "credits": 3,
+        "ects": 6.0,
+        "instructor": "AHMET TAYLAN MAVRUK",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "M",
+            "M",
+            "M",
+            "T",
+            "T",
+            "T"
+        ],
+        "hours": [
+            "6",
+            "7",
+            "8",
+            "1",
+            "2",
+            "3"
+        ]
+    },
+    "ADEX508.01": {
+        "code": "ADEX508.01",
+        "name": "FINANCIAL RISK MANAGEMENT",
+        "credits": 2,
+        "ects": 3.0,
+        "instructor": "MELİKŞAH UTKU",
+        "requiredForDept": [
+            "Info"
+        ]
+    },
+    "ADEX521.01": {
+        "code": "ADEX521.01",
+        "name": "SPECIAL TOPICS IN FINANCE&ACCOUNTING",
+        "credits": 2,
+        "ects": 3.0,
+        "instructor": "VEDAT AKGİRAY",
+        "requiredForDept": [
+            "Info"
+        ]
+    },
+    "ADEX539.01": {
+        "code": "ADEX539.01",
+        "name": "GLOBALIZATION&INTERNALIZATION",
+        "credits": 2,
+        "ects": 3.0,
+        "instructor": "ÖZLEM ÖKTEM",
+        "requiredForDept": [
+            "Info"
+        ]
+    },
+    "ADEX542.01": {
+        "code": "ADEX542.01",
+        "name": "MANAGEMENTCONSULTING",
+        "credits": 2,
+        "ects": 3.0,
+        "instructor": "VEDAT AKGİRAY",
+        "requiredForDept": [
+            "Info"
+        ]
+    },
+    "ADEX559.01": {
+        "code": "ADEX559.01",
+        "name": "E-COMMERCE MANAGEMENT",
+        "credits": 2,
+        "ects": 3.0,
+        "instructor": "NESLİHAN N.YILMAZ",
+        "requiredForDept": [
+            "Info"
+        ]
+    },
+    "ADEX563.01": {
+        "code": "ADEX563.01",
+        "name": "DESIGN THINKING&INNOVATION",
+        "credits": 2,
+        "ects": 3.0,
+        "instructor": "NESLİHAN N.YILMAZ",
+        "requiredForDept": [
+            "Info"
+        ]
+    },
+    "ADEX565.01": {
+        "code": "ADEX565.01",
+        "name": "SP. TOP. IN ENTREPRENEURSHIP&INNOVATION",
+        "credits": 2,
+        "ects": 3.0,
+        "instructor": "İZZET SIDKI DARENDELİ",
+        "requiredForDept": [
+            "Info"
+        ]
+    },
+    "ADEX572.01": {
+        "code": "ADEX572.01",
+        "name": "MANAGERIAL DECISION MODELING",
+        "credits": 2,
+        "ects": 3.0,
+        "instructor": "NAZIM TAŞKIN",
+        "requiredForDept": [
+            "Info"
+        ]
+    },
+    "ADEX585.01": {
+        "code": "ADEX585.01",
+        "name": "SP.TOP.ON GLOBAL EXECUTIVE ENVIRONMENT",
+        "credits": 2,
+        "ects": 3.0,
+        "instructor": "KADRİ ÖZGÜNEŞ",
+        "requiredForDept": [
+            "Info"
+        ]
+    },
+    "ADEX590.01": {
+        "code": "ADEX590.01",
+        "name": "SPECIAL TOPICS IN DATA MANAGEMENT",
+        "credits": 2,
+        "ects": 3.0,
+        "instructor": "STAFF STAFF",
+        "requiredForDept": [
+            "Info"
+        ]
+    },
+    "ADEX595.01": {
+        "code": "ADEX595.01",
+        "name": "DIRECTED READINGS IV",
+        "credits": 1,
+        "ects": 3.0,
+        "instructor": "VEDAT AKGİRAY",
+        "requiredForDept": [
+            "Info"
+        ]
+    },
+    "ADEX595.02": {
+        "code": "ADEX595.02",
+        "name": "DIRECTED READINGS IV",
+        "credits": 1,
+        "ects": 3.0,
+        "instructor": "ULAŞ AKKÜÇÜK",
+        "requiredForDept": [
+            "Info"
+        ]
+    },
+    "ADEX595.04": {
+        "code": "ADEX595.04",
+        "name": "DIRECTED READINGS IV",
+        "credits": 1,
+        "ects": 3.0,
+        "instructor": "BELGİN ARISAN",
+        "requiredForDept": [
+            "Info"
+        ]
+    },
+    "ADEX595.07": {
+        "code": "ADEX595.07",
+        "name": "DIRECTED READINGS IV",
+        "credits": 1,
+        "ects": 3.0,
+        "instructor": "ASUNUR CEZAR",
+        "requiredForDept": [
+            "Info"
+        ]
+    },
+    "ADEX595.08": {
+        "code": "ADEX595.08",
+        "name": "DIRECTED READINGS IV",
+        "credits": 1,
+        "ects": 3.0,
+        "instructor": "ALİ COŞKUN",
+        "requiredForDept": [
+            "Info"
+        ]
+    },
+    "ADEX595.09": {
+        "code": "ADEX595.09",
+        "name": "DIRECTED READINGS IV",
+        "credits": 1,
+        "ects": 3.0,
+        "instructor": "METİN ERCAN",
+        "requiredForDept": [
+            "Info"
+        ]
+    },
+    "ADEX595.10": {
+        "code": "ADEX595.10",
+        "name": "DIRECTED READINGS IV",
+        "credits": 1,
+        "ects": 3.0,
+        "instructor": "YAVUZ ACAR",
+        "requiredForDept": [
+            "Info"
+        ]
+    },
+    "ADEX595.11": {
+        "code": "ADEX595.11",
+        "name": "DIRECTED READINGS IV",
+        "credits": 1,
+        "ects": 3.0,
+        "instructor": "ÖZLEM ÖZ",
+        "requiredForDept": [
+            "Info"
+        ]
+    },
+    "ADEX595.15": {
+        "code": "ADEX595.15",
+        "name": "DIRECTED READINGS IV",
+        "credits": 1,
+        "ects": 3.0,
+        "instructor": "İREM NUHOĞLU",
+        "requiredForDept": [
+            "Info"
+        ]
+    },
+    "ADEX595.17": {
+        "code": "ADEX595.17",
+        "name": "DIRECTED READINGS IV",
+        "credits": 1,
+        "ects": 3.0,
+        "instructor": "NESRİN OKAY AKMAN",
+        "requiredForDept": [
+            "Info"
+        ]
+    },
+    "ADEX595.18": {
+        "code": "ADEX595.18",
+        "name": "DIRECTED READINGS IV",
+        "credits": 1,
+        "ects": 3.0,
+        "instructor": "ÖZGÜN BURCU RODOPMAN",
+        "requiredForDept": [
+            "Info"
+        ]
+    },
+    "ADEX595.21": {
+        "code": "ADEX595.21",
+        "name": "DIRECTED READINGS IV",
+        "credits": 1,
+        "ects": 3.0,
+        "instructor": "NESLİHAN N.YILMAZ",
+        "requiredForDept": [
+            "Info"
+        ]
+    },
+    "ADEX595.22": {
+        "code": "ADEX595.22",
+        "name": "DIRECTED READINGS IV",
+        "credits": 1,
+        "ects": 3.0,
+        "instructor": "ALPEREN MANİSALIGİL",
+        "requiredForDept": [
+            "Info"
+        ]
+    },
+    "ADEX595.23": {
+        "code": "ADEX595.23",
+        "name": "DIRECTED READINGS IV",
+        "credits": 1,
+        "ects": 3.0,
+        "instructor": "MEHMET ARTEMEL",
+        "requiredForDept": [
+            "Info"
+        ]
+    },
+    "ADEX599.01": {
+        "code": "ADEX599.01",
+        "name": "TERM PROJECT IV",
+        "credits": 0,
+        "ects": 3.0,
+        "instructor": "VEDAT AKGİRAY",
+        "requiredForDept": [
+            "Info"
+        ]
+    },
+    "ADEX599.02": {
+        "code": "ADEX599.02",
+        "name": "TERM PROJECT IV",
+        "credits": 0,
+        "ects": 3.0,
+        "instructor": "ULAŞ AKKÜÇÜK",
+        "requiredForDept": [
+            "Info"
+        ]
+    },
+    "ADEX599.04": {
+        "code": "ADEX599.04",
+        "name": "TERM PROJECT IV",
+        "credits": 0,
+        "ects": 3.0,
+        "instructor": "BELGİN ARISAN",
+        "requiredForDept": [
+            "Info"
+        ]
+    },
+    "ADEX599.07": {
+        "code": "ADEX599.07",
+        "name": "TERM PROJECT IV",
+        "credits": 0,
+        "ects": 3.0,
+        "instructor": "ASUNUR CEZAR",
+        "requiredForDept": [
+            "Info"
+        ]
+    },
+    "ADEX599.08": {
+        "code": "ADEX599.08",
+        "name": "TERM PROJECT IV",
+        "credits": 0,
+        "ects": 3.0,
+        "instructor": "ALİ COŞKUN",
+        "requiredForDept": [
+            "Info"
+        ]
+    },
+    "ADEX599.09": {
+        "code": "ADEX599.09",
+        "name": "TERM PROJECT IV",
+        "credits": 0,
+        "ects": 3.0,
+        "instructor": "METİN ERCAN",
+        "requiredForDept": [
+            "Info"
+        ]
+    },
+    "ADEX599.10": {
+        "code": "ADEX599.10",
+        "name": "TERM PROJECT IV",
+        "credits": 0,
+        "ects": 3.0,
+        "instructor": "YAVUZ ACAR",
+        "requiredForDept": [
+            "Info"
+        ]
+    },
+    "ADEX599.11": {
+        "code": "ADEX599.11",
+        "name": "TERM PROJECT IV",
+        "credits": 0,
+        "ects": 3.0,
+        "instructor": "ÖZLEM ÖZ",
+        "requiredForDept": [
+            "Info"
+        ]
+    },
+    "ADEX599.15": {
+        "code": "ADEX599.15",
+        "name": "TERM PROJECT IV",
+        "credits": 0,
+        "ects": 3.0,
+        "instructor": "İREM NUHOĞLU",
+        "requiredForDept": [
+            "Info"
+        ]
+    },
+    "ADEX599.17": {
+        "code": "ADEX599.17",
+        "name": "TERM PROJECT IV",
+        "credits": 0,
+        "ects": 3.0,
+        "instructor": "NESRİN OKAY AKMAN",
+        "requiredForDept": [
+            "Info"
+        ]
+    },
+    "ADEX599.18": {
+        "code": "ADEX599.18",
+        "name": "TERM PROJECT IV",
+        "credits": 0,
+        "ects": 3.0,
+        "instructor": "ÖZGÜN BURCU RODOPMAN",
+        "requiredForDept": [
+            "Info"
+        ]
+    },
+    "ADEX599.21": {
+        "code": "ADEX599.21",
+        "name": "TERM PROJECT IV",
+        "credits": 0,
+        "ects": 3.0,
+        "instructor": "NESLİHAN N.YILMAZ",
+        "requiredForDept": [
+            "Info"
+        ]
+    },
+    "ADEX599.22": {
+        "code": "ADEX599.22",
+        "name": "TERM PROJECT IV",
+        "credits": 0,
+        "ects": 3.0,
+        "instructor": "ALPEREN MANİSALIGİL",
+        "requiredForDept": [
+            "Info"
+        ]
+    },
+    "ADEX599.23": {
+        "code": "ADEX599.23",
+        "name": "TERM PROJECT IV",
+        "credits": 0,
+        "ects": 3.0,
+        "instructor": "MEHMET ARTEMEL",
+        "requiredForDept": [
+            "Info"
+        ]
+    },
+    "AL312.01": {
+        "code": "AL 312.01",
+        "name": "SURVEY OF AMERICAN LIT. FROM LATE 19 CEN",
+        "credits": 3,
+        "ects": 6.0,
+        "instructor": "N.CİHAN YURDAÜN",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "T",
+            "T",
+            "W",
+            "W",
+            "Th",
+            "Th",
+            "F",
+            "F"
+        ],
+        "hours": [
+            "3",
+            "4",
+            "3",
+            "4",
+            "3",
+            "4",
+            "3",
+            "4"
+        ]
+    },
+    "AR201.01": {
+        "code": "AR 201.01",
+        "name": "ARABIC I",
+        "credits": 3,
+        "ects": 5.0,
+        "instructor": "MUHAMMED CEMAL ALHUŞAN",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "T",
+            "T",
+            "W",
+            "W",
+            "Th",
+            "Th"
+        ],
+        "hours": [
+            "1",
+            "2",
+            "1",
+            "2",
+            "1",
+            "2"
+        ]
+    },
+    "CET360.01": {
+        "code": "CET 360.01",
+        "name": "INSTRUCTIONAL TECHNOLOGIES & MATERIALS D",
+        "credits": 3,
+        "ects": 5.0,
+        "instructor": "RIDVAN ATA",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "M",
+            "M",
+            "M",
+            "M",
+            "T",
+            "T",
+            "T",
+            "T"
+        ],
+        "hours": [
+            "2",
+            "3",
+            "4",
+            "5",
+            "2",
+            "3",
+            "4",
+            "5"
+        ]
+    },
+    "CET360.02": {
+        "code": "CET 360.02",
+        "name": "INSTRUCTIONAL TECHNOLOGIES & MATERIALS D",
+        "credits": 3,
+        "ects": 5.0,
+        "instructor": "RIDVAN ATA",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "W",
+            "W",
+            "W",
+            "W",
+            "Th",
+            "Th",
+            "Th",
+            "Th"
+        ],
+        "hours": [
+            "2",
+            "3",
+            "4",
+            "5",
+            "2",
+            "3",
+            "4",
+            "5"
+        ]
+    },
+    "CHEM101.01": {
+        "code": "CHEM101.01",
+        "name": "GENERAL CHEMISTRY I",
+        "credits": 3,
+        "ects": 6.0,
+        "instructor": "JESMI ÇAVUŞOĞLU",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "T",
+            "T",
+            "T",
+            "T",
+            "W",
+            "W",
+            "Th",
+            "Th"
+        ],
+        "hours": [
+            "1",
+            "2",
+            "5",
+            "6",
+            "5",
+            "6",
+            "5",
+            "6"
+        ]
+    },
+    "CHEM102.01": {
+        "code": "CHEM102.01",
+        "name": "GENERAL CHEMISTRY II",
+        "credits": 3,
+        "ects": 6.0,
+        "instructor": "FİLİZ EMLİK",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "M",
+            "M",
+            "M",
+            "M",
+            "T",
+            "T",
+            "W",
+            "W"
+        ],
+        "hours": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "1",
+            "2",
+            "1",
+            "2"
+        ]
+    },
+    "CHEM105.01": {
+        "code": "CHEM105.01",
+        "name": "FUNDAMENTALS OF CHEMISTRY",
+        "credits": 4,
+        "ects": 6.0,
+        "instructor": "JESMI ÇAVUŞOĞLU",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "T",
+            "T",
+            "T",
+            "T",
+            "W",
+            "W",
+            "W",
+            "W",
+            "Th",
+            "Th",
+            "Th",
+            "Th",
+            "Th",
+            "Th"
+        ],
+        "hours": [
+            "3",
+            "4",
+            "7",
+            "8",
+            "3",
+            "4",
+            "7",
+            "8",
+            "1",
+            "2",
+            "3",
+            "4",
+            "7",
+            "8"
+        ]
+    },
+    "CHEM106.01.Desc.": {
+        "code": "CHEM106.01",
+        "name": "GENERAL CHEMISTRY LABORATORY",
+        "credits": 2,
+        "ects": 4.0,
+        "instructor": "FİLİZ EMLİK",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "M",
+            "M",
+            "M",
+            "M",
+            "T",
+            "T",
+            "T",
+            "T"
+        ],
+        "hours": [
+            "5",
+            "6",
+            "7",
+            "8",
+            "5",
+            "6",
+            "7",
+            "8"
+        ]
+    },
+    "CL48G.01": {
+        "code": "CL 48G.01",
+        "name": "POSTCOLONIAL THEORY AND LITERATURE: POLITICS AND AESTHETICS OF REPRESENTATION",
+        "credits": 3,
+        "ects": 6.0,
+        "instructor": "ESRA MİRZE SANTESSO",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "T",
+            "T",
+            "T",
+            "T",
+            "F",
+            "F",
+            "F",
+            "F"
+        ],
+        "hours": [
+            "6",
+            "7",
+            "8",
+            "9",
+            "6",
+            "7",
+            "8",
+            "9"
+        ]
+    },
+    "CMPE210.01": {
+        "code": "CMPE210.01",
+        "name": "FUNDAMENTALS OF OBJECT ORIENTED PROG.",
+        "credits": 4,
+        "ects": 5.0,
+        "instructor": "SADIK FİKRET GÜRGEN",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "M",
+            "M",
+            "T",
+            "T",
+            "W",
+            "W",
+            "W"
+        ],
+        "hours": [
+            "1",
+            "2",
+            "1",
+            "2",
+            "1",
+            "2",
+            "7"
+        ]
+    },
+    "CMPE496.01": {
+        "code": "CMPE496.01",
+        "name": "SP.TOP.IN CMPE:HUMAN COMPUTER INTERACTIO",
+        "credits": 3,
+        "ects": 6.0,
+        "instructor": "SADIK FİKRET GÜRGEN",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "M",
+            "M",
+            "T",
+            "T",
+            "W",
+            "W"
+        ],
+        "hours": [
+            "3",
+            "4",
+            "3",
+            "4",
+            "3",
+            "4"
+        ]
+    },
+    "DSAI301.01": {
+        "code": "DSAI301.01",
+        "name": "INTRODUCTION TO PROGRAMMING WITH PYTHON",
+        "credits": 4,
+        "ects": 10.0,
+        "instructor": "HÜSEYİN OKTAY ALTUN",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "M",
+            "M",
+            "M",
+            "W",
+            "W",
+            "W",
+            "Th",
+            "Th",
+            "Th",
+            "Th"
+        ],
+        "hours": [
+            "1",
+            "2",
+            "3",
+            "1",
+            "2",
+            "3",
+            "1",
+            "2",
+            "3",
+            "4"
+        ]
+    },
+    "EC101.01": {
+        "code": "EC 101.01",
+        "name": "PRINCIPLES OF MICROECONOMICS",
+        "credits": 3,
+        "ects": 6.0,
+        "instructor": "İBRAHİM DEMİR",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "T",
+            "T",
+            "W",
+            "W",
+            "Th",
+            "Th",
+            "F",
+            "F",
+            "F",
+            "F"
+        ],
+        "hours": [
+            "5",
+            "6",
+            "5",
+            "6",
+            "5",
+            "6",
+            "5",
+            "6",
+            "7",
+            "8"
+        ]
+    },
+    "EC101.02": {
+        "code": "EC 101.02",
+        "name": "PRINCIPLES OF MICROECONOMICS",
+        "credits": 3,
+        "ects": 6.0,
+        "instructor": "GÜZİN GÜLSÜN AKIN",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "T",
+            "T",
+            "W",
+            "W",
+            "Th",
+            "Th",
+            "F",
+            "F",
+            "F",
+            "F"
+        ],
+        "hours": [
+            "2",
+            "3",
+            "2",
+            "3",
+            "2",
+            "3",
+            "1",
+            "2",
+            "3",
+            "4"
+        ]
+    },
+    "EC305.01": {
+        "code": "EC 305.01",
+        "name": "URBAN ECONOMICS",
+        "credits": 3,
+        "ects": 6.0,
+        "instructor": "GÜZİN GÜLSÜN AKIN",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "T",
+            "T",
+            "W",
+            "W",
+            "Th",
+            "Th"
+        ],
+        "hours": [
+            "6",
+            "7",
+            "6",
+            "7",
+            "6",
+            "7"
+        ]
+    },
+    "EE210.01": {
+        "code": "EE 210.01",
+        "name": "INTRODUCTION TO ELECTRICAL ENGINEERING",
+        "credits": 3,
+        "ects": 6.0,
+        "instructor": "SELİM ŞEKER",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "M",
+            "M",
+            "M",
+            "M",
+            "M",
+            "M"
+        ],
+        "hours": [
+            "1",
+            "2",
+            "3",
+            "6",
+            "7",
+            "8"
+        ]
+    },
+    "EF552.01": {
+        "code": "EF 552.01",
+        "name": "INTERNATIONAL FINANCIAL MARKETS",
+        "credits": 3,
+        "ects": 8.0,
+        "instructor": "ORHAN AYGÜN",
+        "requiredForDept": [
+            "Info"
+        ]
+    },
+    "EF558.01": {
+        "code": "EF 558.01",
+        "name": "DERIVATIVES",
+        "credits": 3,
+        "ects": 8.0,
+        "instructor": "BEGÜM ÖZKAYNAK",
+        "requiredForDept": [
+            "Info"
+        ]
+    },
+    "EF562.01": {
+        "code": "EF 562.01",
+        "name": "ADVANCED CORPORATE FINANCE",
+        "credits": 3,
+        "ects": 8.0,
+        "instructor": "KIVANÇ KARAMAN",
+        "requiredForDept": [
+            "Info"
+        ]
+    },
+    "EF582.01": {
+        "code": "EF 582.01",
+        "name": "DIR.READ.ON THE STRUC.OF FIN.MARKETS II",
+        "credits": 1,
+        "ects": 1.0,
+        "instructor": "KIVANÇ KARAMAN",
+        "requiredForDept": [
+            "Info"
+        ]
+    },
+    "EF583.01": {
+        "code": "EF 583.01",
+        "name": "DIR. READ. ON THE STRUC. FIN.MARKETS III",
+        "credits": 1,
+        "ects": 1.0,
+        "instructor": "GÜZİN GÜLSÜN AKIN",
+        "requiredForDept": [
+            "Info"
+        ]
+    },
+    "EF583.02": {
+        "code": "EF 583.02",
+        "name": "DIR. READ. ON THE STRUC. FIN.MARKETS III",
+        "credits": 1,
+        "ects": 1.0,
+        "instructor": "ORHAN AYGÜN",
+        "requiredForDept": [
+            "Info"
+        ]
+    },
+    "EF583.03": {
+        "code": "EF 583.03",
+        "name": "DIR. READ. ON THE STRUC. FIN.MARKETS III",
+        "credits": 1,
+        "ects": 1.0,
+        "instructor": "BURÇAY ERUS",
+        "requiredForDept": [
+            "Info"
+        ]
+    },
+    "EF583.04": {
+        "code": "EF 583.04",
+        "name": "DIR. READ. ON THE STRUC. FIN.MARKETS III",
+        "credits": 1,
+        "ects": 1.0,
+        "instructor": "MEHMET YİĞİT GÜRDAL",
+        "requiredForDept": [
+            "Info"
+        ]
+    },
+    "EF583.05": {
+        "code": "EF 583.05",
+        "name": "DIR. READ. ON THE STRUC. FIN.MARKETS III",
+        "credits": 1,
+        "ects": 1.0,
+        "instructor": "OZAN HATİPOĞLU",
+        "requiredForDept": [
+            "Info"
+        ]
+    },
+    "EF583.06": {
+        "code": "EF 583.06",
+        "name": "DIR. READ. ON THE STRUC. FIN.MARKETS III",
+        "credits": 1,
+        "ects": 1.0,
+        "instructor": "AYŞE YELİZ KAÇAMAK",
+        "requiredForDept": [
+            "Info"
+        ]
+    },
+    "EF583.07": {
+        "code": "EF 583.07",
+        "name": "DIR. READ. ON THE STRUC. FIN.MARKETS III",
+        "credits": 1,
+        "ects": 1.0,
+        "instructor": "MURAT KOYUNCU",
+        "requiredForDept": [
+            "Info"
+        ]
+    },
+    "EF583.08": {
+        "code": "EF 583.08",
+        "name": "DIR. READ. ON THE STRUC. FIN.MARKETS III",
+        "credits": 1,
+        "ects": 1.0,
+        "instructor": "TOLGA UMUT KUZUBAŞ",
+        "requiredForDept": [
+            "Info"
+        ]
+    },
+    "EF583.10": {
+        "code": "EF 583.10",
+        "name": "DIR. READ. ON THE STRUC. FIN.MARKETS III",
+        "credits": 1,
+        "ects": 1.0,
+        "instructor": "BEGÜM ÖZKAYNAK",
+        "requiredForDept": [
+            "Info"
+        ]
+    },
+    "EF583.11": {
+        "code": "EF 583.11",
+        "name": "DIR. READ. ON THE STRUC. FIN.MARKETS III",
+        "credits": 1,
+        "ects": 1.0,
+        "instructor": "ORHAN TORUL",
+        "requiredForDept": [
+            "Info"
+        ]
+    },
+    "EF583.12": {
+        "code": "EF 583.12",
+        "name": "DIR. READ. ON THE STRUC. FIN.MARKETS III",
+        "credits": 1,
+        "ects": 1.0,
+        "instructor": "LEVENT YILDIRAN",
+        "requiredForDept": [
+            "Info"
+        ]
+    },
+    "EF583.13": {
+        "code": "EF 583.13",
+        "name": "DIR. READ. ON THE STRUC. FIN.MARKETS III",
+        "credits": 1,
+        "ects": 1.0,
+        "instructor": "EMEKCAN YÜCEL",
+        "requiredForDept": [
+            "Info"
+        ]
+    },
+    "EF592.01": {
+        "code": "EF 592.01",
+        "name": "TERM PROJECT II",
+        "credits": 0,
+        "ects": 3.0,
+        "instructor": "KIVANÇ KARAMAN",
+        "requiredForDept": [
+            "Info"
+        ]
+    },
+    "EF593.01": {
+        "code": "EF 593.01",
+        "name": "TERM PROJECT III",
+        "credits": 0,
+        "ects": 3.0,
+        "instructor": "GÜZİN GÜLSÜN AKIN",
+        "requiredForDept": [
+            "Info"
+        ]
+    },
+    "EF593.02": {
+        "code": "EF 593.02",
+        "name": "TERM PROJECT III",
+        "credits": 0,
+        "ects": 3.0,
+        "instructor": "ORHAN AYGÜN",
+        "requiredForDept": [
+            "Info"
+        ]
+    },
+    "EF593.03": {
+        "code": "EF 593.03",
+        "name": "TERM PROJECT III",
+        "credits": 0,
+        "ects": 3.0,
+        "instructor": "BURÇAY ERUS",
+        "requiredForDept": [
+            "Info"
+        ]
+    },
+    "EF593.04": {
+        "code": "EF 593.04",
+        "name": "TERM PROJECT III",
+        "credits": 0,
+        "ects": 3.0,
+        "instructor": "MEHMET YİĞİT GÜRDAL",
+        "requiredForDept": [
+            "Info"
+        ]
+    },
+    "EF593.05": {
+        "code": "EF 593.05",
+        "name": "TERM PROJECT III",
+        "credits": 0,
+        "ects": 3.0,
+        "instructor": "OZAN HATİPOĞLU",
+        "requiredForDept": [
+            "Info"
+        ]
+    },
+    "EF593.06": {
+        "code": "EF 593.06",
+        "name": "TERM PROJECT III",
+        "credits": 0,
+        "ects": 3.0,
+        "instructor": "AYŞE YELİZ KAÇAMAK",
+        "requiredForDept": [
+            "Info"
+        ]
+    },
+    "EF593.07": {
+        "code": "EF 593.07",
+        "name": "TERM PROJECT III",
+        "credits": 0,
+        "ects": 3.0,
+        "instructor": "MURAT KOYUNCU",
+        "requiredForDept": [
+            "Info"
+        ]
+    },
+    "EF593.08": {
+        "code": "EF 593.08",
+        "name": "TERM PROJECT III",
+        "credits": 0,
+        "ects": 3.0,
+        "instructor": "TOLGA UMUT KUZUBAŞ",
+        "requiredForDept": [
+            "Info"
+        ]
+    },
+    "EF593.10": {
+        "code": "EF 593.10",
+        "name": "TERM PROJECT III",
+        "credits": 0,
+        "ects": 3.0,
+        "instructor": "BEGÜM ÖZKAYNAK",
+        "requiredForDept": [
+            "Info"
+        ]
+    },
+    "EF593.11": {
+        "code": "EF 593.11",
+        "name": "TERM PROJECT III",
+        "credits": 0,
+        "ects": 3.0,
+        "instructor": "ORHAN TORUL",
+        "requiredForDept": [
+            "Info"
+        ]
+    },
+    "EF593.12": {
+        "code": "EF 593.12",
+        "name": "TERM PROJECT III",
+        "credits": 0,
+        "ects": 3.0,
+        "instructor": "LEVENT YILDIRAN",
+        "requiredForDept": [
+            "Info"
+        ]
+    },
+    "EF593.13": {
+        "code": "EF 593.13",
+        "name": "TERM PROJECT III",
+        "credits": 0,
+        "ects": 3.0,
+        "instructor": "EMEKCAN YÜCEL",
+        "requiredForDept": [
+            "Info"
+        ]
+    },
+    "ESC305.01": {
+        "code": "ESC 305.01",
+        "name": "GLOBAL CLIMATE CHANGE",
+        "credits": 3,
+        "ects": 6.0,
+        "instructor": "BURAK DEMİREL",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "T",
+            "T",
+            "W",
+            "W",
+            "Th",
+            "Th"
+        ],
+        "hours": [
+            "3",
+            "4",
+            "3",
+            "4",
+            "3",
+            "4"
+        ]
+    },
+    "ESC351.01": {
+        "code": "ESC 351.01",
+        "name": "SUSTAINABLE DEVELOPMENT",
+        "credits": 3,
+        "ects": 6.0,
+        "instructor": "TAMER ATABARUT",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "T",
+            "T",
+            "T",
+            "Th",
+            "Th",
+            "Th"
+        ],
+        "hours": [
+            "5",
+            "6",
+            "7",
+            "5",
+            "6",
+            "7"
+        ]
+    },
+    "FA341.01": {
+        "code": "FA 341.01",
+        "name": "HISTORY OF THE CINEMA",
+        "credits": 3,
+        "ects": 5.0,
+        "instructor": "ŞAHAN YATARKALKMAZ",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "T",
+            "T",
+            "T",
+            "T",
+            "W",
+            "W",
+            "Th",
+            "Th",
+            "Th",
+            "Th"
+        ],
+        "hours": [
+            "3",
+            "4",
+            "5",
+            "6",
+            "9",
+            "10",
+            "3",
+            "4",
+            "5",
+            "6"
+        ]
+    },
+    "FA348.01": {
+        "code": "FA 348.01",
+        "name": "INTRODUCTION TO FILM ANALYSIS",
+        "credits": 3,
+        "ects": 5.0,
+        "instructor": "TUBA AY",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "M",
+            "M",
+            "M",
+            "M",
+            "T",
+            "T",
+            "T",
+            "T",
+            "W",
+            "W"
+        ],
+        "hours": [
+            "5",
+            "6",
+            "7",
+            "8",
+            "5",
+            "6",
+            "7",
+            "8",
+            "5",
+            "6"
+        ]
+    },
+    "FA348.02": {
+        "code": "FA 348.02",
+        "name": "INTRODUCTION TO FILM ANALYSIS",
+        "credits": 3,
+        "ects": 5.0,
+        "instructor": "TUBA AY",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "W",
+            "W",
+            "Th",
+            "Th",
+            "Th",
+            "Th",
+            "F",
+            "F",
+            "F",
+            "F"
+        ],
+        "hours": [
+            "8",
+            "9",
+            "5",
+            "6",
+            "7",
+            "8",
+            "5",
+            "6",
+            "7",
+            "8"
+        ]
+    },
+    "FA482.01": {
+        "code": "FA 482.01",
+        "name": "SP.TP. WORLD CINEMA",
+        "credits": 3,
+        "ects": 5.0,
+        "instructor": "ALİ MURAT AKSER",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "M",
+            "M",
+            "M",
+            "W",
+            "W",
+            "W"
+        ],
+        "hours": [
+            "6",
+            "7",
+            "8",
+            "6",
+            "7",
+            "8"
+        ]
+    },
+    "FA483.01": {
+        "code": "FA 483.01",
+        "name": "SP.TP.COMPREHENSIVE FILM APPRECIATION II",
+        "credits": 3,
+        "ects": 5.0,
+        "instructor": "ŞAHAN YATARKALKMAZ",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "T",
+            "T",
+            "T",
+            "Th",
+            "Th",
+            "Th"
+        ],
+        "hours": [
+            "7",
+            "8",
+            "9",
+            "7",
+            "8",
+            "9"
+        ]
+    },
+    "FA486.01": {
+        "code": "FA 486.01",
+        "name": "SPECIAL TOPICS.:SCRIPTWRITING",
+        "credits": 3,
+        "ects": 5.0,
+        "instructor": "SALİH MEHMET İNAN",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "M",
+            "M",
+            "M",
+            "W",
+            "W",
+            "W"
+        ],
+        "hours": [
+            "3",
+            "4",
+            "5",
+            "3",
+            "4",
+            "5"
+        ]
+    },
+    "FA48J.01": {
+        "code": "FA 48J.01",
+        "name": "SP.TP.MYTHIC STRUC.&STORYTELLING IN CIN.",
+        "credits": 3,
+        "ects": 5.0,
+        "instructor": "SALİH MEHMET İNAN",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "T",
+            "T",
+            "T",
+            "Th",
+            "Th",
+            "Th"
+        ],
+        "hours": [
+            "3",
+            "4",
+            "5",
+            "3",
+            "4",
+            "5"
+        ]
+    },
+    "FA48Z.01": {
+        "code": "FA 48Z.01",
+        "name": "SP.TOP. NONFICTION FILMMAKING",
+        "credits": 3,
+        "ects": 5.0,
+        "instructor": "DİDEM PEKÜN",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "T",
+            "T",
+            "T",
+            "Th",
+            "Th",
+            "Th"
+        ],
+        "hours": [
+            "9",
+            "10",
+            "11",
+            "9",
+            "10",
+            "11"
+        ]
+    },
+    "FA49V.01": {
+        "code": "FA 49V.01",
+        "name": "SP.TP.COMICS TO GRAPHIC NOVEL",
+        "credits": 3,
+        "ects": 5.0,
+        "instructor": "MEHMET EMİN ADANALI",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "M",
+            "M",
+            "M",
+            "M",
+            "M",
+            "M"
+        ],
+        "hours": [
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8"
+        ]
+    },
+    "FLED224.01": {
+        "code": "FLED224.01",
+        "name": "SECOND LANGUAGE TEACHING METHODS",
+        "credits": 3,
+        "ects": 6.0,
+        "instructor": "SUMRU AKCAN",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "T",
+            "T",
+            "W",
+            "W",
+            "Th",
+            "Th"
+        ],
+        "hours": [
+            "1",
+            "2",
+            "1",
+            "2",
+            "1",
+            "2"
+        ]
+    },
+    "GER101.01": {
+        "code": "GER 101.01",
+        "name": "ELEMENTARY GERMAN I",
+        "credits": 3,
+        "ects": 7.0,
+        "instructor": "ZEKİ POLAT",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "M",
+            "M",
+            "M",
+            "M",
+            "T",
+            "T",
+            "W",
+            "W",
+            "Th",
+            "Th",
+            "F",
+            "F"
+        ],
+        "hours": [
+            "3",
+            "4",
+            "5",
+            "6",
+            "5",
+            "6",
+            "5",
+            "6",
+            "5",
+            "6",
+            "5",
+            "6"
+        ]
+    },
+    "GER101.02": {
+        "code": "GER 101.02",
+        "name": "ELEMENTARY GERMAN I",
+        "credits": 3,
+        "ects": 7.0,
+        "instructor": "HÜLYA ARIÇ EROL",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "M",
+            "M",
+            "M",
+            "M",
+            "T",
+            "T",
+            "W",
+            "W",
+            "Th",
+            "Th",
+            "F",
+            "F"
+        ],
+        "hours": [
+            "5",
+            "6",
+            "7",
+            "8",
+            "1",
+            "2",
+            "1",
+            "2",
+            "1",
+            "2",
+            "1",
+            "2"
+        ]
+    },
+    "GER102.01": {
+        "code": "GER 102.01",
+        "name": "ELEMENTARY GERMAN II",
+        "credits": 3,
+        "ects": 7.0,
+        "instructor": "MÜJGAN ŞAHİNOĞLU",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "M",
+            "M",
+            "M",
+            "M",
+            "T",
+            "T",
+            "W",
+            "W",
+            "Th",
+            "Th",
+            "F",
+            "F"
+        ],
+        "hours": [
+            "3",
+            "4",
+            "5",
+            "6",
+            "5",
+            "6",
+            "5",
+            "6",
+            "5",
+            "6",
+            "5",
+            "6"
+        ]
+    },
+    "GER201.01": {
+        "code": "GER 201.01",
+        "name": "PRE-INTERMEDIATE GERMAN I",
+        "credits": 3,
+        "ects": 7.0,
+        "instructor": "MÜJGAN ŞAHİNOĞLU",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "M",
+            "M",
+            "T",
+            "T",
+            "T",
+            "T",
+            "W",
+            "W",
+            "Th",
+            "Th",
+            "F",
+            "F"
+        ],
+        "hours": [
+            "7",
+            "8",
+            "3",
+            "4",
+            "7",
+            "8",
+            "7",
+            "8",
+            "7",
+            "8",
+            "7",
+            "8"
+        ]
+    },
+    "GER202.01": {
+        "code": "GER 202.01",
+        "name": "PRE-INTERMEDIATE GERMAN II",
+        "credits": 3,
+        "ects": 7.0,
+        "instructor": "ZEKİ POLAT",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "M",
+            "M",
+            "T",
+            "T",
+            "T",
+            "T",
+            "W",
+            "W",
+            "Th",
+            "Th",
+            "F",
+            "F"
+        ],
+        "hours": [
+            "7",
+            "8",
+            "3",
+            "4",
+            "7",
+            "8",
+            "7",
+            "8",
+            "7",
+            "8",
+            "7",
+            "8"
+        ]
+    },
+    "GER301.01": {
+        "code": "GER 301.01",
+        "name": "INTERMEDIATE GERMAN I",
+        "credits": 3,
+        "ects": 7.0,
+        "instructor": "HÜLYA ARIÇ EROL",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "M",
+            "M",
+            "T",
+            "T",
+            "T",
+            "T",
+            "W",
+            "W",
+            "Th",
+            "Th",
+            "F",
+            "F"
+        ],
+        "hours": [
+            "9",
+            "10",
+            "3",
+            "4",
+            "5",
+            "6",
+            "3",
+            "4",
+            "3",
+            "4",
+            "3",
+            "4"
+        ]
+    },
+    "HIST49A.01": {
+        "code": "HIST49A.01",
+        "name": "SP.TP. CHARITY, PHILANTHROPY AND HUMANITARIANISM IN THE LATE OTTOMAN EMPIRE",
+        "credits": 3,
+        "ects": 6.0,
+        "instructor": "MÜNEVVER HATİPOĞLU",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "T",
+            "T",
+            "W",
+            "W",
+            "Th",
+            "Th"
+        ],
+        "hours": [
+            "3",
+            "4",
+            "3",
+            "4",
+            "3",
+            "4"
+        ]
+    },
+    "HIST49E.01": {
+        "code": "HIST49E.01",
+        "name": "SP.TOP:HISTORY OF İST.THROUGH URBAN EXILE (FIRST HALF OF THE 20TH CENTURY) SOURCES,METHODS,CONCEPTS",
+        "credits": 3,
+        "ects": 5.0,
+        "instructor": "EKATERINA AYGÜN",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "T",
+            "T",
+            "W",
+            "W",
+            "Th",
+            "Th"
+        ],
+        "hours": [
+            "6",
+            "7",
+            "6",
+            "7",
+            "6",
+            "7"
+        ]
+    },
+    "HIST49S.01": {
+        "code": "HIST49S.01",
+        "name": "SP.TP.SOVIET&POST-SOVI.HIST.IN TEXT&POP.CUL.",
+        "credits": 3,
+        "ects": 6.0,
+        "instructor": "ANA DEVİC",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "T",
+            "T",
+            "W",
+            "W",
+            "Th",
+            "Th"
+        ],
+        "hours": [
+            "5",
+            "6",
+            "5",
+            "6",
+            "5",
+            "6"
+        ]
+    },
+    "HTR311.01": {
+        "code": "HTR 311.01",
+        "name": "HISTORY OF THE TURKISH REPUBLIC I",
+        "credits": 2,
+        "ects": 3.0,
+        "instructor": "KENAN ÖZKAN",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "W",
+            "W",
+            "Th",
+            "Th"
+        ],
+        "hours": [
+            "2",
+            "3",
+            "2",
+            "3"
+        ]
+    },
+    "HTR311.02": {
+        "code": "HTR 311.02",
+        "name": "HISTORY OF THE TURKISH REPUBLIC I",
+        "credits": 2,
+        "ects": 3.0,
+        "instructor": "KENAN ÖZKAN",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "W",
+            "W",
+            "Th",
+            "Th"
+        ],
+        "hours": [
+            "4",
+            "5",
+            "4",
+            "5"
+        ]
+    },
+    "HTR311.03": {
+        "code": "HTR 311.03",
+        "name": "HISTORY OF THE TURKISH REPUBLIC I",
+        "credits": 2,
+        "ects": 3.0,
+        "instructor": "KENAN ÖZKAN",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "W",
+            "W",
+            "Th",
+            "Th"
+        ],
+        "hours": [
+            "6",
+            "7",
+            "6",
+            "7"
+        ]
+    },
+    "HTR311.04": {
+        "code": "HTR 311.04",
+        "name": "HISTORY OF THE TURKISH REPUBLIC I",
+        "credits": 2,
+        "ects": 3.0,
+        "instructor": "HAKAN KAYA",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "M",
+            "M",
+            "T",
+            "T"
+        ],
+        "hours": [
+            "1",
+            "2",
+            "1",
+            "2"
+        ]
+    },
+    "HTR311.05": {
+        "code": "HTR 311.05",
+        "name": "HISTORY OF THE TURKISH REPUBLIC I",
+        "credits": 2,
+        "ects": 3.0,
+        "instructor": "HAKAN KAYA",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "M",
+            "M",
+            "T",
+            "T"
+        ],
+        "hours": [
+            "3",
+            "4",
+            "3",
+            "4"
+        ]
+    },
+    "HTR311.06": {
+        "code": "HTR 311.06",
+        "name": "HISTORY OF THE TURKISH REPUBLIC I",
+        "credits": 2,
+        "ects": 3.0,
+        "instructor": "HAKAN KAYA",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "M",
+            "M",
+            "T",
+            "T"
+        ],
+        "hours": [
+            "6",
+            "7",
+            "6",
+            "7"
+        ]
+    },
+    "HTR311.07": {
+        "code": "HTR 311.07",
+        "name": "HISTORY OF THE TURKISH REPUBLIC I",
+        "credits": 2,
+        "ects": 3.0,
+        "instructor": "NUR ÖZMEL",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "T",
+            "T",
+            "W",
+            "W"
+        ],
+        "hours": [
+            "1",
+            "2",
+            "1",
+            "2"
+        ]
+    },
+    "HTR311.08": {
+        "code": "HTR 311.08",
+        "name": "HISTORY OF THE TURKISH REPUBLIC I",
+        "credits": 2,
+        "ects": 3.0,
+        "instructor": "NUR ÖZMEL",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "T",
+            "T",
+            "W",
+            "W"
+        ],
+        "hours": [
+            "3",
+            "4",
+            "3",
+            "4"
+        ]
+    },
+    "HTR311.09": {
+        "code": "HTR 311.09",
+        "name": "HISTORY OF THE TURKISH REPUBLIC I",
+        "credits": 2,
+        "ects": 3.0,
+        "instructor": "İBRAHİM MURAT KASAPSARAÇOĞLU",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "Th",
+            "Th",
+            "F",
+            "F"
+        ],
+        "hours": [
+            "1",
+            "2",
+            "1",
+            "2"
+        ]
+    },
+    "HTR311.10": {
+        "code": "HTR 311.10",
+        "name": "HISTORY OF THE TURKISH REPUBLIC I",
+        "credits": 2,
+        "ects": 3.0,
+        "instructor": "İBRAHİM MURAT KASAPSARAÇOĞLU",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "Th",
+            "Th",
+            "F",
+            "F"
+        ],
+        "hours": [
+            "3",
+            "4",
+            "3",
+            "4"
+        ]
+    },
+    "HTR311.11": {
+        "code": "HTR 311.11",
+        "name": "HISTORY OF THE TURKISH REPUBLIC I",
+        "credits": 2,
+        "ects": 3.0,
+        "instructor": "İBRAHİM MURAT KASAPSARAÇOĞLU",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "Th",
+            "Th",
+            "F",
+            "F"
+        ],
+        "hours": [
+            "6",
+            "7",
+            "6",
+            "7"
+        ]
+    },
+    "HTR311.12": {
+        "code": "HTR 311.12",
+        "name": "HISTORY OF THE TURKISH REPUBLIC I",
+        "credits": 2,
+        "ects": 3.0,
+        "instructor": "CAN GÜMÜŞ İSPİR",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "T",
+            "T",
+            "W",
+            "W"
+        ],
+        "hours": [
+            "1",
+            "2",
+            "1",
+            "2"
+        ]
+    },
+    "HTR311.13": {
+        "code": "HTR 311.13",
+        "name": "HISTORY OF THE TURKISH REPUBLIC I",
+        "credits": 2,
+        "ects": 3.0,
+        "instructor": "CAN GÜMÜŞ İSPİR",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "T",
+            "T",
+            "W",
+            "W"
+        ],
+        "hours": [
+            "3",
+            "4",
+            "3",
+            "4"
+        ]
+    },
+    "HTR311.14": {
+        "code": "HTR 311.14",
+        "name": "HISTORY OF THE TURKISH REPUBLIC I",
+        "credits": 2,
+        "ects": 3.0,
+        "instructor": "CAN GÜMÜŞ İSPİR",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "T",
+            "T",
+            "W",
+            "W"
+        ],
+        "hours": [
+            "5",
+            "6",
+            "5",
+            "6"
+        ]
+    },
+    "HTR311.15": {
+        "code": "HTR 311.15",
+        "name": "HISTORY OF THE TURKISH REPUBLIC I",
+        "credits": 2,
+        "ects": 3.0,
+        "instructor": "AYŞE NUR AKDAL",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "W",
+            "W",
+            "Th",
+            "Th"
+        ],
+        "hours": [
+            "2",
+            "3",
+            "2",
+            "3"
+        ]
+    },
+    "HTR311.16": {
+        "code": "HTR 311.16",
+        "name": "HISTORY OF THE TURKISH REPUBLIC I",
+        "credits": 2,
+        "ects": 3.0,
+        "instructor": "AYŞE NUR AKDAL",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "W",
+            "W",
+            "Th",
+            "Th"
+        ],
+        "hours": [
+            "5",
+            "6",
+            "5",
+            "6"
+        ]
+    },
+    "HTR311.17": {
+        "code": "HTR 311.17",
+        "name": "HISTORY OF THE TURKISH REPUBLIC I",
+        "credits": 2,
+        "ects": 3.0,
+        "instructor": "AYŞE NUR AKDAL",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "W",
+            "W",
+            "Th",
+            "Th"
+        ],
+        "hours": [
+            "7",
+            "8",
+            "7",
+            "8"
+        ]
+    },
+    "HTR312.01": {
+        "code": "HTR 312.01",
+        "name": "HISTORY OF THE TURKISH REPUBLIC II",
+        "credits": 2,
+        "ects": 3.0,
+        "instructor": "OKAN CEYLAN",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "M",
+            "M",
+            "T",
+            "T"
+        ],
+        "hours": [
+            "3",
+            "4",
+            "3",
+            "4"
+        ]
+    },
+    "HTR312.02": {
+        "code": "HTR 312.02",
+        "name": "HISTORY OF THE TURKISH REPUBLIC II",
+        "credits": 2,
+        "ects": 3.0,
+        "instructor": "OKAN CEYLAN",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "M",
+            "M",
+            "T",
+            "T"
+        ],
+        "hours": [
+            "6",
+            "7",
+            "6",
+            "7"
+        ]
+    },
+    "HTR312.03": {
+        "code": "HTR 312.03",
+        "name": "HISTORY OF THE TURKISH REPUBLIC II",
+        "credits": 2,
+        "ects": 3.0,
+        "instructor": "OKAN CEYLAN",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "M",
+            "M",
+            "T",
+            "T"
+        ],
+        "hours": [
+            "8",
+            "9",
+            "8",
+            "9"
+        ]
+    },
+    "HTR312.04": {
+        "code": "HTR 312.04",
+        "name": "HISTORY OF THE TURKISH REPUBLIC II",
+        "credits": 2,
+        "ects": 3.0,
+        "instructor": "AYŞE GÜN SOYSAL",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "T",
+            "T",
+            "W",
+            "W"
+        ],
+        "hours": [
+            "1",
+            "2",
+            "1",
+            "2"
+        ]
+    },
+    "HTR312.05": {
+        "code": "HTR 312.05",
+        "name": "HISTORY OF THE TURKISH REPUBLIC II",
+        "credits": 2,
+        "ects": 3.0,
+        "instructor": "AYŞE GÜN SOYSAL",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "T",
+            "T",
+            "W",
+            "W"
+        ],
+        "hours": [
+            "3",
+            "4",
+            "3",
+            "4"
+        ]
+    },
+    "HTR312.06": {
+        "code": "HTR 312.06",
+        "name": "HISTORY OF THE TURKISH REPUBLIC II",
+        "credits": 2,
+        "ects": 3.0,
+        "instructor": "AYŞE GÜN SOYSAL",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "T",
+            "T",
+            "W",
+            "W"
+        ],
+        "hours": [
+            "5",
+            "6",
+            "5",
+            "6"
+        ]
+    },
+    "HTR312.07": {
+        "code": "HTR 312.07",
+        "name": "HISTORY OF THE TURKISH REPUBLIC II",
+        "credits": 2,
+        "ects": 3.0,
+        "instructor": "RABİA TAYLAN YARARCAN",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "M",
+            "M",
+            "T",
+            "T"
+        ],
+        "hours": [
+            "1",
+            "2",
+            "1",
+            "2"
+        ]
+    },
+    "HTR312.08": {
+        "code": "HTR 312.08",
+        "name": "HISTORY OF THE TURKISH REPUBLIC II",
+        "credits": 2,
+        "ects": 3.0,
+        "instructor": "RABİA TAYLAN YARARCAN",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "M",
+            "M",
+            "T",
+            "T"
+        ],
+        "hours": [
+            "3",
+            "4",
+            "3",
+            "4"
+        ]
+    },
+    "HTR312.09": {
+        "code": "HTR 312.09",
+        "name": "HISTORY OF THE TURKISH REPUBLIC II",
+        "credits": 2,
+        "ects": 3.0,
+        "instructor": "HAKKI BAŞGÜNEY",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "T",
+            "T",
+            "Th",
+            "Th"
+        ],
+        "hours": [
+            "1",
+            "2",
+            "1",
+            "2"
+        ]
+    },
+    "HTR312.10": {
+        "code": "HTR 312.10",
+        "name": "HISTORY OF THE TURKISH REPUBLIC II",
+        "credits": 2,
+        "ects": 3.0,
+        "instructor": "HAKKI BAŞGÜNEY",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "T",
+            "T",
+            "Th",
+            "Th"
+        ],
+        "hours": [
+            "5",
+            "6",
+            "5",
+            "6"
+        ]
+    },
+    "HTR312.11": {
+        "code": "HTR 312.11",
+        "name": "HISTORY OF THE TURKISH REPUBLIC II",
+        "credits": 2,
+        "ects": 3.0,
+        "instructor": "HAKKI BAŞGÜNEY",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "T",
+            "T",
+            "Th",
+            "Th"
+        ],
+        "hours": [
+            "7",
+            "8",
+            "7",
+            "8"
+        ]
+    },
+    "IE256.01": {
+        "code": "IE 256.01",
+        "name": "STATISTICS FOR INDUSTRIAL ENGINEERS",
+        "credits": 3,
+        "ects": 6.0,
+        "instructor": "EBUBEKİR KOÇ",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "T",
+            "T",
+            "T",
+            "W",
+            "W",
+            "W",
+            "Th",
+            "Th"
+        ],
+        "hours": [
+            "2",
+            "3",
+            "4",
+            "2",
+            "3",
+            "4",
+            "2",
+            "3"
+        ]
+    },
+    "LAW101.02": {
+        "code": "LAW 101.02",
+        "name": "INTRODUCTION TO LAW",
+        "credits": 3,
+        "ects": 5.0,
+        "instructor": "ÖMER ERKUT BULUT",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "M",
+            "M",
+            "M",
+            "T",
+            "T",
+            "W",
+            "W",
+            "W",
+            "Th",
+            "Th"
+        ],
+        "hours": [
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7"
+        ]
+    },
+    "LAW101.03": {
+        "code": "LAW 101.03",
+        "name": "INTRODUCTION TO LAW",
+        "credits": 3,
+        "ects": 5.0,
+        "instructor": "AYŞE DİDEM SEZGİN",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "T",
+            "T",
+            "T",
+            "T",
+            "W",
+            "W",
+            "W",
+            "Th",
+            "Th",
+            "Th"
+        ],
+        "hours": [
+            "2",
+            "3",
+            "4",
+            "5",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7"
+        ]
+    },
+    "LAW103.01": {
+        "code": "LAW 103.01",
+        "name": "GENERAL PRINCIPLES OF CONSTITUTIONAL LAW",
+        "credits": 3,
+        "ects": 5.0,
+        "instructor": "HARUN MURATOĞULLARI",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "T",
+            "T",
+            "T",
+            "W",
+            "W",
+            "W",
+            "Th",
+            "Th",
+            "Th",
+            "Th"
+        ],
+        "hours": [
+            "2",
+            "3",
+            "4",
+            "6",
+            "7",
+            "8",
+            "5",
+            "6",
+            "7",
+            "8"
+        ]
+    },
+    "LAW104.01": {
+        "code": "LAW 104.01",
+        "name": "TURKISH CONSTITUTIONAL LAW AND JUDICIARY",
+        "credits": 3,
+        "ects": 5.0,
+        "instructor": "HARUN MURATOĞULLARI",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "T",
+            "T",
+            "T",
+            "W",
+            "W",
+            "W",
+            "Th",
+            "Th",
+            "Th",
+            "Th"
+        ],
+        "hours": [
+            "6",
+            "7",
+            "8",
+            "2",
+            "3",
+            "4",
+            "1",
+            "2",
+            "3",
+            "4"
+        ]
+    },
+    "LAW207.01": {
+        "code": "LAW 207.01",
+        "name": "PUBLIC INTERNATIONAL LAW",
+        "credits": 3,
+        "ects": 5.0,
+        "instructor": "HASAN BASRİ BÜLBÜL",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "T",
+            "T",
+            "T",
+            "W",
+            "W",
+            "W",
+            "W",
+            "Th",
+            "Th",
+            "Th"
+        ],
+        "hours": [
+            "3",
+            "4",
+            "5",
+            "3",
+            "4",
+            "5",
+            "6",
+            "3",
+            "4",
+            "5"
+        ]
+    },
+    "LAW208.01": {
+        "code": "LAW 208.01",
+        "name": "HUMAN RIGHTS LAW",
+        "credits": 3,
+        "ects": 5.0,
+        "instructor": "ÖMER ERKUT BULUT",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "M",
+            "M",
+            "T",
+            "T",
+            "T",
+            "W",
+            "W",
+            "Th",
+            "Th",
+            "Th"
+        ],
+        "hours": [
+            "6",
+            "7",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "3",
+            "4",
+            "5"
+        ]
+    },
+    "LAW237.01": {
+        "code": "LAW 237.01",
+        "name": "DATA PROTECTION LAW",
+        "credits": 3,
+        "ects": 5.0,
+        "instructor": "MUSTAFA AKGÜN",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "M",
+            "M",
+            "M",
+            "T",
+            "T",
+            "T",
+            "Th",
+            "Th",
+            "Th",
+            "Th"
+        ],
+        "hours": [
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "1",
+            "2",
+            "3",
+            "4"
+        ]
+    },
+    "MATH101.01": {
+        "code": "MATH101.01",
+        "name": "CALCULUS I",
+        "credits": 4,
+        "ects": 6.0,
+        "instructor": "FATİH ECEVİT",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "M",
+            "M",
+            "M",
+            "M",
+            "T",
+            "T",
+            "W",
+            "W",
+            "W",
+            "W",
+            "Th",
+            "Th"
+        ],
+        "hours": [
+            "3",
+            "4",
+            "9",
+            "10",
+            "3",
+            "4",
+            "3",
+            "4",
+            "9",
+            "10",
+            "3",
+            "4"
+        ]
+    },
+    "MATH101.02": {
+        "code": "MATH101.02",
+        "name": "CALCULUS I",
+        "credits": 4,
+        "ects": 6.0,
+        "instructor": "FATİH ECEVİT",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "M",
+            "M",
+            "T",
+            "T",
+            "T",
+            "T",
+            "W",
+            "W",
+            "Th",
+            "Th",
+            "Th",
+            "Th"
+        ],
+        "hours": [
+            "5",
+            "6",
+            "5",
+            "6",
+            "9",
+            "10",
+            "5",
+            "6",
+            "5",
+            "6",
+            "9",
+            "10"
+        ]
+    },
+    "MATH102.01": {
+        "code": "MATH102.01",
+        "name": "CALCULUS II",
+        "credits": 4,
+        "ects": 6.0,
+        "instructor": "MEHMET ARSLAN",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "M",
+            "M",
+            "T",
+            "T",
+            "W",
+            "W",
+            "W",
+            "Th",
+            "Th",
+            "Th",
+            "F",
+            "F"
+        ],
+        "hours": [
+            "1",
+            "2",
+            "1",
+            "2",
+            "2",
+            "3",
+            "4",
+            "2",
+            "3",
+            "4",
+            "2",
+            "3"
+        ]
+    },
+    "MATH102.02": {
+        "code": "MATH102.02",
+        "name": "CALCULUS II",
+        "credits": 4,
+        "ects": 6.0,
+        "instructor": "MEHMET ARSLAN",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "M",
+            "M",
+            "T",
+            "T",
+            "W",
+            "W",
+            "W",
+            "Th",
+            "Th",
+            "Th",
+            "F",
+            "F"
+        ],
+        "hours": [
+            "3",
+            "4",
+            "3",
+            "4",
+            "6",
+            "7",
+            "8",
+            "6",
+            "7",
+            "8",
+            "4",
+            "5"
+        ]
+    },
+    "MATH102.03": {
+        "code": "MATH102.03",
+        "name": "CALCULUS II",
+        "credits": 4,
+        "ects": 6.0,
+        "instructor": "AYŞE SOYSAL",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "M",
+            "M",
+            "T",
+            "T",
+            "W",
+            "W",
+            "Th",
+            "Th",
+            "F",
+            "F",
+            "F",
+            "F"
+        ],
+        "hours": [
+            "1",
+            "2",
+            "1",
+            "2",
+            "1",
+            "2",
+            "1",
+            "2",
+            "1",
+            "2",
+            "3",
+            "4"
+        ]
+    },
+    "MATH201.01": {
+        "code": "MATH201.01",
+        "name": "MATRIX THEORY",
+        "credits": 4,
+        "ects": 5.0,
+        "instructor": "KÜBRA BENLİ",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "M",
+            "M",
+            "T",
+            "T",
+            "W",
+            "W",
+            "Th",
+            "Th",
+            "F",
+            "F",
+            "F",
+            "F"
+        ],
+        "hours": [
+            "3",
+            "4",
+            "3",
+            "4",
+            "3",
+            "4",
+            "3",
+            "4",
+            "1",
+            "2",
+            "3",
+            "4"
+        ]
+    },
+    "MATH201.02": {
+        "code": "MATH201.02",
+        "name": "MATRIX THEORY",
+        "credits": 4,
+        "ects": 5.0,
+        "instructor": "KÜBRA BENLİ",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "M",
+            "M",
+            "T",
+            "T",
+            "W",
+            "W",
+            "Th",
+            "Th",
+            "F",
+            "F",
+            "F",
+            "F"
+        ],
+        "hours": [
+            "5",
+            "6",
+            "5",
+            "6",
+            "5",
+            "6",
+            "5",
+            "6",
+            "5",
+            "6",
+            "7",
+            "8"
+        ]
+    },
+    "MATH202.01": {
+        "code": "MATH202.01",
+        "name": "DIFFERENTIAL EQUATIONS",
+        "credits": 4,
+        "ects": 7.0,
+        "instructor": "JUSTYNA EMILIA OGORZALY",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "M",
+            "M",
+            "M",
+            "M",
+            "T",
+            "T",
+            "W",
+            "W",
+            "W",
+            "W",
+            "Th",
+            "Th"
+        ],
+        "hours": [
+            "1",
+            "2",
+            "8",
+            "9",
+            "1",
+            "2",
+            "1",
+            "2",
+            "8",
+            "9",
+            "1",
+            "2"
+        ]
+    },
+    "MATH202.02": {
+        "code": "MATH202.02",
+        "name": "DIFFERENTIAL EQUATIONS",
+        "credits": 4,
+        "ects": 7.0,
+        "instructor": "JUSTYNA EMILIA OGORZALY",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "M",
+            "M",
+            "T",
+            "T",
+            "T",
+            "T",
+            "W",
+            "W",
+            "Th",
+            "Th",
+            "Th",
+            "Th"
+        ],
+        "hours": [
+            "3",
+            "4",
+            "3",
+            "4",
+            "8",
+            "9",
+            "3",
+            "4",
+            "3",
+            "4",
+            "8",
+            "9"
+        ]
+    },
+    "MATH325.01": {
+        "code": "MATH325.01",
+        "name": "MATRIX GROUPS",
+        "credits": 3,
+        "ects": 6.0,
+        "instructor": "TURAN KARAKURT",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "T",
+            "T",
+            "T",
+            "Th",
+            "Th",
+            "Th",
+            "F",
+            "F",
+            "F",
+            "F"
+        ],
+        "hours": [
+            "4",
+            "5",
+            "6",
+            "4",
+            "5",
+            "6",
+            "1",
+            "2",
+            "3",
+            "4"
+        ]
+    },
+    "MATH336.01": {
+        "code": "MATH336.01",
+        "name": "NUMERICAL ANALYSIS",
+        "credits": 3,
+        "ects": 6.0,
+        "instructor": "FATİH ECEVİT",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "M",
+            "M",
+            "T",
+            "T",
+            "W",
+            "W"
+        ],
+        "hours": [
+            "7",
+            "8",
+            "7",
+            "8",
+            "7",
+            "8"
+        ]
+    },
+    "ME207.01": {
+        "code": "ME 207.01",
+        "name": "PROBABILITY&STATISTICS FOR ME",
+        "credits": 3,
+        "ects": 5.0,
+        "instructor": "ALİ ECDER",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "M",
+            "M",
+            "M",
+            "W",
+            "W",
+            "W"
+        ],
+        "hours": [
+            "6",
+            "7",
+            "8",
+            "6",
+            "7",
+            "8"
+        ]
+    },
+    "MIR511.01": {
+        "code": "MIR 511.01",
+        "name": "CURRENT ISSUES IN EUROPEAN POLITICS",
+        "credits": 3,
+        "ects": 7.0,
+        "instructor": "BAŞAK TARAKTAŞ",
+        "requiredForDept": [
+            "Info"
+        ]
+    },
+    "MIR560.01": {
+        "code": "MIR 560.01",
+        "name": "EMERGENCE OF THE MODERN EUROPE",
+        "credits": 3,
+        "ects": 7.0,
+        "instructor": "GAYE İLHAN DEMİRYOL",
+        "requiredForDept": [
+            "Info"
+        ]
+    },
+    "MIR583.01": {
+        "code": "MIR 583.01",
+        "name": "DIRECTED READINGS IN GLOBAL STUDIES III",
+        "credits": 1,
+        "ects": 1.0,
+        "instructor": "BAŞAK TARAKTAŞ",
+        "requiredForDept": [
+            "Info"
+        ]
+    },
+    "MIR583.02": {
+        "code": "MIR 583.02",
+        "name": "DIRECTED READINGS IN GLOBAL STUDIES III",
+        "credits": 1,
+        "ects": 1.0,
+        "instructor": "GAYE İLHAN DEMİRYOL",
+        "requiredForDept": [
+            "Info"
+        ]
+    },
+    "MIR585.01": {
+        "code": "MIR 585.01",
+        "name": "DIRECTED READINGS IN REGIONAL STUDIES II",
+        "credits": 1,
+        "ects": 1.0,
+        "instructor": "TOLGA UMUT KUZUBAŞ",
+        "requiredForDept": [
+            "Info"
+        ]
+    },
+    "MIR586.01": {
+        "code": "MIR 586.01",
+        "name": "DIREC. READINGS IN REGIONAL STUDIES III",
+        "credits": 1,
+        "ects": 1.0,
+        "instructor": "TOLGA UMUT KUZUBAŞ",
+        "requiredForDept": [
+            "Info"
+        ]
+    },
+    "MIR592.01": {
+        "code": "MIR 592.01",
+        "name": "TERM PROJECT II",
+        "credits": 0,
+        "ects": 3.0,
+        "instructor": "TOLGA UMUT KUZUBAŞ",
+        "requiredForDept": [
+            "Info"
+        ]
+    },
+    "MIR593.01": {
+        "code": "MIR 593.01",
+        "name": "TERM PROJECT III",
+        "credits": 0,
+        "ects": 3.0,
+        "instructor": "TOLGA UMUT KUZUBAŞ",
+        "requiredForDept": [
+            "Info"
+        ]
+    },
+    "PA211.01": {
+        "code": "PA 211.01",
+        "name": "PAINTING",
+        "credits": 2,
+        "ects": 4.0,
+        "instructor": "MUTLU M.ERBAY",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "T",
+            "T",
+            "T",
+            "T",
+            "T",
+            "T",
+            "T",
+            "T"
+        ],
+        "hours": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8"
+        ]
+    },
+    "PA213.01": {
+        "code": "PA 213.01",
+        "name": "PAINTING",
+        "credits": 2,
+        "ects": 4.0,
+        "instructor": "MUTLU M.ERBAY",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "M",
+            "M",
+            "M",
+            "M",
+            "M",
+            "M",
+            "M",
+            "M"
+        ],
+        "hours": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8"
+        ]
+    },
+    "PA242.01": {
+        "code": "PA 242.01",
+        "name": "APPLIED ARTS",
+        "credits": 2,
+        "ects": 4.0,
+        "instructor": "FETHİYE F.ERBAY",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "T",
+            "T",
+            "T",
+            "T",
+            "T",
+            "T",
+            "T",
+            "T"
+        ],
+        "hours": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8"
+        ]
+    },
+    "PA311.01": {
+        "code": "PA 311.01",
+        "name": "PAINTING",
+        "credits": 2,
+        "ects": 4.0,
+        "instructor": "DENİZ ÖKTEM BEKTAŞ",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "W",
+            "W",
+            "W",
+            "W",
+            "W",
+            "W",
+            "W",
+            "W"
+        ],
+        "hours": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8"
+        ]
+    },
+    "PA321.01": {
+        "code": "PA 321.01",
+        "name": "CERAMICS",
+        "credits": 2,
+        "ects": 4.0,
+        "instructor": "SAKİNE ÇİL",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "T",
+            "T",
+            "T",
+            "T",
+            "W",
+            "W",
+            "W",
+            "W"
+        ],
+        "hours": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8"
+        ]
+    },
+    "PA374.01": {
+        "code": "PA 374.01",
+        "name": "THEORY&TECHNIQUES OF PHOTOGRAPHY",
+        "credits": 3,
+        "ects": 6.0,
+        "instructor": "NURİ ÖZER ERBAY",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "Th",
+            "Th",
+            "Th",
+            "Th",
+            "Th",
+            "Th",
+            "Th",
+            "Th",
+            "Th",
+            "Th"
+        ],
+        "hours": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "10"
+        ]
+    },
+    "PA482.01": {
+        "code": "PA 482.01",
+        "name": "SP.TP.ISLAMIC ARTS AND VISUAL CULTURE",
+        "credits": 3,
+        "ects": 5.0,
+        "instructor": "DENİZ ÖKTEM BEKTAŞ",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "Th",
+            "Th",
+            "Th",
+            "Th",
+            "Th",
+            "Th"
+        ],
+        "hours": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6"
+        ]
+    },
+    "PE117.01": {
+        "code": "PE 117.01",
+        "name": "BADMINTON I",
+        "credits": 1,
+        "ects": 2.0,
+        "instructor": "MEHMET OKTAR",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "M",
+            "M",
+            "M",
+            "M",
+            "M",
+            "M"
+        ],
+        "hours": [
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8"
+        ]
+    },
+    "PE123.01": {
+        "code": "PE 123.01",
+        "name": "TENNIS I",
+        "credits": 1,
+        "ects": 2.0,
+        "instructor": "ENİS GÜLLER",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "M",
+            "M",
+            "M",
+            "M",
+            "M",
+            "M"
+        ],
+        "hours": [
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8"
+        ]
+    },
+    "PE124.01": {
+        "code": "PE 124.01",
+        "name": "TENNIS II",
+        "credits": 1,
+        "ects": 2.0,
+        "instructor": "ENİS GÜLLER",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "W",
+            "W",
+            "W",
+            "W",
+            "W",
+            "W"
+        ],
+        "hours": [
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8"
+        ]
+    },
+    "PE125.01": {
+        "code": "PE 125.01",
+        "name": "VOLLEYBALL I",
+        "credits": 1,
+        "ects": 2.0,
+        "instructor": "HASAN JEYAN ERBEN",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "T",
+            "T",
+            "T",
+            "T",
+            "T",
+            "T"
+        ],
+        "hours": [
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8"
+        ]
+    },
+    "PE225.01": {
+        "code": "PE 225.01",
+        "name": "ARCHERY",
+        "credits": 1,
+        "ects": 2.0,
+        "instructor": "EMRE BEYAZTAŞ",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "T",
+            "T",
+            "T",
+            "T",
+            "T",
+            "T"
+        ],
+        "hours": [
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8"
+        ]
+    },
+    "PER201.01": {
+        "code": "PER 201.01",
+        "name": "PERSIAN I",
+        "credits": 3,
+        "ects": 5.0,
+        "instructor": "AYNAZ RUHİ",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "T",
+            "T",
+            "W",
+            "W",
+            "Th",
+            "Th"
+        ],
+        "hours": [
+            "1",
+            "2",
+            "1",
+            "2",
+            "1",
+            "2"
+        ]
+    },
+    "PHIL105.01": {
+        "code": "PHIL105.01",
+        "name": "INFORMAL LOGIC",
+        "credits": 4,
+        "ects": 8.0,
+        "instructor": "ARAN ARSLAN",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "M",
+            "M",
+            "T",
+            "T",
+            "W",
+            "W",
+            "Th",
+            "Th",
+            "F",
+            "F"
+        ],
+        "hours": [
+            "7",
+            "8",
+            "7",
+            "8",
+            "7",
+            "8",
+            "7",
+            "8",
+            "7",
+            "8"
+        ]
+    },
+    "PHIL111.01": {
+        "code": "PHIL111.01",
+        "name": "INTRO.TO ANCIENT & MEDIEVAL PHILOSOPHY",
+        "credits": 3,
+        "ects": 6.0,
+        "instructor": "PANOS ELIOPOULOS",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "M",
+            "M",
+            "M",
+            "W",
+            "W",
+            "W"
+        ],
+        "hours": [
+            "2",
+            "3",
+            "4",
+            "2",
+            "3",
+            "4"
+        ],
+        "rooms": [
+            "Online"
+        ]
+    },
+    "PHIL112.01": {
+        "code": "PHIL112.01",
+        "name": "INTRODUCTION TO MODERN PHILOSOPHY",
+        "credits": 3,
+        "ects": 6.0,
+        "instructor": "CHRISTOPHER COLVIN",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "T",
+            "T",
+            "Th",
+            "Th",
+            "F",
+            "F"
+        ],
+        "hours": [
+            "7",
+            "8",
+            "7",
+            "8",
+            "7",
+            "8"
+        ]
+    },
+    "PHIL131.01": {
+        "code": "PHIL131.01",
+        "name": "LOGIC I",
+        "credits": 4,
+        "ects": 8.0,
+        "instructor": "CEM ŞİŞKOLAR",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "T",
+            "T",
+            "W",
+            "W",
+            "Th",
+            "Th",
+            "F",
+            "F",
+            "F",
+            "F"
+        ],
+        "hours": [
+            "3",
+            "4",
+            "3",
+            "4",
+            "3",
+            "4",
+            "3",
+            "4",
+            "5",
+            "6"
+        ]
+    },
+    "PHIL132.01": {
+        "code": "PHIL132.01",
+        "name": "LOGIC II",
+        "credits": 4,
+        "ects": 8.0,
+        "instructor": "CEM ŞİŞKOLAR",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "T",
+            "T",
+            "T",
+            "T",
+            "W",
+            "W",
+            "Th",
+            "Th",
+            "F",
+            "F"
+        ],
+        "hours": [
+            "5",
+            "6",
+            "7",
+            "8",
+            "7",
+            "8",
+            "7",
+            "8",
+            "7",
+            "8"
+        ]
+    },
+    "PHIL213.01": {
+        "code": "PHIL213.01",
+        "name": "HISTORY OF PHILOSOPHY I",
+        "credits": 3,
+        "ects": 6.0,
+        "instructor": "EKREM ÇETİNKAYA",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "M",
+            "M",
+            "T",
+            "T",
+            "W",
+            "W"
+        ],
+        "hours": [
+            "5",
+            "6",
+            "5",
+            "6",
+            "5",
+            "6"
+        ]
+    },
+    "PHIL372.01": {
+        "code": "PHIL372.01",
+        "name": "PHILOSOPHY OF LANGUAGE",
+        "credits": 3,
+        "ects": 6.0,
+        "instructor": "ARAN ARSLAN",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "M",
+            "M",
+            "W",
+            "W",
+            "F",
+            "F"
+        ],
+        "hours": [
+            "5",
+            "6",
+            "5",
+            "6",
+            "5",
+            "6"
+        ]
+    },
+    "PHIL461.01": {
+        "code": "PHIL461.01",
+        "name": "AESTHETICS",
+        "credits": 3,
+        "ects": 6.0,
+        "instructor": "STEPHEN SNYDER",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "T",
+            "T",
+            "W",
+            "W",
+            "Th",
+            "Th"
+        ],
+        "hours": [
+            "7",
+            "8",
+            "7",
+            "8",
+            "7",
+            "8"
+        ]
+    },
+    "PHIL48K.01": {
+        "code": "PHIL48K.01",
+        "name": "SP.TP. SCHOPENHAUER",
+        "credits": 3,
+        "ects": 6.0,
+        "instructor": "CHRISTOPHER COLVIN",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "T",
+            "T",
+            "W",
+            "W",
+            "F",
+            "F"
+        ],
+        "hours": [
+            "3",
+            "4",
+            "3",
+            "4",
+            "3",
+            "4"
+        ]
+    },
+    "PHIL492.01": {
+        "code": "PHIL492.01",
+        "name": "SP.TP.ANCIENT,MODERN&CONTEMPORARY",
+        "credits": 3,
+        "ects": 6.0,
+        "instructor": "PANOS ELIOPOULOS",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "T",
+            "T",
+            "Th",
+            "Th",
+            "F",
+            "F"
+        ],
+        "hours": [
+            "2",
+            "3",
+            "2",
+            "3",
+            "2",
+            "3"
+        ],
+        "rooms": [
+            "Online"
+        ]
+    },
+    "PHYS102.01": {
+        "code": "PHYS102.01",
+        "name": "PHYSICS II",
+        "credits": 4,
+        "ects": 8.0,
+        "instructor": "ÖZHAN ÖZATAY",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "M",
+            "M",
+            "M",
+            "M",
+            "T",
+            "T",
+            "Th",
+            "Th",
+            "F",
+            "F",
+            "F",
+            "F"
+        ],
+        "hours": [
+            "1",
+            "2",
+            "5",
+            "6",
+            "1",
+            "2",
+            "1",
+            "2",
+            "1",
+            "2",
+            "3",
+            "4"
+        ]
+    },
+    "PHYS102.02": {
+        "code": "PHYS102.02",
+        "name": "PHYSICS II",
+        "credits": 4,
+        "ects": 8.0,
+        "instructor": "ÖZHAN ÖZATAY",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "M",
+            "M",
+            "M",
+            "M",
+            "T",
+            "T",
+            "Th",
+            "Th",
+            "Th",
+            "Th",
+            "F",
+            "F"
+        ],
+        "hours": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "3",
+            "4",
+            "3",
+            "4",
+            "5",
+            "6",
+            "5",
+            "6"
+        ]
+    },
+    "PHYS177.01": {
+        "code": "PHYS177.01",
+        "name": "COMPUTATIONAL INT.TO DYNAMICAL SYS.&PROB",
+        "credits": 3,
+        "ects": 5.0,
+        "instructor": "ILMAR GAHRAMANOV",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "M",
+            "M",
+            "M",
+            "M",
+            "M",
+            "W",
+            "W",
+            "W",
+            "W",
+            "W"
+        ],
+        "hours": [
+            "1",
+            "2",
+            "3",
+            "5",
+            "6",
+            "1",
+            "2",
+            "3",
+            "5",
+            "6"
+        ]
+    },
+    "PHYS201.01": {
+        "code": "PHYS201.01",
+        "name": "PHYSICS III",
+        "credits": 4,
+        "ects": 6.0,
+        "instructor": "HAKAN ERKOL",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "M",
+            "M",
+            "T",
+            "T",
+            "W",
+            "W",
+            "Th",
+            "Th",
+            "Th",
+            "Th",
+            "F",
+            "F"
+        ],
+        "hours": [
+            "1",
+            "2",
+            "1",
+            "2",
+            "1",
+            "2",
+            "1",
+            "2",
+            "5",
+            "6",
+            "1",
+            "2"
+        ]
+    },
+    "PHYS201.02": {
+        "code": "PHYS201.02",
+        "name": "PHYSICS III",
+        "credits": 4,
+        "ects": 6.0,
+        "instructor": "HAKAN ERKOL",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "M",
+            "M",
+            "M",
+            "M",
+            "T",
+            "T",
+            "W",
+            "W",
+            "Th",
+            "Th",
+            "F",
+            "F"
+        ],
+        "hours": [
+            "3",
+            "4",
+            "5",
+            "6",
+            "3",
+            "4",
+            "3",
+            "4",
+            "3",
+            "4",
+            "1",
+            "2"
+        ]
+    },
+    "PHYS201.03": {
+        "code": "PHYS201.03",
+        "name": "PHYSICS III",
+        "credits": 4,
+        "ects": 6.0,
+        "instructor": "YANI SKARLATOS",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "M",
+            "M",
+            "T",
+            "T",
+            "T",
+            "T",
+            "W",
+            "W",
+            "W",
+            "W",
+            "Th",
+            "Th"
+        ],
+        "hours": [
+            "1",
+            "2",
+            "1",
+            "2",
+            "3",
+            "4",
+            "1",
+            "2",
+            "3",
+            "4",
+            "3",
+            "4"
+        ]
+    },
+    "PHYS201.04": {
+        "code": "PHYS201.04",
+        "name": "PHYSICS III",
+        "credits": 4,
+        "ects": 6.0,
+        "instructor": "YANI SKARLATOS",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "M",
+            "M",
+            "T",
+            "T",
+            "W",
+            "W",
+            "Th",
+            "Th",
+            "F",
+            "F",
+            "F",
+            "F"
+        ],
+        "hours": [
+            "3",
+            "4",
+            "5",
+            "6",
+            "5",
+            "6",
+            "5",
+            "6",
+            "1",
+            "2",
+            "3",
+            "4"
+        ]
+    },
+    "PHYS221.01": {
+        "code": "PHYS221.01",
+        "name": "THERMAL PROPERTIES OF MATTER",
+        "credits": 3,
+        "ects": 5.0,
+        "instructor": "SERDAR NERGİZ",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "M",
+            "M",
+            "T",
+            "T",
+            "T",
+            "T",
+            "W",
+            "W",
+            "Th",
+            "Th"
+        ],
+        "hours": [
+            "1",
+            "2",
+            "1",
+            "2",
+            "3",
+            "4",
+            "3",
+            "4",
+            "3",
+            "4"
+        ]
+    },
+    "PHYS301.01": {
+        "code": "PHYS301.01",
+        "name": "CLASSICAL MECHANICS I",
+        "credits": 3,
+        "ects": 6.0,
+        "instructor": "SERDAR NERGİZ",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "M",
+            "M",
+            "T",
+            "T",
+            "W",
+            "W",
+            "Th",
+            "Th",
+            "Th",
+            "Th"
+        ],
+        "hours": [
+            "3",
+            "4",
+            "5",
+            "6",
+            "5",
+            "6",
+            "1",
+            "2",
+            "5",
+            "6"
+        ]
+    },
+    "PHYS302.01": {
+        "code": "PHYS302.01",
+        "name": "CLASSICAL MECHANICS II",
+        "credits": 3,
+        "ects": 3.0,
+        "instructor": "OSMAN TEOMAN TURGUT",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "T",
+            "T",
+            "T",
+            "T",
+            "W",
+            "W",
+            "F",
+            "F",
+            "F",
+            "F"
+        ],
+        "hours": [
+            "3",
+            "4",
+            "7",
+            "8",
+            "3",
+            "4",
+            "3",
+            "4",
+            "7",
+            "8"
+        ]
+    },
+    "PHYS311.01": {
+        "code": "PHYS311.01",
+        "name": "MODERN PHYSICS I",
+        "credits": 3,
+        "ects": 7.0,
+        "instructor": "ERHAN GÜLMEZ",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "T",
+            "T",
+            "W",
+            "W",
+            "W",
+            "W",
+            "Th",
+            "Th",
+            "Th",
+            "Th"
+        ],
+        "hours": [
+            "1",
+            "2",
+            "1",
+            "2",
+            "5",
+            "6",
+            "1",
+            "2",
+            "5",
+            "6"
+        ]
+    },
+    "PHYS312.01": {
+        "code": "PHYS312.01",
+        "name": "MODERN PHYSICS II",
+        "credits": 3,
+        "ects": 5.0,
+        "instructor": "ERHAN GÜLMEZ",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "M",
+            "M",
+            "T",
+            "T",
+            "W",
+            "W",
+            "Th",
+            "Th",
+            "F",
+            "F"
+        ],
+        "hours": [
+            "3",
+            "4",
+            "7",
+            "8",
+            "7",
+            "8",
+            "7",
+            "8",
+            "3",
+            "4"
+        ]
+    },
+    "PHYS325.01": {
+        "code": "PHYS325.01",
+        "name": "MATHEMATICAL METHODS OF PHYSICS I",
+        "credits": 3,
+        "ects": 5.0,
+        "instructor": "METİN ARIK",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "M",
+            "M",
+            "T",
+            "T",
+            "W",
+            "W",
+            "Th",
+            "Th",
+            "F",
+            "F"
+        ],
+        "hours": [
+            "1",
+            "2",
+            "1",
+            "2",
+            "1",
+            "2",
+            "1",
+            "2",
+            "1",
+            "2"
+        ],
+        "rooms": [
+            "Online"
+        ]
+    },
+    "POLS342.01": {
+        "code": "POLS342.01",
+        "name": "AMERICAN GOVERNMENT",
+        "credits": 3,
+        "ects": 5.0,
+        "instructor": "MEHMET ALİ ÇİÇEKDAĞ",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "M",
+            "M",
+            "W",
+            "W",
+            "F",
+            "F"
+        ],
+        "hours": [
+            "3",
+            "4",
+            "3",
+            "4",
+            "3",
+            "4"
+        ]
+    },
+    "POLS348.01": {
+        "code": "POLS348.01",
+        "name": "PROBLEMS & ISSUES IN TURKISH POLITICS",
+        "credits": 3,
+        "ects": 5.0,
+        "instructor": "LEVENT ÖNEN",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "T",
+            "T",
+            "Th",
+            "Th",
+            "F",
+            "F"
+        ],
+        "hours": [
+            "5",
+            "6",
+            "5",
+            "6",
+            "5",
+            "6"
+        ]
+    },
+    "POLS373.01": {
+        "code": "POLS373.01",
+        "name": "POLITICS & CULTURE",
+        "credits": 3,
+        "ects": 5.0,
+        "instructor": "UMUT MİŞE",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "M",
+            "M",
+            "W",
+            "W",
+            "Th",
+            "Th"
+        ],
+        "hours": [
+            "5",
+            "6",
+            "5",
+            "6",
+            "7",
+            "8"
+        ]
+    },
+    "PSY101.01": {
+        "code": "PSY 101.01",
+        "name": "INTRODUCTION TO PSYCHOLOGY",
+        "credits": 3,
+        "ects": 5.0,
+        "instructor": "OYTUN AYGÜN",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "T",
+            "T",
+            "T",
+            "Th",
+            "Th",
+            "Th"
+        ],
+        "hours": [
+            "5",
+            "6",
+            "7",
+            "5",
+            "6",
+            "7"
+        ]
+    },
+    "RUS101.01": {
+        "code": "RUS 101.01",
+        "name": "ELEMENTARY RUSSIAN I",
+        "credits": 3,
+        "ects": 7.0,
+        "instructor": "NATALIA DEMİRKAPILI",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "M",
+            "M",
+            "M",
+            "T",
+            "T",
+            "W",
+            "W",
+            "W",
+            "Th",
+            "Th",
+            "F",
+            "F"
+        ],
+        "hours": [
+            "1",
+            "2",
+            "3",
+            "2",
+            "3",
+            "1",
+            "2",
+            "3",
+            "2",
+            "3",
+            "1",
+            "2"
+        ]
+    },
+    "RUS101.02": {
+        "code": "RUS 101.02",
+        "name": "ELEMENTARY RUSSIAN I",
+        "credits": 3,
+        "ects": 7.0,
+        "instructor": "GUNDA ANKVAB",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "T",
+            "T",
+            "T",
+            "W",
+            "W",
+            "W",
+            "Th",
+            "Th",
+            "Th",
+            "F",
+            "F",
+            "F"
+        ],
+        "hours": [
+            "2",
+            "3",
+            "4",
+            "2",
+            "3",
+            "4",
+            "2",
+            "3",
+            "4",
+            "2",
+            "3",
+            "4"
+        ]
+    },
+    "SCED330.01": {
+        "code": "SCED330.01",
+        "name": "TEACHING THINKING",
+        "credits": 3,
+        "ects": 6.0,
+        "instructor": "KEMAL AKOĞLU",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "T",
+            "T",
+            "W",
+            "W",
+            "Th",
+            "Th"
+        ],
+        "hours": [
+            "2",
+            "3",
+            "2",
+            "3",
+            "2",
+            "3"
+        ]
+    },
+    "SCED330.02": {
+        "code": "SCED330.02",
+        "name": "TEACHING THINKING",
+        "credits": 3,
+        "ects": 6.0,
+        "instructor": "KEMAL AKOĞLU",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "T",
+            "T",
+            "W",
+            "W",
+            "Th",
+            "Th"
+        ],
+        "hours": [
+            "5",
+            "6",
+            "5",
+            "6",
+            "5",
+            "6"
+        ]
+    },
+    "SCED410.01": {
+        "code": "SCED410.01",
+        "name": "TECH.TOOLS&APPLICATIONS IN SCIENCE&MATH.",
+        "credits": 3,
+        "ects": 6.0,
+        "instructor": "OSMAN AKŞİT",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "Th",
+            "Th",
+            "Th",
+            "F",
+            "F",
+            "F"
+        ],
+        "hours": [
+            "1",
+            "2",
+            "3",
+            "1",
+            "2",
+            "3"
+        ]
+    },
+    "SCED540.01": {
+        "code": "SCED540.01",
+        "name": "IMPROVEMENT OF MENTAL SKILLS IN SCI.EDUC",
+        "credits": 3,
+        "ects": 7.0,
+        "instructor": "KEMAL AKOĞLU",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "T",
+            "T",
+            "W",
+            "W",
+            "Th",
+            "Th"
+        ],
+        "hours": [
+            "7",
+            "8",
+            "7",
+            "8",
+            "7",
+            "8"
+        ]
+    },
+    "SCED576.01": {
+        "code": "SCED576.01",
+        "name": "QUALITATI. RESEARCH DES. IN SCI.&MATH.ED",
+        "credits": 3,
+        "ects": 7.0,
+        "instructor": "GÜLSEREN KARAGÖZ AKAR",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "T",
+            "T",
+            "T",
+            "W",
+            "W",
+            "W"
+        ],
+        "hours": [
+            "4",
+            "5",
+            "6",
+            "4",
+            "5",
+            "6"
+        ]
+    },
+    "SCED581.01": {
+        "code": "SCED581.01",
+        "name": "SP.TP. IN SCIENCE MATH.EDU. INTEGRATION OF ARTIFICIAL INTELLIGENCE IN MATH. AND SCIENCE EDU.RESEARCH",
+        "credits": 3,
+        "ects": 7.0,
+        "instructor": "SEVİL AKAYGÜN",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "T",
+            "T",
+            "T",
+            "W",
+            "W",
+            "W"
+        ],
+        "hours": [
+            "1",
+            "2",
+            "3",
+            "1",
+            "2",
+            "3"
+        ]
+    },
+    "SFLRL1.01": {
+        "code": "SFL RL1.01",
+        "name": "REMEDIAL LISTENING",
+        "credits": 0,
+        "ects": 0.0,
+        "instructor": "ASLIHAN AKIN",
+        "requiredForDept": [
+            "Info"
+        ]
+    },
+    "SFLRL1.02": {
+        "code": "SFL RL1.02",
+        "name": "REMEDIAL LISTENING",
+        "credits": 0,
+        "ects": 0.0,
+        "instructor": "YEŞİM GÜRCİ",
+        "requiredForDept": [
+            "Info"
+        ]
+    },
+    "SFLRL1.03": {
+        "code": "SFL RL1.03",
+        "name": "REMEDIAL LISTENING",
+        "credits": 0,
+        "ects": 0.0,
+        "instructor": "NİL KURTULAN DEMİREL",
+        "requiredForDept": [
+            "Info"
+        ]
+    },
+    "SFLRL1.04": {
+        "code": "SFL RL1.04",
+        "name": "REMEDIAL LISTENING",
+        "credits": 0,
+        "ects": 0.0,
+        "instructor": "RABİA BÜŞRA ÇEMÇ",
+        "requiredForDept": [
+            "Info"
+        ]
+    },
+    "SFLRL1.05": {
+        "code": "SFL RL1.05",
+        "name": "REMEDIAL LISTENING",
+        "credits": 0,
+        "ects": 0.0,
+        "instructor": "ELİF TÜRKOĞLU",
+        "requiredForDept": [
+            "Info"
+        ]
+    },
+    "SFLRL1.06": {
+        "code": "SFL RL1.06",
+        "name": "REMEDIAL LISTENING",
+        "credits": 0,
+        "ects": 0.0,
+        "instructor": "GÖNÜL TUĞBA AKDAĞ",
+        "requiredForDept": [
+            "Info"
+        ]
+    },
+    "SFLRL1.07": {
+        "code": "SFL RL1.07",
+        "name": "REMEDIAL LISTENING",
+        "credits": 0,
+        "ects": 0.0,
+        "instructor": "ÇAĞLA DEMİREL",
+        "requiredForDept": [
+            "Info"
+        ]
+    },
+    "SFLRL1.08": {
+        "code": "SFL RL1.08",
+        "name": "REMEDIAL LISTENING",
+        "credits": 0,
+        "ects": 0.0,
+        "instructor": "DOĞUKAN TARLABAŞI",
+        "requiredForDept": [
+            "Info"
+        ]
+    },
+    "SFLRR1.01": {
+        "code": "SFL RR1.01",
+        "name": "REMEDIAL READING",
+        "credits": 0,
+        "ects": 0.0,
+        "instructor": "ELİF TÜRKOĞLU",
+        "requiredForDept": [
+            "Info"
+        ]
+    },
+    "SFLRR1.02": {
+        "code": "SFL RR1.02",
+        "name": "REMEDIAL READING",
+        "credits": 0,
+        "ects": 0.0,
+        "instructor": "MUSTAFA GÖNENÇ",
+        "requiredForDept": [
+            "Info"
+        ]
+    },
+    "SFLRR1.03": {
+        "code": "SFL RR1.03",
+        "name": "REMEDIAL READING",
+        "credits": 0,
+        "ects": 0.0,
+        "instructor": "ASLIHAN AKIN",
+        "requiredForDept": [
+            "Info"
+        ]
+    },
+    "SFLRR1.04": {
+        "code": "SFL RR1.04",
+        "name": "REMEDIAL READING",
+        "credits": 0,
+        "ects": 0.0,
+        "instructor": "MEHMET ÇELİKBAŞ",
+        "requiredForDept": [
+            "Info"
+        ]
+    },
+    "SFLRR1.05": {
+        "code": "SFL RR1.05",
+        "name": "REMEDIAL READING",
+        "credits": 0,
+        "ects": 0.0,
+        "instructor": "FATİH BAYRAKÇIL",
+        "requiredForDept": [
+            "Info"
+        ]
+    },
+    "SFLRR1.06": {
+        "code": "SFL RR1.06",
+        "name": "REMEDIAL READING",
+        "credits": 0,
+        "ects": 0.0,
+        "instructor": "DOĞUKAN TARLABAŞI",
+        "requiredForDept": [
+            "Info"
+        ]
+    },
+    "SFLRR1.07": {
+        "code": "SFL RR1.07",
+        "name": "REMEDIAL READING",
+        "credits": 0,
+        "ects": 0.0,
+        "instructor": "NİL KURTULAN DEMİREL",
+        "requiredForDept": [
+            "Info"
+        ]
+    },
+    "SFLRR1.08": {
+        "code": "SFL RR1.08",
+        "name": "REMEDIAL READING",
+        "credits": 0,
+        "ects": 0.0,
+        "instructor": "ÇAĞLA DEMİREL",
+        "requiredForDept": [
+            "Info"
+        ]
+    },
+    "SFLRW1.01": {
+        "code": "SFL RW1.01",
+        "name": "REMEDIAL WRITING",
+        "credits": 0,
+        "ects": 0.0,
+        "instructor": "FATİH BAYRAKÇIL",
+        "requiredForDept": [
+            "Info"
+        ]
+    },
+    "SFLRW1.02": {
+        "code": "SFL RW1.02",
+        "name": "REMEDIAL WRITING",
+        "credits": 0,
+        "ects": 0.0,
+        "instructor": "MEHMET ÇELİKBAŞ",
+        "requiredForDept": [
+            "Info"
+        ]
+    },
+    "SFLRW1.03": {
+        "code": "SFL RW1.03",
+        "name": "REMEDIAL WRITING",
+        "credits": 0,
+        "ects": 0.0,
+        "instructor": "YEŞİM GÜRCİ",
+        "requiredForDept": [
+            "Info"
+        ]
+    },
+    "SFLRW1.04": {
+        "code": "SFL RW1.04",
+        "name": "REMEDIAL WRITING",
+        "credits": 0,
+        "ects": 0.0,
+        "instructor": "MUSTAFA GÖNENÇ",
+        "requiredForDept": [
+            "Info"
+        ]
+    },
+    "SFLRW1.05": {
+        "code": "SFL RW1.05",
+        "name": "REMEDIAL WRITING",
+        "credits": 0,
+        "ects": 0.0,
+        "instructor": "RABİA BÜŞRA ÇEMÇ",
+        "requiredForDept": [
+            "Info"
+        ]
+    },
+    "SFLRW1.06": {
+        "code": "SFL RW1.06",
+        "name": "REMEDIAL WRITING",
+        "credits": 0,
+        "ects": 0.0,
+        "instructor": "ÇAĞLA DEMİREL",
+        "requiredForDept": [
+            "Info"
+        ]
+    },
+    "SFLRW1.07": {
+        "code": "SFL RW1.07",
+        "name": "REMEDIAL WRITING",
+        "credits": 0,
+        "ects": 0.0,
+        "instructor": "DOĞUKAN TARLABAŞI",
+        "requiredForDept": [
+            "Info"
+        ]
+    },
+    "SFLRW1.08": {
+        "code": "SFL RW1.08",
+        "name": "REMEDIAL WRITING",
+        "credits": 0,
+        "ects": 0.0,
+        "instructor": "GÖNÜL TUĞBA AKDAĞ",
+        "requiredForDept": [
+            "Info"
+        ]
+    },
+    "SOC101.01": {
+        "code": "SOC 101.01",
+        "name": "INTRODUCTION TO SOCIOLOGY",
+        "credits": 3,
+        "ects": 5.0,
+        "instructor": "ALİ TUNA KUYUCU",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "T",
+            "T",
+            "W",
+            "W",
+            "Th",
+            "Th"
+        ],
+        "hours": [
+            "3",
+            "4",
+            "3",
+            "4",
+            "3",
+            "4"
+        ]
+    },
+    "SOC101.02": {
+        "code": "SOC 101.02",
+        "name": "INTRODUCTION TO SOCIOLOGY",
+        "credits": 3,
+        "ects": 5.0,
+        "instructor": "ALİ TUNA KUYUCU",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "T",
+            "T",
+            "W",
+            "W",
+            "Th",
+            "Th"
+        ],
+        "hours": [
+            "7",
+            "8",
+            "7",
+            "8",
+            "7",
+            "8"
+        ]
+    },
+    "SOC281.01": {
+        "code": "SOC 281.01",
+        "name": "SOCIAL ANTHROPOLOGY",
+        "credits": 3,
+        "ects": 5.0,
+        "instructor": "ZEYNEP GİZEM HASPOLAT",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "M",
+            "M",
+            "T",
+            "T",
+            "Th",
+            "Th"
+        ],
+        "hours": [
+            "3",
+            "4",
+            "3",
+            "4",
+            "3",
+            "4"
+        ]
+    },
+    "SOC342.01": {
+        "code": "SOC 342.01",
+        "name": "POLITICAL SOCIOLOGY",
+        "credits": 3,
+        "ects": 6.0,
+        "instructor": "EMRAH IRZIK",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "T",
+            "T",
+            "W",
+            "W",
+            "Th",
+            "Th"
+        ],
+        "hours": [
+            "1",
+            "2",
+            "1",
+            "2",
+            "1",
+            "2"
+        ]
+    },
+    "SOC344.01": {
+        "code": "SOC 344.01",
+        "name": "STUDIES IN COMPARATIVE HISTORICAL SOC.",
+        "credits": 3,
+        "ects": 6.0,
+        "instructor": "EMRAH IRZIK",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "T",
+            "T",
+            "W",
+            "W",
+            "Th",
+            "Th"
+        ],
+        "hours": [
+            "5",
+            "6",
+            "5",
+            "6",
+            "5",
+            "6"
+        ]
+    },
+    "SOC471.01": {
+        "code": "SOC 471.01",
+        "name": "ADV..ISS.IN SOC.THEORY",
+        "credits": 3,
+        "ects": 6.0,
+        "instructor": "ZEYNEP GİZEM HASPOLAT",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "M",
+            "M",
+            "T",
+            "T",
+            "Th",
+            "Th"
+        ],
+        "hours": [
+            "7",
+            "8",
+            "7",
+            "8",
+            "7",
+            "8"
+        ]
+    },
+    "SOC481.01": {
+        "code": "SOC 481.01",
+        "name": "ISSUES IN CONTEMPORARY ANTROPOLOGY II",
+        "credits": 3,
+        "ects": 6.0,
+        "instructor": "KAAN KUBİLAY AŞAR",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "T",
+            "T",
+            "W",
+            "W",
+            "Th",
+            "Th"
+        ],
+        "hours": [
+            "3",
+            "4",
+            "3",
+            "4",
+            "3",
+            "4"
+        ]
+    },
+    "SOC495.01": {
+        "code": "SOC 495.01",
+        "name": "SPECIALIZATION SEMINAR V",
+        "credits": 3,
+        "ects": 6.0,
+        "instructor": "EMRE KESER",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "T",
+            "T",
+            "W",
+            "W",
+            "Th",
+            "Th"
+        ],
+        "hours": [
+            "5",
+            "6",
+            "5",
+            "6",
+            "5",
+            "6"
+        ]
+    },
+    "SPA102.01": {
+        "code": "SPA 102.01",
+        "name": "ELEMENTARY SPANISH II",
+        "credits": 3,
+        "ects": 7.0,
+        "instructor": "NATALIA DEMİRKAPILI",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "M",
+            "M",
+            "M",
+            "T",
+            "T",
+            "W",
+            "W",
+            "W",
+            "Th",
+            "Th",
+            "F",
+            "F"
+        ],
+        "hours": [
+            "4",
+            "5",
+            "6",
+            "4",
+            "5",
+            "4",
+            "5",
+            "6",
+            "4",
+            "5",
+            "3",
+            "4"
+        ]
+    },
+    "TK221.01": {
+        "code": "TK 221.01",
+        "name": "TURKISH FOR NATIVE SPEAKERS I",
+        "credits": 2,
+        "ects": 3.0,
+        "instructor": "KABİL DEMİRKIRAN",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "T",
+            "T",
+            "Th",
+            "Th"
+        ],
+        "hours": [
+            "1",
+            "2",
+            "1",
+            "2"
+        ]
+    },
+    "TK221.02": {
+        "code": "TK 221.02",
+        "name": "TURKISH FOR NATIVE SPEAKERS I",
+        "credits": 2,
+        "ects": 3.0,
+        "instructor": "KABİL DEMİRKIRAN",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "T",
+            "T",
+            "Th",
+            "Th"
+        ],
+        "hours": [
+            "3",
+            "4",
+            "3",
+            "4"
+        ]
+    },
+    "TK221.03": {
+        "code": "TK 221.03",
+        "name": "TURKISH FOR NATIVE SPEAKERS I",
+        "credits": 2,
+        "ects": 3.0,
+        "instructor": "KABİL DEMİRKIRAN",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "T",
+            "T",
+            "Th",
+            "Th"
+        ],
+        "hours": [
+            "7",
+            "8",
+            "7",
+            "8"
+        ]
+    },
+    "TK221.04": {
+        "code": "TK 221.04",
+        "name": "TURKISH FOR NATIVE SPEAKERS I",
+        "credits": 2,
+        "ects": 3.0,
+        "instructor": "GÖKHAN REYHANOĞULLARI",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "M",
+            "M",
+            "T",
+            "T"
+        ],
+        "hours": [
+            "3",
+            "4",
+            "3",
+            "4"
+        ]
+    },
+    "TK221.05": {
+        "code": "TK 221.05",
+        "name": "TURKISH FOR NATIVE SPEAKERS I",
+        "credits": 2,
+        "ects": 3.0,
+        "instructor": "GÖKHAN REYHANOĞULLARI",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "M",
+            "M",
+            "T",
+            "T"
+        ],
+        "hours": [
+            "5",
+            "6",
+            "5",
+            "6"
+        ]
+    },
+    "TK221.06": {
+        "code": "TK 221.06",
+        "name": "TURKISH FOR NATIVE SPEAKERS I",
+        "credits": 2,
+        "ects": 3.0,
+        "instructor": "ATANUR MEMİŞ",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "T",
+            "T",
+            "Th",
+            "Th"
+        ],
+        "hours": [
+            "1",
+            "2",
+            "1",
+            "2"
+        ]
+    },
+    "TK221.07": {
+        "code": "TK 221.07",
+        "name": "TURKISH FOR NATIVE SPEAKERS I",
+        "credits": 2,
+        "ects": 3.0,
+        "instructor": "İBRAHİM TOPAL",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "M",
+            "M",
+            "T",
+            "T"
+        ],
+        "hours": [
+            "1",
+            "2",
+            "1",
+            "2"
+        ]
+    },
+    "TK221.08": {
+        "code": "TK 221.08",
+        "name": "TURKISH FOR NATIVE SPEAKERS I",
+        "credits": 2,
+        "ects": 3.0,
+        "instructor": "ZUHAL İBİDAN",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "M",
+            "M",
+            "T",
+            "T"
+        ],
+        "hours": [
+            "3",
+            "4",
+            "3",
+            "4"
+        ]
+    },
+    "TK221.09": {
+        "code": "TK 221.09",
+        "name": "TURKISH FOR NATIVE SPEAKERS I",
+        "credits": 2,
+        "ects": 3.0,
+        "instructor": "ZUHAL İBİDAN",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "M",
+            "M",
+            "T",
+            "T"
+        ],
+        "hours": [
+            "5",
+            "6",
+            "5",
+            "6"
+        ]
+    },
+    "TK221.10": {
+        "code": "TK 221.10",
+        "name": "TURKISH FOR NATIVE SPEAKERS I",
+        "credits": 2,
+        "ects": 3.0,
+        "instructor": "İLHAN SÜZGÜN",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "M",
+            "M",
+            "T",
+            "T"
+        ],
+        "hours": [
+            "3",
+            "4",
+            "3",
+            "4"
+        ]
+    },
+    "TK221.11": {
+        "code": "TK 221.11",
+        "name": "TURKISH FOR NATIVE SPEAKERS I",
+        "credits": 2,
+        "ects": 3.0,
+        "instructor": "İLHAN SÜZGÜN",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "M",
+            "M",
+            "T",
+            "T"
+        ],
+        "hours": [
+            "5",
+            "6",
+            "5",
+            "6"
+        ]
+    },
+    "TK222.01": {
+        "code": "TK 222.01",
+        "name": "TURKISH FOR NATIVE SPEAKERS II",
+        "credits": 2,
+        "ects": 3.0,
+        "instructor": "HÜLYA BULUT",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "W",
+            "W",
+            "Th",
+            "Th"
+        ],
+        "hours": [
+            "3",
+            "4",
+            "3",
+            "4"
+        ]
+    },
+    "TK222.02": {
+        "code": "TK 222.02",
+        "name": "TURKISH FOR NATIVE SPEAKERS II",
+        "credits": 2,
+        "ects": 3.0,
+        "instructor": "HÜLYA BULUT",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "W",
+            "W",
+            "Th",
+            "Th"
+        ],
+        "hours": [
+            "5",
+            "6",
+            "5",
+            "6"
+        ]
+    },
+    "TK222.03": {
+        "code": "TK 222.03",
+        "name": "TURKISH FOR NATIVE SPEAKERS II",
+        "credits": 2,
+        "ects": 3.0,
+        "instructor": "İBRAHİM TOPAL",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "M",
+            "M",
+            "T",
+            "T"
+        ],
+        "hours": [
+            "3",
+            "4",
+            "3",
+            "4"
+        ]
+    },
+    "TK222.04": {
+        "code": "TK 222.04",
+        "name": "TURKISH FOR NATIVE SPEAKERS II",
+        "credits": 2,
+        "ects": 3.0,
+        "instructor": "İBRAHİM TOPAL",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "M",
+            "M",
+            "T",
+            "T"
+        ],
+        "hours": [
+            "5",
+            "6",
+            "5",
+            "6"
+        ]
+    },
+    "TK222.05": {
+        "code": "TK 222.05",
+        "name": "TURKISH FOR NATIVE SPEAKERS II",
+        "credits": 2,
+        "ects": 3.0,
+        "instructor": "ATANUR MEMİŞ",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "T",
+            "T",
+            "Th",
+            "Th"
+        ],
+        "hours": [
+            "3",
+            "4",
+            "3",
+            "4"
+        ]
+    },
+    "TK222.06": {
+        "code": "TK 222.06",
+        "name": "TURKISH FOR NATIVE SPEAKERS II",
+        "credits": 2,
+        "ects": 3.0,
+        "instructor": "FATMA AKMAN",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "T",
+            "T",
+            "Th",
+            "Th"
+        ],
+        "hours": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ]
+    },
+    "TK222.07": {
+        "code": "TK 222.07",
+        "name": "TURKISH FOR NATIVE SPEAKERS II",
+        "credits": 2,
+        "ects": 3.0,
+        "instructor": "FATMA AKMAN",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "T",
+            "T",
+            "Th",
+            "Th"
+        ],
+        "hours": [
+            "3",
+            "4",
+            "7",
+            "8"
+        ]
+    },
+    "TK222.08": {
+        "code": "TK 222.08",
+        "name": "TURKISH FOR NATIVE SPEAKERS II",
+        "credits": 2,
+        "ects": 3.0,
+        "instructor": "FATMA AKMAN",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "T",
+            "T",
+            "F",
+            "F"
+        ],
+        "hours": [
+            "7",
+            "8",
+            "3",
+            "4"
+        ]
+    },
+    "TK222.09": {
+        "code": "TK 222.09",
+        "name": "TURKISH FOR NATIVE SPEAKERS II",
+        "credits": 2,
+        "ects": 3.0,
+        "instructor": "FATMA AKMAN",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "Th",
+            "Th",
+            "F",
+            "F"
+        ],
+        "hours": [
+            "1",
+            "2",
+            "5",
+            "6"
+        ]
+    },
+    "TK222.10": {
+        "code": "TK 222.10",
+        "name": "TURKISH FOR NATIVE SPEAKERS II",
+        "credits": 2,
+        "ects": 3.0,
+        "instructor": "ESRA DİCLE",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "Th",
+            "Th",
+            "F",
+            "F"
+        ],
+        "hours": [
+            "3",
+            "4",
+            "3",
+            "4"
+        ]
+    },
+    "TK222.11": {
+        "code": "TK 222.11",
+        "name": "TURKISH FOR NATIVE SPEAKERS II",
+        "credits": 2,
+        "ects": 3.0,
+        "instructor": "ESRA DİCLE",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "Th",
+            "Th",
+            "F",
+            "F"
+        ],
+        "hours": [
+            "5",
+            "6",
+            "5",
+            "6"
+        ]
+    },
+    "TKL101.01": {
+        "code": "TKL 101.01",
+        "name": "OTTOMAN TURKISH I",
+        "credits": 4,
+        "ects": 6.0,
+        "instructor": "FATMA BÜYÜKKARCI YILMAZ",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "M",
+            "M",
+            "T",
+            "T",
+            "W",
+            "W",
+            "Th",
+            "Th"
+        ],
+        "hours": [
+            "7",
+            "8",
+            "7",
+            "8",
+            "7",
+            "8",
+            "7",
+            "8"
+        ]
+    },
+    "TKL102.01": {
+        "code": "TKL 102.01",
+        "name": "OTTOMAN TURKISH II",
+        "credits": 4,
+        "ects": 6.0,
+        "instructor": "MUKADDER GEZEN",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "M",
+            "M",
+            "T",
+            "T",
+            "W",
+            "W",
+            "Th",
+            "Th"
+        ],
+        "hours": [
+            "5",
+            "6",
+            "5",
+            "6",
+            "5",
+            "6",
+            "5",
+            "6"
+        ]
+    },
+    "TKL107.01": {
+        "code": "TKL 107.01",
+        "name": "INTRODUCTION TO TEXTUAL ANALYSIS",
+        "credits": 3,
+        "ects": 5.0,
+        "instructor": "EROL KÖROĞLU",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "T",
+            "T",
+            "W",
+            "W",
+            "Th",
+            "Th"
+        ],
+        "hours": [
+            "5",
+            "6",
+            "5",
+            "6",
+            "5",
+            "6"
+        ]
+    },
+    "TKL204.01": {
+        "code": "TKL 204.01",
+        "name": "GENRES IN DIVAN LITERATURE",
+        "credits": 3,
+        "ects": 6.0,
+        "instructor": "FATMA BÜYÜKKARCI YILMAZ",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "T",
+            "T",
+            "W",
+            "W",
+            "Th",
+            "Th"
+        ],
+        "hours": [
+            "5",
+            "6",
+            "5",
+            "6",
+            "5",
+            "6"
+        ]
+    },
+    "TKL211.01": {
+        "code": "TKL 211.01",
+        "name": "MODERNIZATION IN TURKISH LITERATURE I",
+        "credits": 3,
+        "ects": 6.0,
+        "instructor": "EROL KÖROĞLU",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "T",
+            "T",
+            "W",
+            "W",
+            "Th",
+            "Th"
+        ],
+        "hours": [
+            "3",
+            "4",
+            "3",
+            "4",
+            "3",
+            "4"
+        ]
+    },
+    "TKL215.01": {
+        "code": "TKL 215.01",
+        "name": "OTTOMAN PALEOGRAPHY I",
+        "credits": 3,
+        "ects": 5.0,
+        "instructor": "MUKADDER GEZEN",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "T",
+            "T",
+            "W",
+            "W",
+            "Th",
+            "Th"
+        ],
+        "hours": [
+            "8",
+            "9",
+            "8",
+            "9",
+            "8",
+            "9"
+        ]
+    },
+    "TKL216.01": {
+        "code": "TKL 216.01",
+        "name": "OTTOMAN PALEOGRAPHY II",
+        "credits": 3,
+        "ects": 6.0,
+        "instructor": "İSA UĞURLU",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "M",
+            "M",
+            "M",
+            "Th",
+            "Th",
+            "Th"
+        ],
+        "hours": [
+            "5",
+            "6",
+            "7",
+            "5",
+            "6",
+            "7"
+        ]
+    },
+    "TKL48V.01": {
+        "code": "TKL 48V.01",
+        "name": "SP.TP.WRITING AND RESISTANCE IN THE MIDDLE EAST",
+        "credits": 3,
+        "ects": 6.0,
+        "instructor": "SELEN ERDOĞAN",
+        "requiredForDept": [
+            "Info"
+        ],
+        "days": [
+            "T",
+            "T",
+            "T",
+            "Th",
+            "Th",
+            "Th"
+        ],
+        "hours": [
+            "1",
+            "2",
+            "3",
+            "1",
+            "2",
+            "3"
+        ]
+    }
+}

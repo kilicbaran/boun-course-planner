@@ -118,14 +118,21 @@
   body, :global(body) {
     background: #18181b; /* Tailwind zinc-900 */
   }
+  .planner-flex {
+    display: flex;
+    align-items: flex-start;
+    gap: 2rem;
+    flex-wrap: wrap;
+    width: 100%;
+  }
   table {
     border-collapse: collapse;
     width: 60%;
-    margin-left: 0;
-    margin-right: 0;
+    min-width: 320px;
+    max-width: 700px;
     font-size: 0.95em;
-    background: #18181b; /* dark background */
-    color: #e5e7eb;      /* Tailwind zinc-200 */
+    background: #18181b;
+    color: #e5e7eb;
   }
   th, td {
     border: 0.3px solid #3f3f46; /* Tailwind zinc-700 */
@@ -253,11 +260,45 @@
     margin-bottom: 0;
     white-space: nowrap;
   }
-  .planner-flex {
-    display: flex;
-    align-items: flex-start;
-    gap: 2rem;
+  @media (max-width: 900px) {
+    .planner-flex {
+      flex-direction: column;
+      gap: 1rem;
+    }
+    table, .planner-flex > div {
+      width: 100%;
+      min-width: 0;
+      max-width: 100%;
+    }
+    th, td {
+      font-size: 0.95em;
+      min-width: 32px;
+      height: 32px;
+      padding: 0;
+    }
+    .conflict-tolerance-container {
+      font-size: 0.95em;
+      padding: 0.2rem 0.4rem;
+    }
   }
+  @media (max-width: 600px) {
+    table, .planner-flex > div {
+      width: 100%;
+      min-width: 0;
+      max-width: 100%;
+    }
+    th, td {
+      font-size: 0.85em;
+      min-width: 24px;
+      height: 28px;
+      padding: 0;
+    }
+    .conflict-tolerance-container {
+      font-size: 0.85em;
+      padding: 0.1rem 0.2rem;
+    }
+  }
+  /* ...rest of your styles... */
 </style>
 
 <div class="planner-flex">
