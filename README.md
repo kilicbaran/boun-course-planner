@@ -1,10 +1,14 @@
 # BOUN Course Planner
 
-Course schedule planning tool for Boğaziçi University
+Modified Version of Baran Kılıç's Course Scheduling Tool
 
 ## Features
 
 * Course search
+* Time Constraints
+* Conflict Constraints
+* Minimum Credit Constraint
+* Maximum Grade Constraint
 * Supports Lab and PS hours
 * Shows all the necessary info about courses
 * Shows individual and total credits of selected courses
