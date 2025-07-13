@@ -17,6 +17,20 @@ export const hoveredCourse = createHoveredCourse();
 export const isMobile = readable(/iPhone|iPad|iPod|Android/i.test(navigator.userAgent));
 export const selectedCourseNamesAll = createSelectedCourseNamesAll(); // selected course names for all semesters
 //export const selectedCourseNames = createSelectedCourseNames();
+export const selectedTimes = writable(new Set());
+export const conflictTolerance = writable(0);
+export const showUnknownHours = writable(false);
+export const minCredits = writable(0);
+export const maxGrade = writable(6);
+
+// Initialize all times as selected (helper function)
+export function initializeSelectedTimes(days, hours) {
+	selectedTimes.set(
+		new Set(
+			days.flatMap(day => hours.map(hour => `${day}-${hour}`))
+		)
+	);
+}
 
 function createHoveredCourse() {
     const { subscribe, set, update } = writable("");
