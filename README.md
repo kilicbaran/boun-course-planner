@@ -51,3 +51,8 @@ npm install
    ```sh
    npm run dev -- --open
    ```
+
+# Contribution
+
+You can use the scraper tool to get the data necessary for the website if it falls behind and make a push request.
+https://github.com/mil3ri/boun_course_scraper
