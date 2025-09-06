@@ -1,7 +1,7 @@
 <script lang="ts">
   import Course from "./Course.svelte";
   import Footer from "./Footer.svelte";
-  import IconSearch from "./IconSearch.svelte";
+  import IconSearch from "./icons/IconSearch.svelte";
   import {
     getSearchedCourseNames,
     getSelectedCourseNames,
@@ -30,7 +30,7 @@
 
   <input
     bind:this={input}
-    class="pl-10 py-1 px-2 w-full dark:text-white dark:bg-zinc-800 placeholder-zinc-500 dark:placeholder-zinc-300 focus:outline-hidden focus:ring-2 focus:ring-blue-500 antialiased"
+    class="pl-10 py-1 px-2 w-full bg-white dark:text-white dark:bg-zinc-800 placeholder-zinc-500 dark:placeholder-zinc-300 focus:outline-hidden focus:ring-2 focus:ring-blue-500 antialiased"
     type="text"
     value={getSearchQuery()}
     oninput={(e) =>

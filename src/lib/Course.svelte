@@ -1,7 +1,7 @@
 <script lang="ts">
-  import IconPlus from "./IconPlus.svelte";
-  import IconMinus from "./IconMinus.svelte";
-  import IconDocument from "./IconDocument.svelte";
+  import IconPlus from "./icons/IconPlus.svelte";
+  import IconMinus from "./icons/IconMinus.svelte";
+  import IconDocument from "./icons/IconDocument.svelte";
   import {
     getSelectedCourseNames,
     getCurSemesterData,

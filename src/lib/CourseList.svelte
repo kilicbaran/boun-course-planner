@@ -6,7 +6,7 @@
     delCourse,
     resetHoveredCourse,
   } from "./globalState.svelte";
-  import IconX from "./IconX.svelte";
+  import IconX from "./icons/IconX.svelte";
   import Footer from "./Footer.svelte";
 
   const courseCount = $derived(

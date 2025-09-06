@@ -8,7 +8,7 @@
     setSemesterDataForSemester,
   } from "./globalState.svelte";
   import { onMount } from "svelte";
-  import IconSelector from "./IconSelector.svelte";
+  import IconSelector from "./icons/IconSelector.svelte";
 
   let semesters: string[] = $state([]);
 
