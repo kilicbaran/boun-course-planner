@@ -7,6 +7,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Added
+
+- New course data
+
+### Changes
+
+- Update dependencies
+
 ## [1.1.0] - 2022-04-04
 
 ### Added
@@ -39,7 +47,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 
-- Dark theme. 
+- Dark theme.
 
 ### Changed
 

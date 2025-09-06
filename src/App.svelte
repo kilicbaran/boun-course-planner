@@ -1,4 +1,4 @@
-<script>
+<script lang="ts">
   import Header from "./lib/Header.svelte";
   import CourseCatalogue from "./lib/CourseCatalogue.svelte";
   import Timetable from "./lib/Timetable.svelte";
@@ -25,11 +25,3 @@
 </main>
 
 <GoogleAnalytics />
-
-<!-- 
-  TODO
-  - maybe show quota page?
-  - add search by day-hour, credit
-  - add description modal for hours, rooms
-  - export timetable as image
- -->

@@ -1,22 +1,20 @@
-<script>
+<script lang="ts">
   import Course from "./Course.svelte";
   import Footer from "./Footer.svelte";
   import IconSearch from "./IconSearch.svelte";
   import {
-    searchQuery,
-    searchedCourseNames,
-    selectedCourseNames,
-    hoveredCourse,
-    currentSemester,
-    curSemesterData,
-    curSemCategories,
-  } from "./stores.js";
+    getSearchedCourseNames,
+    getSelectedCourseNames,
+    getCurSemesterData,
+    getCurSemCategories,
+    getSearchQuery,
+    getCurrentSemester,
+  } from "./globalState.svelte";
+  import { setHoveredCourse, setSearchQuery } from "./globalState.svelte";
 
-  // import VirtualList from '@sveltejs/svelte-virtual-list';
+  let input: HTMLInputElement;
 
-  let input;
-
-  function blurOnEnter(e) {
+  function blurOnEnter(e: KeyboardEvent) {
     if (e.code === "Enter") {
       input.blur();
     }
@@ -32,61 +30,50 @@
 
   <input
     bind:this={input}
-    class="pl-10 py-1 px-2 w-full   dark:text-white dark:bg-zinc-800 placeholder-zinc-500 dark:placeholder-zinc-300 focus:outline-none focus:ring-2 focus:ring-blue-500 antialiased"
+    class="pl-10 py-1 px-2 w-full dark:text-white dark:bg-zinc-800 placeholder-zinc-500 dark:placeholder-zinc-300 focus:outline-hidden focus:ring-2 focus:ring-blue-500 antialiased"
     type="text"
-    bind:value={$searchQuery}
+    value={getSearchQuery()}
+    oninput={(e) =>
+      setSearchQuery((e.currentTarget as HTMLInputElement).value ?? "")}
     placeholder="Search courses"
     autocomplete="off"
     autocorrect="off"
     autocapitalize="none"
     spellcheck="false"
-    on:keyup={blurOnEnter}
+    onkeyup={blurOnEnter}
   />
 </div>
 
-{#if $searchedCourseNames.length > 0}
+{#if getSearchedCourseNames().length > 0}
   <div
-    class="mt-4 md:overflow-y-auto overflow-x-hidden flex flex-col md:min-h-0  shrink shadow rounded-lg bg-white dark:bg-zinc-800 divide-y dark:divide-zinc-500"
-    on:mouseleave={() => hoveredCourse.set("")}
+    class="mt-4 md:overflow-y-auto overflow-x-hidden flex flex-col md:min-h-0 shrink shadow rounded-lg bg-white dark:bg-zinc-800 divide-y divide-gray-200 dark:divide-zinc-500"
+    onmouseleave={() => setHoveredCourse("")}
+    role="list"
   >
-    {#each $searchedCourseNames as courseName, i}
+    {#each getSearchedCourseNames() as courseName, i}
       <Course
         {courseName}
-        course={$curSemesterData[courseName]}
+        course={getCurSemesterData()[courseName]}
         striped={i % 2 == 0}
-        currentSemester={$currentSemester}
-        selected={$selectedCourseNames.includes(courseName)}
+        currentSemester={getCurrentSemester()}
+        selected={getSelectedCourseNames().includes(courseName)}
       />
     {/each}
   </div>
 {/if}
 
-{#if $curSemCategories.length > 0 && $searchQuery == ""}
+{#if getCurSemCategories().length > 0 && getSearchQuery() == ""}
   <div class="mt-4">
-    {#each $curSemCategories as category}
+    {#each getCurSemCategories() as category}
       <button
         class="rounded-full mr-2 mb-2 px-2.5 py-1 text-sm font-semibold bg-white dark:bg-zinc-800 dark:text-white"
-        on:click={() => {
-          $searchQuery = category;
+        onclick={() => {
+          setSearchQuery(category);
         }}>{category}</button
       >
     {/each}
   </div>
 {/if}
-
-<!-- {#if $searchedCourseNames.length > 0}
-    <div class="mt-2 grow shrink min-h-0 shadow rounded-lg bg-white divide-y overflow-hidden">
-        <VirtualList items={$searchedCourseNames} let:item={courseName}>
-            <Course
-                courseName={courseName}
-                course={$curSemesterData[courseName]}
-                striped={2 % 2 == 0}
-                currentSemester={$currentSemester}
-                selected={$selectedCourseNames.includes(courseName)}
-            />
-        </VirtualList>
-    </div>
-{/if} -->
 
 <div class="block md:hidden">
   <Footer />
