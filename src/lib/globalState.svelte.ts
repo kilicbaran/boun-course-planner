@@ -135,6 +135,8 @@ const searchedCourseNames: string[] = $derived.by(() => {
         (key) =>
           regex.test(data[key]["name"]) || regex.test(data[key]["instructor"])
       );
+    } else {
+      courses = Object.keys(data);
     }
   }
   return courses;
