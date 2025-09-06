@@ -90,4 +90,4 @@
   </div>
 </div>
 
-<svelte:window onbeforeunload={saveSelectedCoursesBeforeUnload} />
+<svelte:window onvisibilitychange={saveSelectedCoursesBeforeUnload} />

@@ -83,9 +83,27 @@ export function resetSelectedCourseNamesAll() {
 }
 
 function readSelectedCourseNames() {
-  let selectedCoursesForSemesters =
-    localStorage.getItem("semesterSelCourses2") || "{}";
-  return JSON.parse(selectedCoursesForSemesters);
+  let selectedCoursesForSemesters = localStorage.getItem("semesterSelCourses2");
+  if (!selectedCoursesForSemesters) {
+    return {};
+  }
+
+  let parsedSelectedCoursesForSemesters;
+  try {
+    parsedSelectedCoursesForSemesters = JSON.parse(selectedCoursesForSemesters);
+  } catch (error) {
+    parsedSelectedCoursesForSemesters = {};
+    // Reset storage if corrupted
+    localStorage.setItem("semesterSelCourses2", "{}");
+  }
+
+  if (
+    typeof parsedSelectedCoursesForSemesters !== "object" ||
+    parsedSelectedCoursesForSemesters === null
+  ) {
+    parsedSelectedCoursesForSemesters = {};
+  }
+  return parsedSelectedCoursesForSemesters;
 }
 
 const searchedCourseNames: string[] = $derived.by(() => {
