@@ -59,13 +59,6 @@
       throw new Error(res.statusText);
     }
   });
-
-  function saveSelectedCoursesBeforeUnload() {
-    localStorage.setItem(
-      "semesterSelCourses2",
-      JSON.stringify(getSelectedCourseNamesAll())
-    );
-  }
 </script>
 
 <div class="relative">
@@ -89,5 +82,3 @@
     <IconSelector />
   </div>
 </div>
-
-<svelte:window onvisibilitychange={saveSelectedCoursesBeforeUnload} />

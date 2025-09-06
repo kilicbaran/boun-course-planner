@@ -14,10 +14,6 @@ export function getSemesterData() {
   return semesterData;
 }
 
-export function setSemesterData(value: object) {
-  semesterData = value;
-}
-
 export function setSemesterDataForSemester(semester: string, data: object) {
   semesterData[semester] = data;
 }
@@ -63,6 +59,7 @@ export function addCourse(newCour: string) {
   }
   selectedCourseNamesAll[currentSemester].push(newCour);
   selectedCourseNamesAll[currentSemester].sort();
+  persistSelectedCourseNames();
 }
 
 export function delCourse(delCour: string) {
@@ -72,14 +69,12 @@ export function delCourse(delCour: string) {
   const indexArr = selectedCourseNamesAll[currentSemester].indexOf(delCour);
   selectedCourseNamesAll[currentSemester].splice(indexArr, 1);
   selectedCourseNamesAll[currentSemester].sort();
+  persistSelectedCourseNames();
 }
 
 export function setCourseList(courseList: string[]) {
   selectedCourseNamesAll[currentSemester] = courseList;
-}
-
-export function resetSelectedCourseNamesAll() {
-  selectedCourseNamesAll = {};
+  persistSelectedCourseNames();
 }
 
 function readSelectedCourseNames() {
@@ -104,6 +99,13 @@ function readSelectedCourseNames() {
     parsedSelectedCoursesForSemesters = {};
   }
   return parsedSelectedCoursesForSemesters;
+}
+
+function persistSelectedCourseNames() {
+  localStorage.setItem(
+    "semesterSelCourses2",
+    JSON.stringify(selectedCourseNamesAll)
+  );
 }
 
 const searchedCourseNames: string[] = $derived.by(() => {
