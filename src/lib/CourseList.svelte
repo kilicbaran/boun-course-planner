@@ -8,6 +8,7 @@
   } from "./globalState.svelte";
   import IconX from "./icons/IconX.svelte";
   import Footer from "./Footer.svelte";
+  import CalendarExport from "./CalendarExport.svelte";
 
   const courseCount = $derived(
     getSelectedCourseNames().filter(
@@ -96,6 +97,9 @@
     class="py-2 px-4 bg-zinc-50 dark:bg-zinc-700 text-green-700 dark:text-green-300 font-medium"
   >
     Total Credits: {totalCredit}
+  </div>
+  <div class="py-2 px-4 bg-zinc-50 dark:bg-zinc-700">
+    <CalendarExport />
   </div>
 </div>
 
