@@ -9,9 +9,11 @@
     getCurSemCategories,
     getSearchQuery,
     getCurrentSemester,
+    getIsDayHourFilterApplied,
   } from "./globalState.svelte";
   import { setHoveredCourse, setSearchQuery } from "./globalState.svelte";
   import { onMount } from "svelte";
+  import CourseFilters from "./CourseFilters.svelte";
 
   let input: HTMLInputElement;
   let courseCatalogue: HTMLDivElement | null = $state(null);
@@ -35,6 +37,7 @@
   );
 
   let isLargeScreen = $state(false);
+  let isExpanded = $state(true);
 
   function loadMore() {
     if (isLoading || !hasMorePages) return;
@@ -98,44 +101,68 @@
   });
 </script>
 
-<div class="grow-0 shrink-0 relative w-full shadow rounded-lg overflow-hidden">
-  <div
-    class="text-zinc-400 dark:text-zinc-300 absolute top-1/2 transform -translate-y-1/2 left-3"
-  >
-    <IconSearch />
+<div class="grow-0 shrink-0 w-full flex items-center">
+  <div class="relative shadow rounded-lg overflow-hidden grow">
+    <div
+      class="text-zinc-400 dark:text-zinc-300 absolute top-1/2 transform -translate-y-1/2 left-3"
+    >
+      <IconSearch />
+    </div>
+
+    <form onsubmit={searchFormSubmit}>
+      <input
+        bind:this={input}
+        class="pl-10 py-1 px-2 w-full bg-white dark:text-white dark:bg-zinc-800 placeholder-zinc-500 dark:placeholder-zinc-300 focus:outline-hidden focus:ring-2 focus:ring-blue-500 antialiased"
+        type="text"
+        value={getSearchQuery()}
+        oninput={(e) => {
+          setSearchQuery((e.currentTarget as HTMLInputElement).value ?? "");
+          page = 1;
+        }}
+        placeholder="Search courses"
+        autocomplete="off"
+        autocorrect="off"
+        autocapitalize="none"
+        spellcheck="false"
+        enterkeyhint="search"
+        onkeyup={blurOnEnter}
+      />
+    </form>
   </div>
 
-  <form onsubmit={searchFormSubmit}>
-    <input
-      bind:this={input}
-      class="pl-10 py-1 px-2 w-full bg-white dark:text-white dark:bg-zinc-800 placeholder-zinc-500 dark:placeholder-zinc-300 focus:outline-hidden focus:ring-2 focus:ring-blue-500 antialiased"
-      type="text"
-      value={getSearchQuery()}
-      oninput={(e) => {
-        setSearchQuery((e.currentTarget as HTMLInputElement).value ?? "");
-        page = 1;
-      }}
-      placeholder="Search courses"
-      autocomplete="off"
-      autocorrect="off"
-      autocapitalize="none"
-      spellcheck="false"
-      enterkeyhint="search"
-      onkeyup={blurOnEnter}
-    />
-  </form>
+  <CourseFilters />
 </div>
 
-{#if getCurSemCategories().length > 0 && getSearchQuery() == ""}
-  <div class="mt-4">
-    {#each getCurSemCategories() as category}
+{#if getCurSemCategories().length > 0 && getSearchQuery() == "" && getIsDayHourFilterApplied() == false}
+  <div class="mt-4 relative">
+    <div
+      class={{
+        "h-[32px] overflow-hidden": !isExpanded,
+        "pb-7": isExpanded,
+        'transition-all duration-200"': true,
+      }}
+    >
+      {#each getCurSemCategories() as category}
+        <button
+          class="rounded-full mr-2 mb-2 px-2.5 py-1 text-sm font-semibold bg-white dark:bg-zinc-800 dark:text-white"
+          onclick={() => {
+            setSearchQuery(category);
+          }}>{category}</button
+        >
+      {/each}
+    </div>
+    {#if getCurSemCategories().length > 5}
       <button
-        class="rounded-full mr-2 mb-2 px-2.5 py-1 text-sm font-semibold bg-white dark:bg-zinc-800 dark:text-white"
-        onclick={() => {
-          setSearchQuery(category);
-        }}>{category}</button
+        class={{
+          "absolute left-1/2 -translate-x-1/2 rounded-full shadow px-2.5 py-1 bg-white dark:bg-zinc-800 dark:text-white": true,
+          "translate-y-1/2 bottom-4": isExpanded,
+          "bottom-0": !isExpanded,
+        }}
+        onclick={() => (isExpanded = !isExpanded)}
       >
-    {/each}
+        {isExpanded ? "Show less ▲" : "Show more ▼"}
+      </button>
+    {/if}
   </div>
 {/if}
 

@@ -130,7 +130,7 @@
       {#if selected}
         <button
           type="button"
-          class="bg-red-100 hover:bg-red-200 text-red-600 hover:text-red-800 dark:bg-red-900 dark:hover:bg-red-800 dark:text-red-400 dark:hover:text-red-200 p-2 text-center"
+          class="bg-red-100 hover:bg-red-200 text-red-600 hover:text-red-800 dark:bg-red-900 dark:hover:bg-red-800 dark:text-red-400 dark:hover:text-red-200 p-2 text-center cursor-pointer"
           onclick={() => delCourse(courseName)}
         >
           <IconMinus />
@@ -138,7 +138,7 @@
       {:else}
         <button
           type="button"
-          class="bg-green-100 hover:bg-green-200 text-green-600 hover:text-green-800 dark:bg-green-900 dark:hover:bg-green-800 dark:text-green-400 dark:hover:text-green-200 p-2 text-center"
+          class="bg-green-100 hover:bg-green-200 text-green-600 hover:text-green-800 dark:bg-green-900 dark:hover:bg-green-800 dark:text-green-400 dark:hover:text-green-200 p-2 text-center cursor-pointer"
           onclick={() => addCourse(courseName)}
         >
           <IconPlus />

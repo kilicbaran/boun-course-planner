@@ -108,38 +108,106 @@ function persistSelectedCourseNames() {
   );
 }
 
+let selectedDayHourFilter: boolean[][] = $state(initSelectedDayHourFilter());
+
+function initSelectedDayHourFilter(): boolean[][] {
+  const days = ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat"];
+  const hours = Array.from({ length: 14 }, (_, i) => i + 9); // 9..22 inclusive
+
+  // selection state: rows = days, cols = hours
+  return days.map(() => new Array(hours.length).fill(true));
+}
+
+export function getSelectedDayHourFilter() {
+  return selectedDayHourFilter;
+}
+
+export function setSelectedDayHourFilter(value: boolean[][]) {
+  selectedDayHourFilter = value;
+}
+
+let showCoursesWithoutSchedule = $state(true); // Whether to show courses without schedule info
+
+export function getShowCoursesWithoutSchedule() {
+  return showCoursesWithoutSchedule;
+}
+
+export function setShowCoursesWithoutSchedule(value: boolean) {
+  showCoursesWithoutSchedule = value;
+}
+
+const isDayHourFilterApplied = $derived.by(() => {
+  return selectedDayHourFilter.some((day) => day.some((val) => !val));
+});
+
+export function getIsDayHourFilterApplied() {
+  return isDayHourFilterApplied;
+}
+
 const searchedCourseNames: string[] = $derived.by(() => {
-  if (currentSemester == "" || !(currentSemester in semesterData)) {
+  if (!currentSemester || !semesterData[currentSemester]) {
     return [];
   }
 
-  let data = semesterData[currentSemester];
-  if (Object.keys(data).length === 0) {
+  const data = semesterData[currentSemester];
+  const allCourseEntries = Object.entries(data);
+
+  if (allCourseEntries.length === 0) {
     return [];
   }
 
-  let regexString = searchQuery
+  // Perform search filtering
+  const regexString = searchQuery
     .trim()
     .split(" ")
     .filter((str) => str.length >= 2)
     .join("|");
-  let courses: string[] = [];
-  if (regexString != "") {
-    const regex = new RegExp(regexString, "i"); // i: case insensitive
-    courses = Object.keys(data).filter((key) => regex.test(key));
-  }
-  if (courses.length == 0) {
-    if (regexString != "") {
-      const regex = new RegExp(regexString, "i"); // i: case insensitive
-      courses = Object.keys(data).filter(
-        (key) =>
-          regex.test(data[key]["name"]) || regex.test(data[key]["instructor"])
+
+  let searchedCourses: [string, any][];
+
+  if (regexString) {
+    const regex = new RegExp(regexString, "i");
+
+    // First, try searching by the course code (the object key)
+    searchedCourses = allCourseEntries.filter(([courseName, _]) =>
+      regex.test(courseName)
+    );
+
+    // If no results, fall back to searching the full name and instructor
+    if (searchedCourses.length === 0) {
+      searchedCourses = allCourseEntries.filter(
+        ([_, courseInfo]: [string, any]) =>
+          regex.test(courseInfo.name) || regex.test(courseInfo.instructor)
       );
-    } else {
-      courses = Object.keys(data);
     }
+  } else {
+    // If no search query, all courses are included
+    searchedCourses = allCourseEntries;
   }
-  return courses;
+
+  // Apply day/hour filter on the *already filtered* search results
+  const finalFilteredCourses = isDayHourFilterApplied
+    ? searchedCourses.filter(([_, courseInfo]) => {
+        if (!courseInfo.days || !courseInfo.hours) {
+          return showCoursesWithoutSchedule;
+        }
+
+        // Use .every() to ensure ALL of the course's time slots fit the filter.
+        return courseInfo.days.every((day: string, i: number) => {
+          const hour = courseInfo.hours[i];
+          const dayIdx = ["M", "T", "W", "Th", "F", "St"].indexOf(day);
+          const hourIdx = hour - 1;
+
+          // Ensure indices are valid before checking the filter array
+          if (dayIdx === -1 || hourIdx < 0) return false;
+
+          return selectedDayHourFilter[dayIdx][hourIdx];
+        });
+      })
+    : searchedCourses; // If filter is off, just use the search results
+
+  // Return only the course names (the keys)
+  return finalFilteredCourses.map(([courseName, _]) => courseName);
 });
 
 export function getSearchedCourseNames() {
