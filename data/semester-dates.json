@@ -1,0 +1,18 @@
+{
+    "2025-2026-1": {
+        "start": "2025-09-22",
+        "end": "2025-12-19",
+        "holidays": [
+            {
+                "date": "2025-10-28",
+                "name": "Cumhuriyet Bayramı (Yarım Gün)",
+                "timeType": "after",
+                "time": "13:00"
+            },
+            {
+                "date": "2025-10-29",
+                "name": "Cumhuriyet Bayramı"
+            }
+        ]
+    }
+}
