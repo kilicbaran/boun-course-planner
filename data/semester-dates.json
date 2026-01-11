@@ -14,5 +14,57 @@
                 "name": "Cumhuriyet Bayramı"
             }
         ]
+    },
+    "2025-2026-2": {
+        "start": "2026-02-09",
+        "end": "2026-05-15",
+        "holidays": [
+            {
+                "date": "2026-03-19",
+                "name": "Ramazan Bayramı Arife (Yarım Gün)",
+                "timeType": "after",
+                "time": "13:00"
+            },
+            {
+                "date": "2026-03-20",
+                "name": "Ramazan Bayramı"
+            },
+            {
+                "date": "2026-03-21",
+                "name": "Ramazan Bayramı"
+            },
+            {
+                "date": "2026-03-22",
+                "name": "Ramazan Bayramı"
+            },
+            {
+                "date": "2026-04-20",
+                "name": "Bahar Tatili"
+            },
+            {
+                "date": "2026-04-21",
+                "name": "Bahar Tatili"
+            },
+            {
+                "date": "2026-04-22",
+                "name": "Bahar Tatili"
+            },
+            {
+                "date": "2026-04-23",
+                "name": "Bahar Tatili"
+            },
+            {
+                "date": "2026-04-24",
+                "name": "Bahar Tatili"
+            },
+            {
+                "date": "2026-04-23",
+                "name": "Ulusal Egemenlik ve Çocuk Bayramı"
+            },
+            {
+                "date": "2026-05-01",
+                "name": "Emek ve Dayanışma Günü"
+            }
+        ]
     }
 }
