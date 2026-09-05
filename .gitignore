@@ -5,3 +5,7 @@
 # local env files
 .env.local
 .env.*.local
+
+#python
+.venv
+__pycache__
